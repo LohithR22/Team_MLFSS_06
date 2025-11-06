@@ -1,0 +1,100 @@
+# ==========================
+# Python / Streamlit Project
+# ==========================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Streamlit cache and logs
+.streamlit/
+.streamlit/secrets.toml
+.streamlit/config.toml
+.streamlit/cache/
+.streamlit/static/
+
+# Virtual environment
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# OS and IDE junk
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.old
+*.pid
+
+# Test and coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# Jupyter / Colab notebooks
+.ipynb_checkpoints
+*.ipynb~
+*.nbconvert.ipynb
+
+# Environment / config files (secrets)
+.env
+.env.local
+.env.*.local
+*.env
+
+# OSRM / OSM cache or data (if you download map tiles)
+data/
+maps/
+*.osm
+*.pbf
+*.sqlite
+
+# PyInstaller
+*.spec
+
+# Backup files
+*~
+
+# VS Code settings
+.vscode/
+.history/
+
+# ==========================
+# End of .gitignore
+# ==========================
