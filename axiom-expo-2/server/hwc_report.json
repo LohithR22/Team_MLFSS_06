@@ -1,0 +1,232 @@
+{
+  "metadata": {
+    "generated_at": "2025-11-07T01:13:49.956437",
+    "source_url": "https://nhsrcindia.org/AB-HWCs-map-table",
+    "version": "1.0"
+  },
+  "service_packages": {
+    "title": "Core Service Mandate (Free Healthcare & Wellness)",
+    "description": "Essential, comprehensive primary care packages guaranteed free of cost at every operational Ayushman Arogya Mandir (HWC)",
+    "cards": [
+      {
+        "id": "free-medicines",
+        "title": "Free Essential Medicines",
+        "icon": "💊",
+        "details": [
+          {
+            "level": "Sub-Centre (SHC)",
+            "count": "Approx. 105 Free Essential Medicines"
+          },
+          {
+            "level": "Primary Health Centre (PHC)",
+            "count": "Approx. 171 Free Essential Medicines"
+          }
+        ]
+      },
+      {
+        "id": "diagnostics",
+        "title": "Free Diagnostic Services",
+        "icon": "🔬",
+        "description": "Up to 63 essential diagnostic tests including blood sugar, hemoglobin, etc."
+      },
+      {
+        "id": "services",
+        "title": "Comprehensive Health Services",
+        "icon": "🏥",
+        "services": [
+          {
+            "id": "service-1",
+            "name": "Comprehensive Primary Health Care (CPHC)"
+          },
+          {
+            "id": "service-2",
+            "name": "Free essential medicines and diagnostic services (including 63 diagnostics at PHC level)"
+          },
+          {
+            "id": "service-3",
+            "name": "Maternal and Child Health (MCH) services"
+          },
+          {
+            "id": "service-4",
+            "name": "Screening and basic management for Non-Communicable Diseases (NCDs: Hypertension, Diabetes, 3 common Cancers)"
+          },
+          {
+            "id": "service-5",
+            "name": "Geriatric care and Palliative care services"
+          },
+          {
+            "id": "service-6",
+            "name": "Teleconsultation services (e-Sanjeevani) for specialist access"
+          },
+          {
+            "id": "service-7",
+            "name": "Basic Oral and Eye Health Care"
+          }
+        ]
+      }
+    ]
+  },
+  "state_wise_data": [
+    {
+      "state": "Uttar Pradesh",
+      "operational_hwcs": 30853
+    },
+    {
+      "state": "Rajasthan",
+      "operational_hwcs": 13554
+    },
+    {
+      "state": "Andhra Pradesh",
+      "operational_hwcs": 12874
+    },
+    {
+      "state": "Madhya Pradesh",
+      "operational_hwcs": 12376
+    },
+    {
+      "state": "Maharashtra",
+      "operational_hwcs": 11487
+    },
+    {
+      "state": "Bihar",
+      "operational_hwcs": 11194
+    },
+    {
+      "state": "West Bengal",
+      "operational_hwcs": 10652
+    },
+    {
+      "state": "Karnataka",
+      "operational_hwcs": 10336
+    },
+    {
+      "state": "Gujarat",
+      "operational_hwcs": 10182
+    },
+    {
+      "state": "Tamil Nadu",
+      "operational_hwcs": 8246
+    },
+    {
+      "state": "Odisha",
+      "operational_hwcs": 7520
+    },
+    {
+      "state": "Kerala",
+      "operational_hwcs": 7029
+    },
+    {
+      "state": "Telangana",
+      "operational_hwcs": 6310
+    },
+    {
+      "state": "Chhattisgarh",
+      "operational_hwcs": 5767
+    },
+    {
+      "state": "Assam",
+      "operational_hwcs": 4651
+    },
+    {
+      "state": "Jharkhand",
+      "operational_hwcs": 4321
+    },
+    {
+      "state": "Punjab",
+      "operational_hwcs": 3664
+    },
+    {
+      "state": "Himachal Pradesh",
+      "operational_hwcs": 3639
+    },
+    {
+      "state": "Jammu & Kashmir",
+      "operational_hwcs": 3559
+    },
+    {
+      "state": "Haryana",
+      "operational_hwcs": 2911
+    },
+    {
+      "state": "Uttarakhand",
+      "operational_hwcs": 2537
+    },
+    {
+      "state": "Tripura",
+      "operational_hwcs": 1110
+    },
+    {
+      "state": "Meghalaya",
+      "operational_hwcs": 594
+    },
+    {
+      "state": "Arunachal Pradesh",
+      "operational_hwcs": 475
+    },
+    {
+      "state": "Manipur",
+      "operational_hwcs": 407
+    },
+    {
+      "state": "Mizoram",
+      "operational_hwcs": 407
+    },
+    {
+      "state": "Nagaland",
+      "operational_hwcs": 397
+    },
+    {
+      "state": "Ladakh",
+      "operational_hwcs": 321
+    },
+    {
+      "state": "Goa",
+      "operational_hwcs": 274
+    },
+    {
+      "state": "Sikkim",
+      "operational_hwcs": 195
+    },
+    {
+      "state": "Puducherry",
+      "operational_hwcs": 130
+    },
+    {
+      "state": "Andaman & Nicobar Islands",
+      "operational_hwcs": 129
+    },
+    {
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "operational_hwcs": 93
+    },
+    {
+      "state": "Chandigarh",
+      "operational_hwcs": 49
+    },
+    {
+      "state": "Lakshadweep",
+      "operational_hwcs": 13
+    },
+    {
+      "state": "Delhi",
+      "operational_hwcs": 2
+    }
+  ],
+  "official_links": [
+    {
+      "title": "HWC Operational Data",
+      "url": "https://nhsrcindia.org/AB-HWCs-map-table",
+      "description": "Live data on operational Health and Wellness Centres"
+    },
+    {
+      "title": "Essential Medicine List Guidelines",
+      "url": "https://qps.nhsrcindia.org/node/9906",
+      "description": "NHSRC Essential Medicine List for HWC, SHC & PHC"
+    },
+    {
+      "title": "Ayushman Bharat Digital Mission",
+      "url": "https://abdm.gov.in/",
+      "description": "Official ABDM Portal"
+    }
+  ]
+}

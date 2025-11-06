@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Augmentin",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Augmentin",
+  "timestamp": 1762464058.5082057,
+  "products": [
+    {
+      "index": 1,
+      "name": "Augmentin 625 Duo Tablet 10's",
+      "price": "₹195",
+      "price_value": 195.0,
+      "link": "https://www.apollopharmacy.in/medicine/augmentin-duo-625mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Augmentin DDS Syrup 30 ml",
+      "price": "₹196",
+      "price_value": 196.0,
+      "link": "https://www.apollopharmacy.in/medicine/augmentin-dds-syrup-30ml?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Augmentin 1000 DUO Tablet 10's",
+      "price": "₹620",
+      "price_value": 620.0,
+      "link": "https://www.apollopharmacy.in/medicine/augmentin-duo-1000mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Augmentin 375 Tablet 10's",
+      "price": "₹259.50",
+      "price_value": 259.5,
+      "link": "https://www.apollopharmacy.in/medicine/augmentin-375mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Amoxyclav 625 Tablet 10's",
+      "price": "₹156",
+      "price_value": 156.0,
+      "link": "https://www.apollopharmacy.in/medicine/amoxyclav-625mg-tablet-10-s?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 5,
+    "name": "Amoxyclav 625 Tablet 10's",
+    "price": "₹156",
+    "price_value": 156.0,
+    "link": "https://www.apollopharmacy.in/medicine/amoxyclav-625mg-tablet-10-s?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Augmentin 625 Duo Tablet 10's",
+      "price": "₹195",
+      "price_value": 195.0,
+      "link": "https://www.apollopharmacy.in/medicine/augmentin-duo-625mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Augmentin DDS Syrup 30 ml",
+      "price": "₹196",
+      "price_value": 196.0,
+      "link": "https://www.apollopharmacy.in/medicine/augmentin-dds-syrup-30ml?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Augmentin 1000 DUO Tablet 10's",
+      "price": "₹620",
+      "price_value": 620.0,
+      "link": "https://www.apollopharmacy.in/medicine/augmentin-duo-1000mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Augmentin 375 Tablet 10's",
+      "price": "₹259.50",
+      "price_value": 259.5,
+      "link": "https://www.apollopharmacy.in/medicine/augmentin-375mg-tablet?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

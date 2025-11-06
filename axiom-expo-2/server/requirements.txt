@@ -1,0 +1,10 @@
+folium>=0.20.0
+requests>=2.32.0
+branca>=0.6.0
+pandas
+numpy
+scikit-learn
+sentence-transformers
+tqdm
+pytest
+faiss-cpu

@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Diclofenac",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Diclofenac",
+  "timestamp": 1762462746.3967774,
+  "products": [
+    {
+      "index": 1,
+      "name": "Reactin 50 Tablet 10's",
+      "price": "₹15.75",
+      "price_value": 15.75,
+      "link": "https://www.apollopharmacy.in/medicine/reactin-50mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Diclomol Tablet 10's",
+      "price": "₹105",
+      "price_value": 105.0,
+      "link": "https://www.apollopharmacy.in/medicine/diclomol-tablet?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Diclogel Gel 30 gm",
+      "price": "₹154.50",
+      "price_value": 154.5,
+      "link": "https://www.apollopharmacy.in/otc/diclogel-gel-30gm?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Apollo Pharmacy Pain Relief Gel, 30 gm",
+      "price": "₹75.60",
+      "price_value": 75.6,
+      "link": "https://www.apollopharmacy.in/otc/apollo-pharmacy-pain-relief-gel-30-gm?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Dicloran Injection 5 x 3 ml",
+      "price": "₹26.50",
+      "price_value": 26.5,
+      "link": "https://www.apollopharmacy.in/medicine/dicloran-injection-3ml?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 1,
+    "name": "Reactin 50 Tablet 10's",
+    "price": "₹15.75",
+    "price_value": 15.75,
+    "link": "https://www.apollopharmacy.in/medicine/reactin-50mg-tablet?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 2,
+      "name": "Diclomol Tablet 10's",
+      "price": "₹105",
+      "price_value": 105.0,
+      "link": "https://www.apollopharmacy.in/medicine/diclomol-tablet?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Diclogel Gel 30 gm",
+      "price": "₹154.50",
+      "price_value": 154.5,
+      "link": "https://www.apollopharmacy.in/otc/diclogel-gel-30gm?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Apollo Pharmacy Pain Relief Gel, 30 gm",
+      "price": "₹75.60",
+      "price_value": 75.6,
+      "link": "https://www.apollopharmacy.in/otc/apollo-pharmacy-pain-relief-gel-30-gm?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Dicloran Injection 5 x 3 ml",
+      "price": "₹26.50",
+      "price_value": 26.5,
+      "link": "https://www.apollopharmacy.in/medicine/dicloran-injection-3ml?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

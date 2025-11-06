@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Relentus",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Relentus",
+  "timestamp": 1762462746.5225916,
+  "products": [
+    {
+      "index": 1,
+      "name": "Deletus P Syrup 100 ml",
+      "price": "₹161.50",
+      "price_value": 161.5,
+      "link": "https://www.apollopharmacy.in/medicine/deletus-p-syrup-100ml?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Deletus D Plus Sugar Free Raspberry Syrup 100 ml",
+      "price": "₹143",
+      "price_value": 143.0,
+      "link": "https://www.apollopharmacy.in/medicine/deletus-d-plus-suger-free-raspberry-flavour-syrup-100ml?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Deletus Pearls Capsule 10's",
+      "price": "₹99.50",
+      "price_value": 99.5,
+      "link": "https://www.apollopharmacy.in/medicine/deletus-pearls-capsule-10-s?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Deletus-LS Syrup 100 ml",
+      "price": "₹130.50",
+      "price_value": 130.5,
+      "link": "https://www.apollopharmacy.in/medicine/deletus-ls-syrup-100-ml?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Deletus BL Peppermint Flavour Syrup 100 ml",
+      "price": "₹132",
+      "price_value": 132.0,
+      "link": "https://www.apollopharmacy.in/medicine/deletus-bl-peppermint-flavour-syrup-100-ml?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 3,
+    "name": "Deletus Pearls Capsule 10's",
+    "price": "₹99.50",
+    "price_value": 99.5,
+    "link": "https://www.apollopharmacy.in/medicine/deletus-pearls-capsule-10-s?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Deletus P Syrup 100 ml",
+      "price": "₹161.50",
+      "price_value": 161.5,
+      "link": "https://www.apollopharmacy.in/medicine/deletus-p-syrup-100ml?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Deletus D Plus Sugar Free Raspberry Syrup 100 ml",
+      "price": "₹143",
+      "price_value": 143.0,
+      "link": "https://www.apollopharmacy.in/medicine/deletus-d-plus-suger-free-raspberry-flavour-syrup-100ml?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Deletus-LS Syrup 100 ml",
+      "price": "₹130.50",
+      "price_value": 130.5,
+      "link": "https://www.apollopharmacy.in/medicine/deletus-ls-syrup-100-ml?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Deletus BL Peppermint Flavour Syrup 100 ml",
+      "price": "₹132",
+      "price_value": 132.0,
+      "link": "https://www.apollopharmacy.in/medicine/deletus-bl-peppermint-flavour-syrup-100-ml?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

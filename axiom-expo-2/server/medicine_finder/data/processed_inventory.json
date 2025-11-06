@@ -1,0 +1,2762 @@
+{
+  "MedPlus Rajarajeshwari Nagar": [
+    {
+      "medicine_id": "Augmentin",
+      "medicine_name": "Augmentin",
+      "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+      "price": 225.54,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pan D",
+      "medicine_name": "Pan D",
+      "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+      "price": 197.36,
+      "availability": true
+    },
+    {
+      "medicine_id": "Diclofenac",
+      "medicine_name": "Diclofenac",
+      "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+      "price": 87.74,
+      "availability": true
+    },
+    {
+      "medicine_id": "Omeprozole",
+      "medicine_name": "Omeprozole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.",
+      "price": 55.49,
+      "availability": true
+    },
+    {
+      "medicine_id": "Betaloc",
+      "medicine_name": "Betaloc",
+      "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+      "price": 92.67,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enzoflam",
+      "medicine_name": "Enzoflam",
+      "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+      "price": 131.38,
+      "availability": true
+    },
+    {
+      "medicine_id": "Hexigel gum paint",
+      "medicine_name": "Hexigel gum paint",
+      "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+      "price": 97.16,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultrafen-plus",
+      "medicine_name": "Ultrafen-plus",
+      "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+      "price": 71.17,
+      "availability": true
+    },
+    {
+      "medicine_id": "Relentus",
+      "medicine_name": "Relentus",
+      "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+      "price": 107.89,
+      "availability": true
+    },
+    {
+      "medicine_id": "Progen",
+      "medicine_name": "Progen",
+      "medicine_desc": "Often a brand name for progesterone or a protein supplement.",
+      "price": 250.21,
+      "availability": false
+    },
+    {
+      "medicine_id": "Ultracal-D",
+      "medicine_name": "Ultracal-D",
+      "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+      "price": 182.01,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cartilix",
+      "medicine_name": "Cartilix",
+      "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+      "price": 452.19,
+      "availability": false
+    },
+    {
+      "medicine_id": "Dorzolamidum",
+      "medicine_name": "Dorzolamidum",
+      "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+      "price": 308.7,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cimetidine",
+      "medicine_name": "Cimetidine",
+      "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+      "price": 27.6,
+      "availability": true
+    },
+    {
+      "medicine_id": "Oxprelol",
+      "medicine_name": "Oxprelol",
+      "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+      "price": 117.25,
+      "availability": false
+    },
+    {
+      "medicine_id": "Paracetamol",
+      "medicine_name": "Paracetamol",
+      "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+      "price": 28.85,
+      "availability": true
+    },
+    {
+      "medicine_id": "Atorvastatin",
+      "medicine_name": "Atorvastatin",
+      "medicine_desc": "A statin used to lower cholesterol and triglycerides.",
+      "price": 147.02,
+      "availability": true
+    },
+    {
+      "medicine_id": "Metformin",
+      "medicine_name": "Metformin",
+      "medicine_desc": "An oral medication that helps control blood sugar levels.",
+      "price": 47.28,
+      "availability": true
+    },
+    {
+      "medicine_id": "Amlodipine",
+      "medicine_name": "Amlodipine",
+      "medicine_desc": "A calcium channel blocker used to treat high blood pressure.",
+      "price": 57.4,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cetirizine",
+      "medicine_name": "Cetirizine",
+      "medicine_desc": "An antihistamine used to relieve allergy symptoms.",
+      "price": 34.9,
+      "availability": true
+    },
+    {
+      "medicine_id": "Azithromycin",
+      "medicine_name": "Azithromycin",
+      "medicine_desc": "An antibiotic used to treat a variety of bacterial infections.",
+      "price": 115.14,
+      "availability": true
+    },
+    {
+      "medicine_id": "Montelukast",
+      "medicine_name": "Montelukast",
+      "medicine_desc": "Used to prevent wheezing and difficulty breathing caused by asthma.",
+      "price": 175.11,
+      "availability": true
+    },
+    {
+      "medicine_id": "Losartan",
+      "medicine_name": "Losartan",
+      "medicine_desc": "An ARB used to treat high blood pressure.",
+      "price": 90.24,
+      "availability": false
+    },
+    {
+      "medicine_id": "Sertraline",
+      "medicine_name": "Sertraline",
+      "medicine_desc": "An SSRI antidepressant used to treat depression and anxiety disorders.",
+      "price": 109.22,
+      "availability": true
+    },
+    {
+      "medicine_id": "Esomeprazole",
+      "medicine_name": "Esomeprazole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces stomach acid.",
+      "price": 75.62,
+      "availability": true
+    },
+    {
+      "medicine_id": "Clopidogrel",
+      "medicine_name": "Clopidogrel",
+      "medicine_desc": "An antiplatelet medicine used to prevent blood clots.",
+      "price": 103.45,
+      "availability": true
+    },
+    {
+      "medicine_id": "Levocetirizine",
+      "medicine_name": "Levocetirizine",
+      "medicine_desc": "A newer antihistamine, considered non-drowsy.",
+      "price": 51.33,
+      "availability": true
+    },
+    {
+      "medicine_id": "Domperidone",
+      "medicine_name": "Domperidone",
+      "medicine_desc": "A prokinetic agent used to treat nausea and vomiting.",
+      "price": 39.02,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ibuprofen",
+      "medicine_name": "Ibuprofen",
+      "medicine_desc": "A common NSAID used for pain relief, fever, and inflammation.",
+      "price": 22.18,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pregabalin",
+      "medicine_name": "Pregabalin",
+      "medicine_desc": "Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",
+      "price": 209.31,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tamsulosin",
+      "medicine_name": "Tamsulosin",
+      "medicine_desc": "An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).",
+      "price": 242.14,
+      "availability": true
+    },
+    {
+      "medicine_id": "Fexofenadine",
+      "medicine_name": "Fexofenadine",
+      "medicine_desc": "A non-drowsy antihistamine for seasonal allergies.",
+      "price": 90.74,
+      "availability": false
+    },
+    {
+      "medicine_id": "Glimepiride",
+      "medicine_name": "Glimepiride",
+      "medicine_desc": "A sulfonylurea drug that helps the pancreas produce more insulin.",
+      "price": 71.72,
+      "availability": true
+    },
+    {
+      "medicine_id": "Bisoprolol",
+      "medicine_name": "Bisoprolol",
+      "medicine_desc": "A beta-blocker that affects the heart and circulation.",
+      "price": 79.32,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tacrolimus",
+      "medicine_name": "Tacrolimus",
+      "medicine_desc": "An immunosuppressive drug used to prevent organ rejection after a transplant.",
+      "price": 851.96,
+      "availability": true
+    },
+    {
+      "medicine_id": "Colchicine",
+      "medicine_name": "Colchicine",
+      "medicine_desc": "Used to treat and prevent gout attacks.",
+      "price": 140.5,
+      "availability": true
+    },
+    {
+      "medicine_id": "Phenytoin",
+      "medicine_name": "Phenytoin",
+      "medicine_desc": "An anti-epileptic drug used to control seizures.",
+      "price": 57.73,
+      "availability": true
+    },
+    {
+      "medicine_id": "Isotretinoin",
+      "medicine_name": "Isotretinoin",
+      "medicine_desc": "A powerful vitamin A derivative used to treat severe cystic acne.",
+      "price": 298.79,
+      "availability": false
+    },
+    {
+      "medicine_id": "Allopurinol",
+      "medicine_name": "Allopurinol",
+      "medicine_desc": "Reduces the production of uric acid in the body, preventing gout.",
+      "price": 37.5,
+      "availability": false
+    },
+    {
+      "medicine_id": "Methotrexate",
+      "medicine_name": "Methotrexate",
+      "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+      "price": 151.21,
+      "availability": true
+    },
+    {
+      "medicine_id": "Sofosbuvir",
+      "medicine_name": "Sofosbuvir",
+      "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+      "price": 8001.68,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enoxaparin",
+      "medicine_name": "Enoxaparin",
+      "medicine_desc": "An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.",
+      "price": 452.58,
+      "availability": false
+    },
+    {
+      "medicine_id": "Rituximab",
+      "medicine_name": "Rituximab",
+      "medicine_desc": "A monoclonal antibody used to treat certain autoimmune diseases and cancers.",
+      "price": 39999.43,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ondansetron",
+      "medicine_name": "Ondansetron",
+      "medicine_desc": "An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.",
+      "price": 49.29,
+      "availability": true
+    },
+    {
+      "medicine_id": "Carbamazepine",
+      "medicine_name": "Carbamazepine",
+      "medicine_desc": "An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",
+      "price": 75.59,
+      "availability": false
+    },
+    {
+      "medicine_id": "Latanoprost",
+      "medicine_name": "Latanoprost",
+      "medicine_desc": "Eye drops used to control the progression of glaucoma by reducing intraocular pressure.",
+      "price": 347.49,
+      "availability": true
+    },
+    {
+      "medicine_id": "Mycophenolate",
+      "medicine_name": "Mycophenolate",
+      "medicine_desc": "An immunosuppressant used to prevent organ rejection.",
+      "price": 952.5,
+      "availability": true
+    },
+    {
+      "medicine_id": "Adalimumab",
+      "medicine_name": "Adalimumab",
+      "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+      "price": 14998.45,
+      "availability": true
+    },
+    {
+      "medicine_id": "Acyclovir",
+      "medicine_name": "Acyclovir",
+      "medicine_desc": "An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",
+      "price": 118.68,
+      "availability": true
+    }
+  ],
+  "MedPLus RR Nagar, Kenchenahalli Road": [
+    {
+      "medicine_id": "Augmentin",
+      "medicine_name": "Augmentin",
+      "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+      "price": 226.16,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pan D",
+      "medicine_name": "Pan D",
+      "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+      "price": 199.66,
+      "availability": true
+    },
+    {
+      "medicine_id": "Diclofenac",
+      "medicine_name": "Diclofenac",
+      "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+      "price": 87.14,
+      "availability": true
+    },
+    {
+      "medicine_id": "Omeprozole",
+      "medicine_name": "Omeprozole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.",
+      "price": 53.31,
+      "availability": true
+    },
+    {
+      "medicine_id": "Betaloc",
+      "medicine_name": "Betaloc",
+      "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+      "price": 91.35,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enzoflam",
+      "medicine_name": "Enzoflam",
+      "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+      "price": 131.23,
+      "availability": true
+    },
+    {
+      "medicine_id": "Hexigel gum paint",
+      "medicine_name": "Hexigel gum paint",
+      "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+      "price": 96.76,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultrafen-plus",
+      "medicine_name": "Ultrafen-plus",
+      "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+      "price": 72.78,
+      "availability": false
+    },
+    {
+      "medicine_id": "Relentus",
+      "medicine_name": "Relentus",
+      "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+      "price": 111.17,
+      "availability": true
+    },
+    {
+      "medicine_id": "Progen",
+      "medicine_name": "Progen",
+      "medicine_desc": "Often a brand name for progesterone or a protein supplement.",
+      "price": 249.49,
+      "availability": false
+    },
+    {
+      "medicine_id": "Ultracal-D",
+      "medicine_name": "Ultracal-D",
+      "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+      "price": 181.65,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cartilix",
+      "medicine_name": "Cartilix",
+      "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+      "price": 447.48,
+      "availability": true
+    },
+    {
+      "medicine_id": "Dorzolamidum",
+      "medicine_name": "Dorzolamidum",
+      "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+      "price": 312.68,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cimetidine",
+      "medicine_name": "Cimetidine",
+      "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+      "price": 25.73,
+      "availability": true
+    },
+    {
+      "medicine_id": "Oxprelol",
+      "medicine_name": "Oxprelol",
+      "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+      "price": 120.23,
+      "availability": true
+    },
+    {
+      "medicine_id": "Paracetamol",
+      "medicine_name": "Paracetamol",
+      "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+      "price": 28.74,
+      "availability": true
+    },
+    {
+      "medicine_id": "Atorvastatin",
+      "medicine_name": "Atorvastatin",
+      "medicine_desc": "A statin used to lower cholesterol and triglycerides.",
+      "price": 148.5,
+      "availability": true
+    },
+    {
+      "medicine_id": "Metformin",
+      "medicine_name": "Metformin",
+      "medicine_desc": "An oral medication that helps control blood sugar levels.",
+      "price": 44.57,
+      "availability": true
+    },
+    {
+      "medicine_id": "Amlodipine",
+      "medicine_name": "Amlodipine",
+      "medicine_desc": "A calcium channel blocker used to treat high blood pressure.",
+      "price": 58.68,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cetirizine",
+      "medicine_name": "Cetirizine",
+      "medicine_desc": "An antihistamine used to relieve allergy symptoms.",
+      "price": 33.64,
+      "availability": true
+    },
+    {
+      "medicine_id": "Azithromycin",
+      "medicine_name": "Azithromycin",
+      "medicine_desc": "An antibiotic used to treat a variety of bacterial infections.",
+      "price": 114.25,
+      "availability": true
+    },
+    {
+      "medicine_id": "Montelukast",
+      "medicine_name": "Montelukast",
+      "medicine_desc": "Used to prevent wheezing and difficulty breathing caused by asthma.",
+      "price": 177.76,
+      "availability": true
+    },
+    {
+      "medicine_id": "Losartan",
+      "medicine_name": "Losartan",
+      "medicine_desc": "An ARB used to treat high blood pressure.",
+      "price": 91.1,
+      "availability": true
+    },
+    {
+      "medicine_id": "Sertraline",
+      "medicine_name": "Sertraline",
+      "medicine_desc": "An SSRI antidepressant used to treat depression and anxiety disorders.",
+      "price": 111.86,
+      "availability": true
+    },
+    {
+      "medicine_id": "Esomeprazole",
+      "medicine_name": "Esomeprazole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces stomach acid.",
+      "price": 72.68,
+      "availability": true
+    },
+    {
+      "medicine_id": "Clopidogrel",
+      "medicine_name": "Clopidogrel",
+      "medicine_desc": "An antiplatelet medicine used to prevent blood clots.",
+      "price": 106.56,
+      "availability": false
+    },
+    {
+      "medicine_id": "Levocetirizine",
+      "medicine_name": "Levocetirizine",
+      "medicine_desc": "A newer antihistamine, considered non-drowsy.",
+      "price": 51.14,
+      "availability": true
+    },
+    {
+      "medicine_id": "Domperidone",
+      "medicine_name": "Domperidone",
+      "medicine_desc": "A prokinetic agent used to treat nausea and vomiting.",
+      "price": 39.7,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ibuprofen",
+      "medicine_name": "Ibuprofen",
+      "medicine_desc": "A common NSAID used for pain relief, fever, and inflammation.",
+      "price": 18.76,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pregabalin",
+      "medicine_name": "Pregabalin",
+      "medicine_desc": "Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",
+      "price": 209.9,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tamsulosin",
+      "medicine_name": "Tamsulosin",
+      "medicine_desc": "An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).",
+      "price": 237.07,
+      "availability": true
+    },
+    {
+      "medicine_id": "Fexofenadine",
+      "medicine_name": "Fexofenadine",
+      "medicine_desc": "A non-drowsy antihistamine for seasonal allergies.",
+      "price": 88.39,
+      "availability": true
+    },
+    {
+      "medicine_id": "Glimepiride",
+      "medicine_name": "Glimepiride",
+      "medicine_desc": "A sulfonylurea drug that helps the pancreas produce more insulin.",
+      "price": 68.53,
+      "availability": true
+    },
+    {
+      "medicine_id": "Bisoprolol",
+      "medicine_name": "Bisoprolol",
+      "medicine_desc": "A beta-blocker that affects the heart and circulation.",
+      "price": 82.85,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tacrolimus",
+      "medicine_name": "Tacrolimus",
+      "medicine_desc": "An immunosuppressive drug used to prevent organ rejection after a transplant.",
+      "price": 849.23,
+      "availability": true
+    },
+    {
+      "medicine_id": "Colchicine",
+      "medicine_name": "Colchicine",
+      "medicine_desc": "Used to treat and prevent gout attacks.",
+      "price": 137.05,
+      "availability": true
+    },
+    {
+      "medicine_id": "Phenytoin",
+      "medicine_name": "Phenytoin",
+      "medicine_desc": "An anti-epileptic drug used to control seizures.",
+      "price": 59.7,
+      "availability": true
+    },
+    {
+      "medicine_id": "Isotretinoin",
+      "medicine_name": "Isotretinoin",
+      "medicine_desc": "A powerful vitamin A derivative used to treat severe cystic acne.",
+      "price": 299.39,
+      "availability": true
+    },
+    {
+      "medicine_id": "Allopurinol",
+      "medicine_name": "Allopurinol",
+      "medicine_desc": "Reduces the production of uric acid in the body, preventing gout.",
+      "price": 38.87,
+      "availability": true
+    },
+    {
+      "medicine_id": "Methotrexate",
+      "medicine_name": "Methotrexate",
+      "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+      "price": 148.23,
+      "availability": false
+    },
+    {
+      "medicine_id": "Sofosbuvir",
+      "medicine_name": "Sofosbuvir",
+      "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+      "price": 7997.47,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enoxaparin",
+      "medicine_name": "Enoxaparin",
+      "medicine_desc": "An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.",
+      "price": 452.02,
+      "availability": true
+    },
+    {
+      "medicine_id": "Rituximab",
+      "medicine_name": "Rituximab",
+      "medicine_desc": "A monoclonal antibody used to treat certain autoimmune diseases and cancers.",
+      "price": 39999.62,
+      "availability": false
+    },
+    {
+      "medicine_id": "Ondansetron",
+      "medicine_name": "Ondansetron",
+      "medicine_desc": "An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.",
+      "price": 49.96,
+      "availability": true
+    },
+    {
+      "medicine_id": "Carbamazepine",
+      "medicine_name": "Carbamazepine",
+      "medicine_desc": "An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",
+      "price": 75.97,
+      "availability": true
+    },
+    {
+      "medicine_id": "Latanoprost",
+      "medicine_name": "Latanoprost",
+      "medicine_desc": "Eye drops used to control the progression of glaucoma by reducing intraocular pressure.",
+      "price": 349.36,
+      "availability": true
+    },
+    {
+      "medicine_id": "Mycophenolate",
+      "medicine_name": "Mycophenolate",
+      "medicine_desc": "An immunosuppressant used to prevent organ rejection.",
+      "price": 948.3,
+      "availability": true
+    },
+    {
+      "medicine_id": "Adalimumab",
+      "medicine_name": "Adalimumab",
+      "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+      "price": 14999.93,
+      "availability": true
+    },
+    {
+      "medicine_id": "Acyclovir",
+      "medicine_name": "Acyclovir",
+      "medicine_desc": "An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",
+      "price": 122.17,
+      "availability": true
+    }
+  ],
+  "MedPlus RR Nagar, 60 Feet Road": [
+    {
+      "medicine_id": "Augmentin",
+      "medicine_name": "Augmentin",
+      "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+      "price": 226.02,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pan D",
+      "medicine_name": "Pan D",
+      "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+      "price": 196.05,
+      "availability": true
+    },
+    {
+      "medicine_id": "Diclofenac",
+      "medicine_name": "Diclofenac",
+      "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+      "price": 83.54,
+      "availability": true
+    },
+    {
+      "medicine_id": "Omeprozole",
+      "medicine_name": "Omeprozole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.",
+      "price": 52.8,
+      "availability": true
+    },
+    {
+      "medicine_id": "Betaloc",
+      "medicine_name": "Betaloc",
+      "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+      "price": 91.26,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enzoflam",
+      "medicine_name": "Enzoflam",
+      "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+      "price": 128.02,
+      "availability": true
+    },
+    {
+      "medicine_id": "Hexigel gum paint",
+      "medicine_name": "Hexigel gum paint",
+      "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+      "price": 95.5,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultrafen-plus",
+      "medicine_name": "Ultrafen-plus",
+      "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+      "price": 67.67,
+      "availability": true
+    },
+    {
+      "medicine_id": "Relentus",
+      "medicine_name": "Relentus",
+      "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+      "price": 109.67,
+      "availability": true
+    },
+    {
+      "medicine_id": "Progen",
+      "medicine_name": "Progen",
+      "medicine_desc": "Often a brand name for progesterone or a protein supplement.",
+      "price": 248.53,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultracal-D",
+      "medicine_name": "Ultracal-D",
+      "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+      "price": 180.14,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cartilix",
+      "medicine_name": "Cartilix",
+      "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+      "price": 451.44,
+      "availability": true
+    },
+    {
+      "medicine_id": "Dorzolamidum",
+      "medicine_name": "Dorzolamidum",
+      "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+      "price": 307.33,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cimetidine",
+      "medicine_name": "Cimetidine",
+      "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+      "price": 25.24,
+      "availability": true
+    },
+    {
+      "medicine_id": "Oxprelol",
+      "medicine_name": "Oxprelol",
+      "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+      "price": 121.67,
+      "availability": true
+    },
+    {
+      "medicine_id": "Paracetamol",
+      "medicine_name": "Paracetamol",
+      "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+      "price": 29.54,
+      "availability": true
+    },
+    {
+      "medicine_id": "Atorvastatin",
+      "medicine_name": "Atorvastatin",
+      "medicine_desc": "A statin used to lower cholesterol and triglycerides.",
+      "price": 151.9,
+      "availability": true
+    },
+    {
+      "medicine_id": "Metformin",
+      "medicine_name": "Metformin",
+      "medicine_desc": "An oral medication that helps control blood sugar levels.",
+      "price": 42.38,
+      "availability": true
+    },
+    {
+      "medicine_id": "Amlodipine",
+      "medicine_name": "Amlodipine",
+      "medicine_desc": "A calcium channel blocker used to treat high blood pressure.",
+      "price": 60.08,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cetirizine",
+      "medicine_name": "Cetirizine",
+      "medicine_desc": "An antihistamine used to relieve allergy symptoms.",
+      "price": 36.74,
+      "availability": true
+    },
+    {
+      "medicine_id": "Azithromycin",
+      "medicine_name": "Azithromycin",
+      "medicine_desc": "An antibiotic used to treat a variety of bacterial infections.",
+      "price": 113.47,
+      "availability": true
+    },
+    {
+      "medicine_id": "Montelukast",
+      "medicine_name": "Montelukast",
+      "medicine_desc": "Used to prevent wheezing and difficulty breathing caused by asthma.",
+      "price": 177.3,
+      "availability": true
+    },
+    {
+      "medicine_id": "Losartan",
+      "medicine_name": "Losartan",
+      "medicine_desc": "An ARB used to treat high blood pressure.",
+      "price": 87.9,
+      "availability": false
+    },
+    {
+      "medicine_id": "Sertraline",
+      "medicine_name": "Sertraline",
+      "medicine_desc": "An SSRI antidepressant used to treat depression and anxiety disorders.",
+      "price": 112.91,
+      "availability": true
+    },
+    {
+      "medicine_id": "Esomeprazole",
+      "medicine_name": "Esomeprazole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces stomach acid.",
+      "price": 72.94,
+      "availability": true
+    },
+    {
+      "medicine_id": "Clopidogrel",
+      "medicine_name": "Clopidogrel",
+      "medicine_desc": "An antiplatelet medicine used to prevent blood clots.",
+      "price": 107.74,
+      "availability": true
+    },
+    {
+      "medicine_id": "Levocetirizine",
+      "medicine_name": "Levocetirizine",
+      "medicine_desc": "A newer antihistamine, considered non-drowsy.",
+      "price": 51.12,
+      "availability": true
+    },
+    {
+      "medicine_id": "Domperidone",
+      "medicine_name": "Domperidone",
+      "medicine_desc": "A prokinetic agent used to treat nausea and vomiting.",
+      "price": 38.62,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ibuprofen",
+      "medicine_name": "Ibuprofen",
+      "medicine_desc": "A common NSAID used for pain relief, fever, and inflammation.",
+      "price": 20.89,
+      "availability": false
+    },
+    {
+      "medicine_id": "Pregabalin",
+      "medicine_name": "Pregabalin",
+      "medicine_desc": "Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",
+      "price": 209.56,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tamsulosin",
+      "medicine_name": "Tamsulosin",
+      "medicine_desc": "An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).",
+      "price": 242.73,
+      "availability": true
+    },
+    {
+      "medicine_id": "Fexofenadine",
+      "medicine_name": "Fexofenadine",
+      "medicine_desc": "A non-drowsy antihistamine for seasonal allergies.",
+      "price": 87.57,
+      "availability": true
+    },
+    {
+      "medicine_id": "Glimepiride",
+      "medicine_name": "Glimepiride",
+      "medicine_desc": "A sulfonylurea drug that helps the pancreas produce more insulin.",
+      "price": 70.38,
+      "availability": true
+    },
+    {
+      "medicine_id": "Bisoprolol",
+      "medicine_name": "Bisoprolol",
+      "medicine_desc": "A beta-blocker that affects the heart and circulation.",
+      "price": 80.7,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tacrolimus",
+      "medicine_name": "Tacrolimus",
+      "medicine_desc": "An immunosuppressive drug used to prevent organ rejection after a transplant.",
+      "price": 849.29,
+      "availability": true
+    },
+    {
+      "medicine_id": "Colchicine",
+      "medicine_name": "Colchicine",
+      "medicine_desc": "Used to treat and prevent gout attacks.",
+      "price": 141.78,
+      "availability": true
+    },
+    {
+      "medicine_id": "Phenytoin",
+      "medicine_name": "Phenytoin",
+      "medicine_desc": "An anti-epileptic drug used to control seizures.",
+      "price": 60.51,
+      "availability": true
+    },
+    {
+      "medicine_id": "Isotretinoin",
+      "medicine_name": "Isotretinoin",
+      "medicine_desc": "A powerful vitamin A derivative used to treat severe cystic acne.",
+      "price": 299.37,
+      "availability": true
+    },
+    {
+      "medicine_id": "Allopurinol",
+      "medicine_name": "Allopurinol",
+      "medicine_desc": "Reduces the production of uric acid in the body, preventing gout.",
+      "price": 42.68,
+      "availability": true
+    },
+    {
+      "medicine_id": "Methotrexate",
+      "medicine_name": "Methotrexate",
+      "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+      "price": 148.43,
+      "availability": true
+    },
+    {
+      "medicine_id": "Sofosbuvir",
+      "medicine_name": "Sofosbuvir",
+      "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+      "price": 8000.27,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enoxaparin",
+      "medicine_name": "Enoxaparin",
+      "medicine_desc": "An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.",
+      "price": 450.72,
+      "availability": true
+    },
+    {
+      "medicine_id": "Rituximab",
+      "medicine_name": "Rituximab",
+      "medicine_desc": "A monoclonal antibody used to treat certain autoimmune diseases and cancers.",
+      "price": 39998.43,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ondansetron",
+      "medicine_name": "Ondansetron",
+      "medicine_desc": "An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.",
+      "price": 51.94,
+      "availability": true
+    },
+    {
+      "medicine_id": "Carbamazepine",
+      "medicine_name": "Carbamazepine",
+      "medicine_desc": "An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",
+      "price": 74.01,
+      "availability": true
+    },
+    {
+      "medicine_id": "Latanoprost",
+      "medicine_name": "Latanoprost",
+      "medicine_desc": "Eye drops used to control the progression of glaucoma by reducing intraocular pressure.",
+      "price": 352.01,
+      "availability": true
+    },
+    {
+      "medicine_id": "Mycophenolate",
+      "medicine_name": "Mycophenolate",
+      "medicine_desc": "An immunosuppressant used to prevent organ rejection.",
+      "price": 952.83,
+      "availability": true
+    },
+    {
+      "medicine_id": "Adalimumab",
+      "medicine_name": "Adalimumab",
+      "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+      "price": 15000.75,
+      "availability": true
+    },
+    {
+      "medicine_id": "Acyclovir",
+      "medicine_name": "Acyclovir",
+      "medicine_desc": "An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",
+      "price": 117.16,
+      "availability": true
+    }
+  ],
+  "Apollo Pharmacy Kenchenahalli Road, RR Nagar": [
+    {
+      "medicine_id": "Augmentin",
+      "medicine_name": "Augmentin",
+      "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+      "price": 225.21,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pan D",
+      "medicine_name": "Pan D",
+      "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+      "price": 195.15,
+      "availability": false
+    },
+    {
+      "medicine_id": "Diclofenac",
+      "medicine_name": "Diclofenac",
+      "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+      "price": 82.51,
+      "availability": true
+    },
+    {
+      "medicine_id": "Omeprozole",
+      "medicine_name": "Omeprozole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.",
+      "price": 53.83,
+      "availability": true
+    },
+    {
+      "medicine_id": "Betaloc",
+      "medicine_name": "Betaloc",
+      "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+      "price": 93.76,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enzoflam",
+      "medicine_name": "Enzoflam",
+      "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+      "price": 129.92,
+      "availability": true
+    },
+    {
+      "medicine_id": "Hexigel gum paint",
+      "medicine_name": "Hexigel gum paint",
+      "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+      "price": 93.91,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultrafen-plus",
+      "medicine_name": "Ultrafen-plus",
+      "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+      "price": 67.07,
+      "availability": false
+    },
+    {
+      "medicine_id": "Relentus",
+      "medicine_name": "Relentus",
+      "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+      "price": 112.54,
+      "availability": false
+    },
+    {
+      "medicine_id": "Progen",
+      "medicine_name": "Progen",
+      "medicine_desc": "Often a brand name for progesterone or a protein supplement.",
+      "price": 247.51,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultracal-D",
+      "medicine_name": "Ultracal-D",
+      "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+      "price": 179.28,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cartilix",
+      "medicine_name": "Cartilix",
+      "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+      "price": 447.5,
+      "availability": true
+    },
+    {
+      "medicine_id": "Dorzolamidum",
+      "medicine_name": "Dorzolamidum",
+      "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+      "price": 311.32,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cimetidine",
+      "medicine_name": "Cimetidine",
+      "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+      "price": 25.26,
+      "availability": true
+    },
+    {
+      "medicine_id": "Oxprelol",
+      "medicine_name": "Oxprelol",
+      "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+      "price": 119.83,
+      "availability": true
+    },
+    {
+      "medicine_id": "Paracetamol",
+      "medicine_name": "Paracetamol",
+      "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+      "price": 29.99,
+      "availability": true
+    },
+    {
+      "medicine_id": "Atorvastatin",
+      "medicine_name": "Atorvastatin",
+      "medicine_desc": "A statin used to lower cholesterol and triglycerides.",
+      "price": 152.5,
+      "availability": true
+    },
+    {
+      "medicine_id": "Metformin",
+      "medicine_name": "Metformin",
+      "medicine_desc": "An oral medication that helps control blood sugar levels.",
+      "price": 43.27,
+      "availability": true
+    },
+    {
+      "medicine_id": "Amlodipine",
+      "medicine_name": "Amlodipine",
+      "medicine_desc": "A calcium channel blocker used to treat high blood pressure.",
+      "price": 59.57,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cetirizine",
+      "medicine_name": "Cetirizine",
+      "medicine_desc": "An antihistamine used to relieve allergy symptoms.",
+      "price": 35.42,
+      "availability": true
+    },
+    {
+      "medicine_id": "Azithromycin",
+      "medicine_name": "Azithromycin",
+      "medicine_desc": "An antibiotic used to treat a variety of bacterial infections.",
+      "price": 115.0,
+      "availability": true
+    },
+    {
+      "medicine_id": "Montelukast",
+      "medicine_name": "Montelukast",
+      "medicine_desc": "Used to prevent wheezing and difficulty breathing caused by asthma.",
+      "price": 176.67,
+      "availability": true
+    },
+    {
+      "medicine_id": "Losartan",
+      "medicine_name": "Losartan",
+      "medicine_desc": "An ARB used to treat high blood pressure.",
+      "price": 91.26,
+      "availability": true
+    },
+    {
+      "medicine_id": "Sertraline",
+      "medicine_name": "Sertraline",
+      "medicine_desc": "An SSRI antidepressant used to treat depression and anxiety disorders.",
+      "price": 107.48,
+      "availability": true
+    },
+    {
+      "medicine_id": "Esomeprazole",
+      "medicine_name": "Esomeprazole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces stomach acid.",
+      "price": 77.04,
+      "availability": true
+    },
+    {
+      "medicine_id": "Clopidogrel",
+      "medicine_name": "Clopidogrel",
+      "medicine_desc": "An antiplatelet medicine used to prevent blood clots.",
+      "price": 103.2,
+      "availability": true
+    },
+    {
+      "medicine_id": "Levocetirizine",
+      "medicine_name": "Levocetirizine",
+      "medicine_desc": "A newer antihistamine, considered non-drowsy.",
+      "price": 48.43,
+      "availability": true
+    },
+    {
+      "medicine_id": "Domperidone",
+      "medicine_name": "Domperidone",
+      "medicine_desc": "A prokinetic agent used to treat nausea and vomiting.",
+      "price": 41.21,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ibuprofen",
+      "medicine_name": "Ibuprofen",
+      "medicine_desc": "A common NSAID used for pain relief, fever, and inflammation.",
+      "price": 17.29,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pregabalin",
+      "medicine_name": "Pregabalin",
+      "medicine_desc": "Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",
+      "price": 211.13,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tamsulosin",
+      "medicine_name": "Tamsulosin",
+      "medicine_desc": "An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).",
+      "price": 240.44,
+      "availability": true
+    },
+    {
+      "medicine_id": "Fexofenadine",
+      "medicine_name": "Fexofenadine",
+      "medicine_desc": "A non-drowsy antihistamine for seasonal allergies.",
+      "price": 90.31,
+      "availability": true
+    },
+    {
+      "medicine_id": "Glimepiride",
+      "medicine_name": "Glimepiride",
+      "medicine_desc": "A sulfonylurea drug that helps the pancreas produce more insulin.",
+      "price": 72.34,
+      "availability": true
+    },
+    {
+      "medicine_id": "Bisoprolol",
+      "medicine_name": "Bisoprolol",
+      "medicine_desc": "A beta-blocker that affects the heart and circulation.",
+      "price": 78.59,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tacrolimus",
+      "medicine_name": "Tacrolimus",
+      "medicine_desc": "An immunosuppressive drug used to prevent organ rejection after a transplant.",
+      "price": 852.07,
+      "availability": true
+    },
+    {
+      "medicine_id": "Colchicine",
+      "medicine_name": "Colchicine",
+      "medicine_desc": "Used to treat and prevent gout attacks.",
+      "price": 137.18,
+      "availability": true
+    },
+    {
+      "medicine_id": "Phenytoin",
+      "medicine_name": "Phenytoin",
+      "medicine_desc": "An anti-epileptic drug used to control seizures.",
+      "price": 61.69,
+      "availability": true
+    },
+    {
+      "medicine_id": "Isotretinoin",
+      "medicine_name": "Isotretinoin",
+      "medicine_desc": "A powerful vitamin A derivative used to treat severe cystic acne.",
+      "price": 298.44,
+      "availability": true
+    },
+    {
+      "medicine_id": "Allopurinol",
+      "medicine_name": "Allopurinol",
+      "medicine_desc": "Reduces the production of uric acid in the body, preventing gout.",
+      "price": 40.21,
+      "availability": true
+    },
+    {
+      "medicine_id": "Methotrexate",
+      "medicine_name": "Methotrexate",
+      "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+      "price": 149.53,
+      "availability": true
+    },
+    {
+      "medicine_id": "Sofosbuvir",
+      "medicine_name": "Sofosbuvir",
+      "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+      "price": 7999.0,
+      "availability": false
+    },
+    {
+      "medicine_id": "Enoxaparin",
+      "medicine_name": "Enoxaparin",
+      "medicine_desc": "An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.",
+      "price": 447.43,
+      "availability": true
+    },
+    {
+      "medicine_id": "Rituximab",
+      "medicine_name": "Rituximab",
+      "medicine_desc": "A monoclonal antibody used to treat certain autoimmune diseases and cancers.",
+      "price": 39997.45,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ondansetron",
+      "medicine_name": "Ondansetron",
+      "medicine_desc": "An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.",
+      "price": 50.5,
+      "availability": true
+    },
+    {
+      "medicine_id": "Carbamazepine",
+      "medicine_name": "Carbamazepine",
+      "medicine_desc": "An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",
+      "price": 75.63,
+      "availability": true
+    },
+    {
+      "medicine_id": "Latanoprost",
+      "medicine_name": "Latanoprost",
+      "medicine_desc": "Eye drops used to control the progression of glaucoma by reducing intraocular pressure.",
+      "price": 348.43,
+      "availability": true
+    },
+    {
+      "medicine_id": "Mycophenolate",
+      "medicine_name": "Mycophenolate",
+      "medicine_desc": "An immunosuppressant used to prevent organ rejection.",
+      "price": 952.3,
+      "availability": true
+    },
+    {
+      "medicine_id": "Adalimumab",
+      "medicine_name": "Adalimumab",
+      "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+      "price": 15002.15,
+      "availability": true
+    },
+    {
+      "medicine_id": "Acyclovir",
+      "medicine_name": "Acyclovir",
+      "medicine_desc": "An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",
+      "price": 121.5,
+      "availability": false
+    }
+  ],
+  "Lakshmi Pharma": [
+    {
+      "medicine_id": "Augmentin",
+      "medicine_name": "Augmentin",
+      "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+      "price": 223.23,
+      "availability": false
+    },
+    {
+      "medicine_id": "Pan D",
+      "medicine_name": "Pan D",
+      "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+      "price": 195.2,
+      "availability": true
+    },
+    {
+      "medicine_id": "Diclofenac",
+      "medicine_name": "Diclofenac",
+      "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+      "price": 86.57,
+      "availability": true
+    },
+    {
+      "medicine_id": "Omeprozole",
+      "medicine_name": "Omeprozole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.",
+      "price": 54.08,
+      "availability": true
+    },
+    {
+      "medicine_id": "Betaloc",
+      "medicine_name": "Betaloc",
+      "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+      "price": 94.34,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enzoflam",
+      "medicine_name": "Enzoflam",
+      "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+      "price": 128.42,
+      "availability": true
+    },
+    {
+      "medicine_id": "Hexigel gum paint",
+      "medicine_name": "Hexigel gum paint",
+      "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+      "price": 93.02,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultrafen-plus",
+      "medicine_name": "Ultrafen-plus",
+      "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+      "price": 67.91,
+      "availability": true
+    },
+    {
+      "medicine_id": "Relentus",
+      "medicine_name": "Relentus",
+      "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+      "price": 112.12,
+      "availability": true
+    },
+    {
+      "medicine_id": "Progen",
+      "medicine_name": "Progen",
+      "medicine_desc": "Often a brand name for progesterone or a protein supplement.",
+      "price": 251.42,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultracal-D",
+      "medicine_name": "Ultracal-D",
+      "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+      "price": 179.23,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cartilix",
+      "medicine_name": "Cartilix",
+      "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+      "price": 452.22,
+      "availability": true
+    },
+    {
+      "medicine_id": "Dorzolamidum",
+      "medicine_name": "Dorzolamidum",
+      "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+      "price": 309.53,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cimetidine",
+      "medicine_name": "Cimetidine",
+      "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+      "price": 27.48,
+      "availability": true
+    },
+    {
+      "medicine_id": "Oxprelol",
+      "medicine_name": "Oxprelol",
+      "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+      "price": 120.72,
+      "availability": true
+    },
+    {
+      "medicine_id": "Paracetamol",
+      "medicine_name": "Paracetamol",
+      "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+      "price": 28.05,
+      "availability": true
+    },
+    {
+      "medicine_id": "Atorvastatin",
+      "medicine_name": "Atorvastatin",
+      "medicine_desc": "A statin used to lower cholesterol and triglycerides.",
+      "price": 149.71,
+      "availability": true
+    },
+    {
+      "medicine_id": "Metformin",
+      "medicine_name": "Metformin",
+      "medicine_desc": "An oral medication that helps control blood sugar levels.",
+      "price": 43.7,
+      "availability": true
+    },
+    {
+      "medicine_id": "Amlodipine",
+      "medicine_name": "Amlodipine",
+      "medicine_desc": "A calcium channel blocker used to treat high blood pressure.",
+      "price": 61.92,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cetirizine",
+      "medicine_name": "Cetirizine",
+      "medicine_desc": "An antihistamine used to relieve allergy symptoms.",
+      "price": 32.79,
+      "availability": true
+    },
+    {
+      "medicine_id": "Azithromycin",
+      "medicine_name": "Azithromycin",
+      "medicine_desc": "An antibiotic used to treat a variety of bacterial infections.",
+      "price": 114.44,
+      "availability": true
+    },
+    {
+      "medicine_id": "Montelukast",
+      "medicine_name": "Montelukast",
+      "medicine_desc": "Used to prevent wheezing and difficulty breathing caused by asthma.",
+      "price": 174.33,
+      "availability": true
+    },
+    {
+      "medicine_id": "Losartan",
+      "medicine_name": "Losartan",
+      "medicine_desc": "An ARB used to treat high blood pressure.",
+      "price": 92.24,
+      "availability": false
+    },
+    {
+      "medicine_id": "Sertraline",
+      "medicine_name": "Sertraline",
+      "medicine_desc": "An SSRI antidepressant used to treat depression and anxiety disorders.",
+      "price": 108.8,
+      "availability": true
+    },
+    {
+      "medicine_id": "Esomeprazole",
+      "medicine_name": "Esomeprazole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces stomach acid.",
+      "price": 76.23,
+      "availability": true
+    },
+    {
+      "medicine_id": "Clopidogrel",
+      "medicine_name": "Clopidogrel",
+      "medicine_desc": "An antiplatelet medicine used to prevent blood clots.",
+      "price": 106.73,
+      "availability": true
+    },
+    {
+      "medicine_id": "Levocetirizine",
+      "medicine_name": "Levocetirizine",
+      "medicine_desc": "A newer antihistamine, considered non-drowsy.",
+      "price": 48.82,
+      "availability": true
+    },
+    {
+      "medicine_id": "Domperidone",
+      "medicine_name": "Domperidone",
+      "medicine_desc": "A prokinetic agent used to treat nausea and vomiting.",
+      "price": 40.26,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ibuprofen",
+      "medicine_name": "Ibuprofen",
+      "medicine_desc": "A common NSAID used for pain relief, fever, and inflammation.",
+      "price": 20.74,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pregabalin",
+      "medicine_name": "Pregabalin",
+      "medicine_desc": "Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",
+      "price": 207.71,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tamsulosin",
+      "medicine_name": "Tamsulosin",
+      "medicine_desc": "An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).",
+      "price": 242.37,
+      "availability": true
+    },
+    {
+      "medicine_id": "Fexofenadine",
+      "medicine_name": "Fexofenadine",
+      "medicine_desc": "A non-drowsy antihistamine for seasonal allergies.",
+      "price": 90.52,
+      "availability": true
+    },
+    {
+      "medicine_id": "Glimepiride",
+      "medicine_name": "Glimepiride",
+      "medicine_desc": "A sulfonylurea drug that helps the pancreas produce more insulin.",
+      "price": 68.4,
+      "availability": true
+    },
+    {
+      "medicine_id": "Bisoprolol",
+      "medicine_name": "Bisoprolol",
+      "medicine_desc": "A beta-blocker that affects the heart and circulation.",
+      "price": 82.23,
+      "availability": false
+    },
+    {
+      "medicine_id": "Tacrolimus",
+      "medicine_name": "Tacrolimus",
+      "medicine_desc": "An immunosuppressive drug used to prevent organ rejection after a transplant.",
+      "price": 847.36,
+      "availability": true
+    },
+    {
+      "medicine_id": "Colchicine",
+      "medicine_name": "Colchicine",
+      "medicine_desc": "Used to treat and prevent gout attacks.",
+      "price": 141.76,
+      "availability": true
+    },
+    {
+      "medicine_id": "Phenytoin",
+      "medicine_name": "Phenytoin",
+      "medicine_desc": "An anti-epileptic drug used to control seizures.",
+      "price": 58.2,
+      "availability": true
+    },
+    {
+      "medicine_id": "Isotretinoin",
+      "medicine_name": "Isotretinoin",
+      "medicine_desc": "A powerful vitamin A derivative used to treat severe cystic acne.",
+      "price": 302.55,
+      "availability": true
+    },
+    {
+      "medicine_id": "Allopurinol",
+      "medicine_name": "Allopurinol",
+      "medicine_desc": "Reduces the production of uric acid in the body, preventing gout.",
+      "price": 37.79,
+      "availability": true
+    },
+    {
+      "medicine_id": "Methotrexate",
+      "medicine_name": "Methotrexate",
+      "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+      "price": 151.19,
+      "availability": false
+    },
+    {
+      "medicine_id": "Sofosbuvir",
+      "medicine_name": "Sofosbuvir",
+      "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+      "price": 7998.78,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enoxaparin",
+      "medicine_name": "Enoxaparin",
+      "medicine_desc": "An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.",
+      "price": 450.31,
+      "availability": true
+    },
+    {
+      "medicine_id": "Rituximab",
+      "medicine_name": "Rituximab",
+      "medicine_desc": "A monoclonal antibody used to treat certain autoimmune diseases and cancers.",
+      "price": 39997.71,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ondansetron",
+      "medicine_name": "Ondansetron",
+      "medicine_desc": "An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.",
+      "price": 51.69,
+      "availability": true
+    },
+    {
+      "medicine_id": "Carbamazepine",
+      "medicine_name": "Carbamazepine",
+      "medicine_desc": "An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",
+      "price": 75.42,
+      "availability": true
+    },
+    {
+      "medicine_id": "Latanoprost",
+      "medicine_name": "Latanoprost",
+      "medicine_desc": "Eye drops used to control the progression of glaucoma by reducing intraocular pressure.",
+      "price": 348.68,
+      "availability": true
+    },
+    {
+      "medicine_id": "Mycophenolate",
+      "medicine_name": "Mycophenolate",
+      "medicine_desc": "An immunosuppressant used to prevent organ rejection.",
+      "price": 950.68,
+      "availability": false
+    },
+    {
+      "medicine_id": "Adalimumab",
+      "medicine_name": "Adalimumab",
+      "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+      "price": 15001.43,
+      "availability": true
+    },
+    {
+      "medicine_id": "Acyclovir",
+      "medicine_name": "Acyclovir",
+      "medicine_desc": "An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",
+      "price": 120.28,
+      "availability": true
+    }
+  ],
+  "Omkar Medicals and General Store": [
+    {
+      "medicine_id": "Augmentin",
+      "medicine_name": "Augmentin",
+      "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+      "price": 226.65,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pan D",
+      "medicine_name": "Pan D",
+      "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+      "price": 195.67,
+      "availability": true
+    },
+    {
+      "medicine_id": "Diclofenac",
+      "medicine_name": "Diclofenac",
+      "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+      "price": 87.17,
+      "availability": true
+    },
+    {
+      "medicine_id": "Omeprozole",
+      "medicine_name": "Omeprozole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.",
+      "price": 53.58,
+      "availability": true
+    },
+    {
+      "medicine_id": "Betaloc",
+      "medicine_name": "Betaloc",
+      "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+      "price": 90.99,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enzoflam",
+      "medicine_name": "Enzoflam",
+      "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+      "price": 130.63,
+      "availability": false
+    },
+    {
+      "medicine_id": "Hexigel gum paint",
+      "medicine_name": "Hexigel gum paint",
+      "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+      "price": 96.93,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultrafen-plus",
+      "medicine_name": "Ultrafen-plus",
+      "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+      "price": 67.32,
+      "availability": true
+    },
+    {
+      "medicine_id": "Relentus",
+      "medicine_name": "Relentus",
+      "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+      "price": 109.83,
+      "availability": true
+    },
+    {
+      "medicine_id": "Progen",
+      "medicine_name": "Progen",
+      "medicine_desc": "Often a brand name for progesterone or a protein supplement.",
+      "price": 249.81,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultracal-D",
+      "medicine_name": "Ultracal-D",
+      "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+      "price": 179.19,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cartilix",
+      "medicine_name": "Cartilix",
+      "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+      "price": 449.16,
+      "availability": true
+    },
+    {
+      "medicine_id": "Dorzolamidum",
+      "medicine_name": "Dorzolamidum",
+      "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+      "price": 308.62,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cimetidine",
+      "medicine_name": "Cimetidine",
+      "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+      "price": 23.62,
+      "availability": false
+    },
+    {
+      "medicine_id": "Oxprelol",
+      "medicine_name": "Oxprelol",
+      "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+      "price": 119.45,
+      "availability": true
+    },
+    {
+      "medicine_id": "Paracetamol",
+      "medicine_name": "Paracetamol",
+      "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+      "price": 28.46,
+      "availability": true
+    },
+    {
+      "medicine_id": "Atorvastatin",
+      "medicine_name": "Atorvastatin",
+      "medicine_desc": "A statin used to lower cholesterol and triglycerides.",
+      "price": 147.15,
+      "availability": true
+    },
+    {
+      "medicine_id": "Metformin",
+      "medicine_name": "Metformin",
+      "medicine_desc": "An oral medication that helps control blood sugar levels.",
+      "price": 44.35,
+      "availability": true
+    },
+    {
+      "medicine_id": "Amlodipine",
+      "medicine_name": "Amlodipine",
+      "medicine_desc": "A calcium channel blocker used to treat high blood pressure.",
+      "price": 57.27,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cetirizine",
+      "medicine_name": "Cetirizine",
+      "medicine_desc": "An antihistamine used to relieve allergy symptoms.",
+      "price": 33.04,
+      "availability": true
+    },
+    {
+      "medicine_id": "Azithromycin",
+      "medicine_name": "Azithromycin",
+      "medicine_desc": "An antibiotic used to treat a variety of bacterial infections.",
+      "price": 115.28,
+      "availability": true
+    },
+    {
+      "medicine_id": "Montelukast",
+      "medicine_name": "Montelukast",
+      "medicine_desc": "Used to prevent wheezing and difficulty breathing caused by asthma.",
+      "price": 174.72,
+      "availability": true
+    },
+    {
+      "medicine_id": "Losartan",
+      "medicine_name": "Losartan",
+      "medicine_desc": "An ARB used to treat high blood pressure.",
+      "price": 90.5,
+      "availability": true
+    },
+    {
+      "medicine_id": "Sertraline",
+      "medicine_name": "Sertraline",
+      "medicine_desc": "An SSRI antidepressant used to treat depression and anxiety disorders.",
+      "price": 108.78,
+      "availability": true
+    },
+    {
+      "medicine_id": "Esomeprazole",
+      "medicine_name": "Esomeprazole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces stomach acid.",
+      "price": 77.09,
+      "availability": true
+    },
+    {
+      "medicine_id": "Clopidogrel",
+      "medicine_name": "Clopidogrel",
+      "medicine_desc": "An antiplatelet medicine used to prevent blood clots.",
+      "price": 104.79,
+      "availability": true
+    },
+    {
+      "medicine_id": "Levocetirizine",
+      "medicine_name": "Levocetirizine",
+      "medicine_desc": "A newer antihistamine, considered non-drowsy.",
+      "price": 50.22,
+      "availability": true
+    },
+    {
+      "medicine_id": "Domperidone",
+      "medicine_name": "Domperidone",
+      "medicine_desc": "A prokinetic agent used to treat nausea and vomiting.",
+      "price": 37.02,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ibuprofen",
+      "medicine_name": "Ibuprofen",
+      "medicine_desc": "A common NSAID used for pain relief, fever, and inflammation.",
+      "price": 20.32,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pregabalin",
+      "medicine_name": "Pregabalin",
+      "medicine_desc": "Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",
+      "price": 209.09,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tamsulosin",
+      "medicine_name": "Tamsulosin",
+      "medicine_desc": "An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).",
+      "price": 238.88,
+      "availability": true
+    },
+    {
+      "medicine_id": "Fexofenadine",
+      "medicine_name": "Fexofenadine",
+      "medicine_desc": "A non-drowsy antihistamine for seasonal allergies.",
+      "price": 87.39,
+      "availability": true
+    },
+    {
+      "medicine_id": "Glimepiride",
+      "medicine_name": "Glimepiride",
+      "medicine_desc": "A sulfonylurea drug that helps the pancreas produce more insulin.",
+      "price": 67.05,
+      "availability": true
+    },
+    {
+      "medicine_id": "Bisoprolol",
+      "medicine_name": "Bisoprolol",
+      "medicine_desc": "A beta-blocker that affects the heart and circulation.",
+      "price": 77.71,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tacrolimus",
+      "medicine_name": "Tacrolimus",
+      "medicine_desc": "An immunosuppressive drug used to prevent organ rejection after a transplant.",
+      "price": 848.66,
+      "availability": true
+    },
+    {
+      "medicine_id": "Colchicine",
+      "medicine_name": "Colchicine",
+      "medicine_desc": "Used to treat and prevent gout attacks.",
+      "price": 139.76,
+      "availability": true
+    },
+    {
+      "medicine_id": "Phenytoin",
+      "medicine_name": "Phenytoin",
+      "medicine_desc": "An anti-epileptic drug used to control seizures.",
+      "price": 61.79,
+      "availability": true
+    },
+    {
+      "medicine_id": "Isotretinoin",
+      "medicine_name": "Isotretinoin",
+      "medicine_desc": "A powerful vitamin A derivative used to treat severe cystic acne.",
+      "price": 299.37,
+      "availability": true
+    },
+    {
+      "medicine_id": "Allopurinol",
+      "medicine_name": "Allopurinol",
+      "medicine_desc": "Reduces the production of uric acid in the body, preventing gout.",
+      "price": 42.21,
+      "availability": true
+    },
+    {
+      "medicine_id": "Methotrexate",
+      "medicine_name": "Methotrexate",
+      "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+      "price": 147.87,
+      "availability": true
+    },
+    {
+      "medicine_id": "Sofosbuvir",
+      "medicine_name": "Sofosbuvir",
+      "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+      "price": 8001.46,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enoxaparin",
+      "medicine_name": "Enoxaparin",
+      "medicine_desc": "An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.",
+      "price": 452.54,
+      "availability": true
+    },
+    {
+      "medicine_id": "Rituximab",
+      "medicine_name": "Rituximab",
+      "medicine_desc": "A monoclonal antibody used to treat certain autoimmune diseases and cancers.",
+      "price": 40002.33,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ondansetron",
+      "medicine_name": "Ondansetron",
+      "medicine_desc": "An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.",
+      "price": 51.57,
+      "availability": true
+    },
+    {
+      "medicine_id": "Carbamazepine",
+      "medicine_name": "Carbamazepine",
+      "medicine_desc": "An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",
+      "price": 73.95,
+      "availability": false
+    },
+    {
+      "medicine_id": "Latanoprost",
+      "medicine_name": "Latanoprost",
+      "medicine_desc": "Eye drops used to control the progression of glaucoma by reducing intraocular pressure.",
+      "price": 351.21,
+      "availability": true
+    },
+    {
+      "medicine_id": "Mycophenolate",
+      "medicine_name": "Mycophenolate",
+      "medicine_desc": "An immunosuppressant used to prevent organ rejection.",
+      "price": 950.11,
+      "availability": true
+    },
+    {
+      "medicine_id": "Adalimumab",
+      "medicine_name": "Adalimumab",
+      "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+      "price": 15000.73,
+      "availability": true
+    },
+    {
+      "medicine_id": "Acyclovir",
+      "medicine_name": "Acyclovir",
+      "medicine_desc": "An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",
+      "price": 121.26,
+      "availability": true
+    }
+  ],
+  "Be Well Drugs": [
+    {
+      "medicine_id": "Augmentin",
+      "medicine_name": "Augmentin",
+      "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+      "price": 223.78,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pan D",
+      "medicine_name": "Pan D",
+      "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+      "price": 197.28,
+      "availability": true
+    },
+    {
+      "medicine_id": "Diclofenac",
+      "medicine_name": "Diclofenac",
+      "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+      "price": 84.01,
+      "availability": true
+    },
+    {
+      "medicine_id": "Omeprozole",
+      "medicine_name": "Omeprozole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.",
+      "price": 54.42,
+      "availability": true
+    },
+    {
+      "medicine_id": "Betaloc",
+      "medicine_name": "Betaloc",
+      "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+      "price": 94.05,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enzoflam",
+      "medicine_name": "Enzoflam",
+      "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+      "price": 130.9,
+      "availability": false
+    },
+    {
+      "medicine_id": "Hexigel gum paint",
+      "medicine_name": "Hexigel gum paint",
+      "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+      "price": 95.0,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultrafen-plus",
+      "medicine_name": "Ultrafen-plus",
+      "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+      "price": 70.78,
+      "availability": true
+    },
+    {
+      "medicine_id": "Relentus",
+      "medicine_name": "Relentus",
+      "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+      "price": 107.89,
+      "availability": true
+    },
+    {
+      "medicine_id": "Progen",
+      "medicine_name": "Progen",
+      "medicine_desc": "Often a brand name for progesterone or a protein supplement.",
+      "price": 252.84,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultracal-D",
+      "medicine_name": "Ultracal-D",
+      "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+      "price": 182.4,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cartilix",
+      "medicine_name": "Cartilix",
+      "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+      "price": 452.69,
+      "availability": true
+    },
+    {
+      "medicine_id": "Dorzolamidum",
+      "medicine_name": "Dorzolamidum",
+      "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+      "price": 307.34,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cimetidine",
+      "medicine_name": "Cimetidine",
+      "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+      "price": 26.62,
+      "availability": true
+    },
+    {
+      "medicine_id": "Oxprelol",
+      "medicine_name": "Oxprelol",
+      "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+      "price": 118.28,
+      "availability": true
+    },
+    {
+      "medicine_id": "Paracetamol",
+      "medicine_name": "Paracetamol",
+      "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+      "price": 30.24,
+      "availability": true
+    },
+    {
+      "medicine_id": "Atorvastatin",
+      "medicine_name": "Atorvastatin",
+      "medicine_desc": "A statin used to lower cholesterol and triglycerides.",
+      "price": 151.98,
+      "availability": true
+    },
+    {
+      "medicine_id": "Metformin",
+      "medicine_name": "Metformin",
+      "medicine_desc": "An oral medication that helps control blood sugar levels.",
+      "price": 46.46,
+      "availability": true
+    },
+    {
+      "medicine_id": "Amlodipine",
+      "medicine_name": "Amlodipine",
+      "medicine_desc": "A calcium channel blocker used to treat high blood pressure.",
+      "price": 60.79,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cetirizine",
+      "medicine_name": "Cetirizine",
+      "medicine_desc": "An antihistamine used to relieve allergy symptoms.",
+      "price": 36.28,
+      "availability": true
+    },
+    {
+      "medicine_id": "Azithromycin",
+      "medicine_name": "Azithromycin",
+      "medicine_desc": "An antibiotic used to treat a variety of bacterial infections.",
+      "price": 117.83,
+      "availability": true
+    },
+    {
+      "medicine_id": "Montelukast",
+      "medicine_name": "Montelukast",
+      "medicine_desc": "Used to prevent wheezing and difficulty breathing caused by asthma.",
+      "price": 173.22,
+      "availability": true
+    },
+    {
+      "medicine_id": "Losartan",
+      "medicine_name": "Losartan",
+      "medicine_desc": "An ARB used to treat high blood pressure.",
+      "price": 88.18,
+      "availability": true
+    },
+    {
+      "medicine_id": "Sertraline",
+      "medicine_name": "Sertraline",
+      "medicine_desc": "An SSRI antidepressant used to treat depression and anxiety disorders.",
+      "price": 110.82,
+      "availability": true
+    },
+    {
+      "medicine_id": "Esomeprazole",
+      "medicine_name": "Esomeprazole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces stomach acid.",
+      "price": 77.57,
+      "availability": true
+    },
+    {
+      "medicine_id": "Clopidogrel",
+      "medicine_name": "Clopidogrel",
+      "medicine_desc": "An antiplatelet medicine used to prevent blood clots.",
+      "price": 106.58,
+      "availability": true
+    },
+    {
+      "medicine_id": "Levocetirizine",
+      "medicine_name": "Levocetirizine",
+      "medicine_desc": "A newer antihistamine, considered non-drowsy.",
+      "price": 50.58,
+      "availability": true
+    },
+    {
+      "medicine_id": "Domperidone",
+      "medicine_name": "Domperidone",
+      "medicine_desc": "A prokinetic agent used to treat nausea and vomiting.",
+      "price": 38.92,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ibuprofen",
+      "medicine_name": "Ibuprofen",
+      "medicine_desc": "A common NSAID used for pain relief, fever, and inflammation.",
+      "price": 17.86,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pregabalin",
+      "medicine_name": "Pregabalin",
+      "medicine_desc": "Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",
+      "price": 212.67,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tamsulosin",
+      "medicine_name": "Tamsulosin",
+      "medicine_desc": "An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).",
+      "price": 242.94,
+      "availability": true
+    },
+    {
+      "medicine_id": "Fexofenadine",
+      "medicine_name": "Fexofenadine",
+      "medicine_desc": "A non-drowsy antihistamine for seasonal allergies.",
+      "price": 89.99,
+      "availability": false
+    },
+    {
+      "medicine_id": "Glimepiride",
+      "medicine_name": "Glimepiride",
+      "medicine_desc": "A sulfonylurea drug that helps the pancreas produce more insulin.",
+      "price": 71.36,
+      "availability": true
+    },
+    {
+      "medicine_id": "Bisoprolol",
+      "medicine_name": "Bisoprolol",
+      "medicine_desc": "A beta-blocker that affects the heart and circulation.",
+      "price": 79.03,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tacrolimus",
+      "medicine_name": "Tacrolimus",
+      "medicine_desc": "An immunosuppressive drug used to prevent organ rejection after a transplant.",
+      "price": 850.96,
+      "availability": true
+    },
+    {
+      "medicine_id": "Colchicine",
+      "medicine_name": "Colchicine",
+      "medicine_desc": "Used to treat and prevent gout attacks.",
+      "price": 137.94,
+      "availability": true
+    },
+    {
+      "medicine_id": "Phenytoin",
+      "medicine_name": "Phenytoin",
+      "medicine_desc": "An anti-epileptic drug used to control seizures.",
+      "price": 62.87,
+      "availability": true
+    },
+    {
+      "medicine_id": "Isotretinoin",
+      "medicine_name": "Isotretinoin",
+      "medicine_desc": "A powerful vitamin A derivative used to treat severe cystic acne.",
+      "price": 301.56,
+      "availability": true
+    },
+    {
+      "medicine_id": "Allopurinol",
+      "medicine_name": "Allopurinol",
+      "medicine_desc": "Reduces the production of uric acid in the body, preventing gout.",
+      "price": 37.42,
+      "availability": true
+    },
+    {
+      "medicine_id": "Methotrexate",
+      "medicine_name": "Methotrexate",
+      "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+      "price": 151.57,
+      "availability": false
+    },
+    {
+      "medicine_id": "Sofosbuvir",
+      "medicine_name": "Sofosbuvir",
+      "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+      "price": 8002.61,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enoxaparin",
+      "medicine_name": "Enoxaparin",
+      "medicine_desc": "An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.",
+      "price": 448.85,
+      "availability": true
+    },
+    {
+      "medicine_id": "Rituximab",
+      "medicine_name": "Rituximab",
+      "medicine_desc": "A monoclonal antibody used to treat certain autoimmune diseases and cancers.",
+      "price": 39998.76,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ondansetron",
+      "medicine_name": "Ondansetron",
+      "medicine_desc": "An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.",
+      "price": 51.35,
+      "availability": true
+    },
+    {
+      "medicine_id": "Carbamazepine",
+      "medicine_name": "Carbamazepine",
+      "medicine_desc": "An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",
+      "price": 72.13,
+      "availability": true
+    },
+    {
+      "medicine_id": "Latanoprost",
+      "medicine_name": "Latanoprost",
+      "medicine_desc": "Eye drops used to control the progression of glaucoma by reducing intraocular pressure.",
+      "price": 352.4,
+      "availability": true
+    },
+    {
+      "medicine_id": "Mycophenolate",
+      "medicine_name": "Mycophenolate",
+      "medicine_desc": "An immunosuppressant used to prevent organ rejection.",
+      "price": 950.99,
+      "availability": true
+    },
+    {
+      "medicine_id": "Adalimumab",
+      "medicine_name": "Adalimumab",
+      "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+      "price": 14999.46,
+      "availability": true
+    },
+    {
+      "medicine_id": "Acyclovir",
+      "medicine_name": "Acyclovir",
+      "medicine_desc": "An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",
+      "price": 120.46,
+      "availability": false
+    }
+  ],
+  "Krishna Medicals and Departmental Stores": [
+    {
+      "medicine_id": "Augmentin",
+      "medicine_name": "Augmentin",
+      "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+      "price": 226.04,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pan D",
+      "medicine_name": "Pan D",
+      "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+      "price": 198.14,
+      "availability": false
+    },
+    {
+      "medicine_id": "Diclofenac",
+      "medicine_name": "Diclofenac",
+      "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+      "price": 82.99,
+      "availability": true
+    },
+    {
+      "medicine_id": "Omeprozole",
+      "medicine_name": "Omeprozole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.",
+      "price": 56.26,
+      "availability": true
+    },
+    {
+      "medicine_id": "Betaloc",
+      "medicine_name": "Betaloc",
+      "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+      "price": 89.19,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enzoflam",
+      "medicine_name": "Enzoflam",
+      "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+      "price": 129.39,
+      "availability": true
+    },
+    {
+      "medicine_id": "Hexigel gum paint",
+      "medicine_name": "Hexigel gum paint",
+      "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+      "price": 95.78,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultrafen-plus",
+      "medicine_name": "Ultrafen-plus",
+      "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+      "price": 67.6,
+      "availability": false
+    },
+    {
+      "medicine_id": "Relentus",
+      "medicine_name": "Relentus",
+      "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+      "price": 109.15,
+      "availability": true
+    },
+    {
+      "medicine_id": "Progen",
+      "medicine_name": "Progen",
+      "medicine_desc": "Often a brand name for progesterone or a protein supplement.",
+      "price": 250.33,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ultracal-D",
+      "medicine_name": "Ultracal-D",
+      "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+      "price": 179.99,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cartilix",
+      "medicine_name": "Cartilix",
+      "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+      "price": 448.48,
+      "availability": true
+    },
+    {
+      "medicine_id": "Dorzolamidum",
+      "medicine_name": "Dorzolamidum",
+      "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+      "price": 308.33,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cimetidine",
+      "medicine_name": "Cimetidine",
+      "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+      "price": 22.68,
+      "availability": true
+    },
+    {
+      "medicine_id": "Oxprelol",
+      "medicine_name": "Oxprelol",
+      "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+      "price": 118.28,
+      "availability": true
+    },
+    {
+      "medicine_id": "Paracetamol",
+      "medicine_name": "Paracetamol",
+      "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+      "price": 32.28,
+      "availability": true
+    },
+    {
+      "medicine_id": "Atorvastatin",
+      "medicine_name": "Atorvastatin",
+      "medicine_desc": "A statin used to lower cholesterol and triglycerides.",
+      "price": 147.48,
+      "availability": true
+    },
+    {
+      "medicine_id": "Metformin",
+      "medicine_name": "Metformin",
+      "medicine_desc": "An oral medication that helps control blood sugar levels.",
+      "price": 47.01,
+      "availability": true
+    },
+    {
+      "medicine_id": "Amlodipine",
+      "medicine_name": "Amlodipine",
+      "medicine_desc": "A calcium channel blocker used to treat high blood pressure.",
+      "price": 61.49,
+      "availability": true
+    },
+    {
+      "medicine_id": "Cetirizine",
+      "medicine_name": "Cetirizine",
+      "medicine_desc": "An antihistamine used to relieve allergy symptoms.",
+      "price": 36.72,
+      "availability": true
+    },
+    {
+      "medicine_id": "Azithromycin",
+      "medicine_name": "Azithromycin",
+      "medicine_desc": "An antibiotic used to treat a variety of bacterial infections.",
+      "price": 115.81,
+      "availability": true
+    },
+    {
+      "medicine_id": "Montelukast",
+      "medicine_name": "Montelukast",
+      "medicine_desc": "Used to prevent wheezing and difficulty breathing caused by asthma.",
+      "price": 172.92,
+      "availability": true
+    },
+    {
+      "medicine_id": "Losartan",
+      "medicine_name": "Losartan",
+      "medicine_desc": "An ARB used to treat high blood pressure.",
+      "price": 92.99,
+      "availability": true
+    },
+    {
+      "medicine_id": "Sertraline",
+      "medicine_name": "Sertraline",
+      "medicine_desc": "An SSRI antidepressant used to treat depression and anxiety disorders.",
+      "price": 109.86,
+      "availability": false
+    },
+    {
+      "medicine_id": "Esomeprazole",
+      "medicine_name": "Esomeprazole",
+      "medicine_desc": "A proton pump inhibitor (PPI) that reduces stomach acid.",
+      "price": 75.09,
+      "availability": true
+    },
+    {
+      "medicine_id": "Clopidogrel",
+      "medicine_name": "Clopidogrel",
+      "medicine_desc": "An antiplatelet medicine used to prevent blood clots.",
+      "price": 104.64,
+      "availability": true
+    },
+    {
+      "medicine_id": "Levocetirizine",
+      "medicine_name": "Levocetirizine",
+      "medicine_desc": "A newer antihistamine, considered non-drowsy.",
+      "price": 50.91,
+      "availability": true
+    },
+    {
+      "medicine_id": "Domperidone",
+      "medicine_name": "Domperidone",
+      "medicine_desc": "A prokinetic agent used to treat nausea and vomiting.",
+      "price": 42.54,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ibuprofen",
+      "medicine_name": "Ibuprofen",
+      "medicine_desc": "A common NSAID used for pain relief, fever, and inflammation.",
+      "price": 17.73,
+      "availability": true
+    },
+    {
+      "medicine_id": "Pregabalin",
+      "medicine_name": "Pregabalin",
+      "medicine_desc": "Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",
+      "price": 211.88,
+      "availability": true
+    },
+    {
+      "medicine_id": "Tamsulosin",
+      "medicine_name": "Tamsulosin",
+      "medicine_desc": "An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).",
+      "price": 237.02,
+      "availability": true
+    },
+    {
+      "medicine_id": "Fexofenadine",
+      "medicine_name": "Fexofenadine",
+      "medicine_desc": "A non-drowsy antihistamine for seasonal allergies.",
+      "price": 90.35,
+      "availability": true
+    },
+    {
+      "medicine_id": "Glimepiride",
+      "medicine_name": "Glimepiride",
+      "medicine_desc": "A sulfonylurea drug that helps the pancreas produce more insulin.",
+      "price": 71.51,
+      "availability": true
+    },
+    {
+      "medicine_id": "Bisoprolol",
+      "medicine_name": "Bisoprolol",
+      "medicine_desc": "A beta-blocker that affects the heart and circulation.",
+      "price": 82.05,
+      "availability": false
+    },
+    {
+      "medicine_id": "Tacrolimus",
+      "medicine_name": "Tacrolimus",
+      "medicine_desc": "An immunosuppressive drug used to prevent organ rejection after a transplant.",
+      "price": 847.07,
+      "availability": true
+    },
+    {
+      "medicine_id": "Colchicine",
+      "medicine_name": "Colchicine",
+      "medicine_desc": "Used to treat and prevent gout attacks.",
+      "price": 139.92,
+      "availability": true
+    },
+    {
+      "medicine_id": "Phenytoin",
+      "medicine_name": "Phenytoin",
+      "medicine_desc": "An anti-epileptic drug used to control seizures.",
+      "price": 62.71,
+      "availability": true
+    },
+    {
+      "medicine_id": "Isotretinoin",
+      "medicine_name": "Isotretinoin",
+      "medicine_desc": "A powerful vitamin A derivative used to treat severe cystic acne.",
+      "price": 302.77,
+      "availability": true
+    },
+    {
+      "medicine_id": "Allopurinol",
+      "medicine_name": "Allopurinol",
+      "medicine_desc": "Reduces the production of uric acid in the body, preventing gout.",
+      "price": 42.62,
+      "availability": true
+    },
+    {
+      "medicine_id": "Methotrexate",
+      "medicine_name": "Methotrexate",
+      "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+      "price": 149.1,
+      "availability": true
+    },
+    {
+      "medicine_id": "Sofosbuvir",
+      "medicine_name": "Sofosbuvir",
+      "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+      "price": 8002.63,
+      "availability": true
+    },
+    {
+      "medicine_id": "Enoxaparin",
+      "medicine_name": "Enoxaparin",
+      "medicine_desc": "An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.",
+      "price": 447.75,
+      "availability": false
+    },
+    {
+      "medicine_id": "Rituximab",
+      "medicine_name": "Rituximab",
+      "medicine_desc": "A monoclonal antibody used to treat certain autoimmune diseases and cancers.",
+      "price": 40002.84,
+      "availability": true
+    },
+    {
+      "medicine_id": "Ondansetron",
+      "medicine_name": "Ondansetron",
+      "medicine_desc": "An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.",
+      "price": 47.79,
+      "availability": true
+    },
+    {
+      "medicine_id": "Carbamazepine",
+      "medicine_name": "Carbamazepine",
+      "medicine_desc": "An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",
+      "price": 74.14,
+      "availability": true
+    },
+    {
+      "medicine_id": "Latanoprost",
+      "medicine_name": "Latanoprost",
+      "medicine_desc": "Eye drops used to control the progression of glaucoma by reducing intraocular pressure.",
+      "price": 347.95,
+      "availability": true
+    },
+    {
+      "medicine_id": "Mycophenolate",
+      "medicine_name": "Mycophenolate",
+      "medicine_desc": "An immunosuppressant used to prevent organ rejection.",
+      "price": 952.47,
+      "availability": true
+    },
+    {
+      "medicine_id": "Adalimumab",
+      "medicine_name": "Adalimumab",
+      "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+      "price": 14998.81,
+      "availability": true
+    },
+    {
+      "medicine_id": "Acyclovir",
+      "medicine_name": "Acyclovir",
+      "medicine_desc": "An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",
+      "price": 121.92,
+      "availability": false
+    }
+  ]
+}

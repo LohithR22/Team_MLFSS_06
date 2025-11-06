@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Progon",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Progon",
+  "timestamp": 1762462746.273006,
+  "products": [
+    {
+      "index": 1,
+      "name": "Progynova 2 mg Tablet 28's",
+      "price": "₹590.50",
+      "price_value": 590.5,
+      "link": "https://www.apollopharmacy.in/medicine/progynova-2mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Progynova 1 mg Tablet 28's",
+      "price": "₹390.50",
+      "price_value": 390.5,
+      "link": "https://www.apollopharmacy.in/medicine/progynova-tablet-1mg?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Evadiol Tablet 28's",
+      "price": "₹403.50",
+      "price_value": 403.5,
+      "link": "https://www.apollopharmacy.in/medicine/evadiol-tablet?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Prugonist 2 Tablet 10's",
+      "price": "₹215.50",
+      "price_value": 215.5,
+      "link": "https://www.apollopharmacy.in/medicine/prugonist-2mg-tablet-10-s?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Progenix Tablet 10's",
+      "price": "₹369.50",
+      "price_value": 369.5,
+      "link": "https://www.apollopharmacy.in/otc/progenix-tablet-10-s?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 4,
+    "name": "Prugonist 2 Tablet 10's",
+    "price": "₹215.50",
+    "price_value": 215.5,
+    "link": "https://www.apollopharmacy.in/medicine/prugonist-2mg-tablet-10-s?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Progynova 2 mg Tablet 28's",
+      "price": "₹590.50",
+      "price_value": 590.5,
+      "link": "https://www.apollopharmacy.in/medicine/progynova-2mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Progynova 1 mg Tablet 28's",
+      "price": "₹390.50",
+      "price_value": 390.5,
+      "link": "https://www.apollopharmacy.in/medicine/progynova-tablet-1mg?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Evadiol Tablet 28's",
+      "price": "₹403.50",
+      "price_value": 403.5,
+      "link": "https://www.apollopharmacy.in/medicine/evadiol-tablet?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Progenix Tablet 10's",
+      "price": "₹369.50",
+      "price_value": 369.5,
+      "link": "https://www.apollopharmacy.in/otc/progenix-tablet-10-s?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

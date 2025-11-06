@@ -1,0 +1,100 @@
+{
+  "medicine_query": "Pan D",
+  "search_url": "https://www.netmeds.com/products?q=Pan D",
+  "timestamp": 1762464060.5907319,
+  "products": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Pantosec D Tablet 10'S",
+      "price": "N/A",
+      "price_value": 10.0,
+      "raw_text": "Pantosec D Tablet 10'S\nStrip of 10 tablets\nBy Cipla Ltd",
+      "link": "https://www.netmeds.com/product/pantosec-d-tablet-10s-lui1wy-8230832"
+    },
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "EC Pan DSR Capsule 10'S",
+      "price": "Best price ₹129.93",
+      "price_value": 129.93,
+      "raw_text": "EC Pan DSR Capsule 10'S\nStrip of 10 capsules\nBy Icon Life Sciences\nBest price ₹129.93",
+      "link": "https://www.netmeds.com/product/ec-pan-dsr-capsule-10s-luh901-7956915"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "PAN 20mg Tablet 15'S",
+      "price": "Best price ₹102.46",
+      "price_value": 102.46,
+      "raw_text": "PAN 20mg Tablet 15'S\nStrip of 15 tablets\nBy Alkem Laboratories Ltd\nBest price ₹102.46",
+      "link": "https://www.netmeds.com/product/pan-20mg-tablet-15s-lui2by-8242734"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "PANTIN D Capsule 10's",
+      "price": "Best price ₹74.18",
+      "price_value": 74.18,
+      "raw_text": "PANTIN D Capsule 10's\nStrip of 10 capsules\nBy Hetero Healthcare Limited\nBest price ₹74.18",
+      "link": "https://www.netmeds.com/product/pantin-d-capsule-10s-lui7rg-8349287"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "Panbloc D Capsule 10'S",
+      "price": "Best price ₹130.68",
+      "price_value": 130.68,
+      "raw_text": "Panbloc D Capsule 10'S\nStrip of 10 capsules\nBy Tablets India Ltd\nBest price ₹130.68",
+      "link": "https://www.netmeds.com/product/panbloc-d-capsule-10s-lui4s0-8291511"
+    }
+  ],
+  "best_choice": {
+    "index": 0,
+    "label": "Best Choice",
+    "name": "Pantosec D Tablet 10'S",
+    "price": "N/A",
+    "price_value": 10.0,
+    "raw_text": "Pantosec D Tablet 10'S\nStrip of 10 tablets\nBy Cipla Ltd",
+    "link": "https://www.netmeds.com/product/pantosec-d-tablet-10s-lui1wy-8230832"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "EC Pan DSR Capsule 10'S",
+      "price": "Best price ₹129.93",
+      "price_value": 129.93,
+      "raw_text": "EC Pan DSR Capsule 10'S\nStrip of 10 capsules\nBy Icon Life Sciences\nBest price ₹129.93",
+      "link": "https://www.netmeds.com/product/ec-pan-dsr-capsule-10s-luh901-7956915"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "PAN 20mg Tablet 15'S",
+      "price": "Best price ₹102.46",
+      "price_value": 102.46,
+      "raw_text": "PAN 20mg Tablet 15'S\nStrip of 15 tablets\nBy Alkem Laboratories Ltd\nBest price ₹102.46",
+      "link": "https://www.netmeds.com/product/pan-20mg-tablet-15s-lui2by-8242734"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "PANTIN D Capsule 10's",
+      "price": "Best price ₹74.18",
+      "price_value": 74.18,
+      "raw_text": "PANTIN D Capsule 10's\nStrip of 10 capsules\nBy Hetero Healthcare Limited\nBest price ₹74.18",
+      "link": "https://www.netmeds.com/product/pantin-d-capsule-10s-lui7rg-8349287"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "Panbloc D Capsule 10'S",
+      "price": "Best price ₹130.68",
+      "price_value": 130.68,
+      "raw_text": "Panbloc D Capsule 10'S\nStrip of 10 capsules\nBy Tablets India Ltd\nBest price ₹130.68",
+      "link": "https://www.netmeds.com/product/panbloc-d-capsule-10s-lui4s0-8291511"
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Ulmeal-D",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Ulmeal-D",
+  "timestamp": 1762462746.5247312,
+  "products": [
+    {
+      "index": 1,
+      "name": "Ultra D3 Drops 15 ml",
+      "price": "₹41.50",
+      "price_value": 41.5,
+      "link": "https://www.apollopharmacy.in/otc/ultra-d3-400iu-paed-pineapple-flav-drops-15ml?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Ultra D3 Syrup 100 ml",
+      "price": "₹158",
+      "price_value": 158.0,
+      "link": "https://www.apollopharmacy.in/otc/ultra-d3-syrup-100ml?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Ultra-D3 800IU Oral Drops 15 ml",
+      "price": "₹93",
+      "price_value": 93.0,
+      "link": "https://www.apollopharmacy.in/otc/ultra-d3-800iu-ml-paed-drops-15ml?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Ultra D3 2K Tablet 30's",
+      "price": "₹258.50",
+      "price_value": 258.5,
+      "link": "https://www.apollopharmacy.in/otc/ultra-d3-2k-tablet?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Ultra D3 Nano Oral Drop 15 ml",
+      "price": "₹117",
+      "price_value": 117.0,
+      "link": "https://www.apollopharmacy.in/otc/ultra-d3-nan0-400iu-paed-drops-15ml?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 1,
+    "name": "Ultra D3 Drops 15 ml",
+    "price": "₹41.50",
+    "price_value": 41.5,
+    "link": "https://www.apollopharmacy.in/otc/ultra-d3-400iu-paed-pineapple-flav-drops-15ml?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 2,
+      "name": "Ultra D3 Syrup 100 ml",
+      "price": "₹158",
+      "price_value": 158.0,
+      "link": "https://www.apollopharmacy.in/otc/ultra-d3-syrup-100ml?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Ultra-D3 800IU Oral Drops 15 ml",
+      "price": "₹93",
+      "price_value": 93.0,
+      "link": "https://www.apollopharmacy.in/otc/ultra-d3-800iu-ml-paed-drops-15ml?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Ultra D3 2K Tablet 30's",
+      "price": "₹258.50",
+      "price_value": 258.5,
+      "link": "https://www.apollopharmacy.in/otc/ultra-d3-2k-tablet?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Ultra D3 Nano Oral Drop 15 ml",
+      "price": "₹117",
+      "price_value": 117.0,
+      "link": "https://www.apollopharmacy.in/otc/ultra-d3-nan0-400iu-paed-drops-15ml?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

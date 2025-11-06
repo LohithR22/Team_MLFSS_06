@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Cimetidine",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Cimetidine",
+  "timestamp": 1762460210.5626934,
+  "products": [
+    {
+      "index": 1,
+      "name": "Cymet ER 50 Tablet 10's",
+      "price": "₹39",
+      "price_value": 39.0,
+      "link": "https://www.apollopharmacy.in/medicine/cymet-er-50mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Famocid 40 Tablet 14's",
+      "price": "₹10.50",
+      "price_value": 10.5,
+      "link": "https://www.apollopharmacy.in/medicine/famocid-40mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Famtac 40 Tablet 14's",
+      "price": "₹36",
+      "price_value": 36.0,
+      "link": "https://www.apollopharmacy.in/medicine/famtac-40mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Rantac 300 Tablet 30's",
+      "price": "₹88.50",
+      "price_value": 88.5,
+      "link": "https://www.apollopharmacy.in/medicine/rantac-300mg-tablet-30s?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Aciloc 150 Tablet 30's",
+      "price": "₹50",
+      "price_value": 50.0,
+      "link": "https://www.apollopharmacy.in/medicine/aciloc-150mg-tablet?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 2,
+    "name": "Famocid 40 Tablet 14's",
+    "price": "₹10.50",
+    "price_value": 10.5,
+    "link": "https://www.apollopharmacy.in/medicine/famocid-40mg-tablet?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Cymet ER 50 Tablet 10's",
+      "price": "₹39",
+      "price_value": 39.0,
+      "link": "https://www.apollopharmacy.in/medicine/cymet-er-50mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Famtac 40 Tablet 14's",
+      "price": "₹36",
+      "price_value": 36.0,
+      "link": "https://www.apollopharmacy.in/medicine/famtac-40mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Rantac 300 Tablet 30's",
+      "price": "₹88.50",
+      "price_value": 88.5,
+      "link": "https://www.apollopharmacy.in/medicine/rantac-300mg-tablet-30s?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Aciloc 150 Tablet 30's",
+      "price": "₹50",
+      "price_value": 50.0,
+      "link": "https://www.apollopharmacy.in/medicine/aciloc-150mg-tablet?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

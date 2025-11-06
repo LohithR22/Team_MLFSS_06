@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Hexigel gum paint",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Hexigel gum paint",
+  "timestamp": 1762464058.0188751,
+  "products": [
+    {
+      "index": 1,
+      "name": "Astrigum Gum Paint 15 ml",
+      "price": "₹105",
+      "price_value": 105.0,
+      "link": "https://www.apollopharmacy.in/otc/astrigum-gum-paint-15ml?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Hexigel Mouth Gel 15 gm",
+      "price": "₹63.45",
+      "price_value": 63.45,
+      "link": "https://www.apollopharmacy.in/medicine/hexigel-ointment-15gm?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Gingisave Gum Paint",
+      "price": "₹93.50",
+      "price_value": 93.5,
+      "link": "https://www.apollopharmacy.in/otc/gingisave-gum-paint?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Gumdac Gum Paint 15 ml",
+      "price": "₹60",
+      "price_value": 60.0,
+      "link": "https://www.apollopharmacy.in/otc/gumdac-gum-paint-15ml?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Gumpro Gum Paint 20 gm",
+      "price": "₹48",
+      "price_value": 48.0,
+      "link": "https://www.apollopharmacy.in/otc/gumpro-gum-paint-20-gm?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 5,
+    "name": "Gumpro Gum Paint 20 gm",
+    "price": "₹48",
+    "price_value": 48.0,
+    "link": "https://www.apollopharmacy.in/otc/gumpro-gum-paint-20-gm?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Astrigum Gum Paint 15 ml",
+      "price": "₹105",
+      "price_value": 105.0,
+      "link": "https://www.apollopharmacy.in/otc/astrigum-gum-paint-15ml?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Hexigel Mouth Gel 15 gm",
+      "price": "₹63.45",
+      "price_value": 63.45,
+      "link": "https://www.apollopharmacy.in/medicine/hexigel-ointment-15gm?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Gingisave Gum Paint",
+      "price": "₹93.50",
+      "price_value": 93.5,
+      "link": "https://www.apollopharmacy.in/otc/gingisave-gum-paint?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Gumdac Gum Paint 15 ml",
+      "price": "₹60",
+      "price_value": 60.0,
+      "link": "https://www.apollopharmacy.in/otc/gumdac-gum-paint-15ml?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

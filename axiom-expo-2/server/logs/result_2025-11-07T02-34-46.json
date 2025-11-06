@@ -1,0 +1,87 @@
+{
+  "source": {
+    "lat": 12.91,
+    "lon": 77.51
+  },
+  "requested": [
+    {
+      "name": "Paracetamol"
+    }
+  ],
+  "top_stores": [
+    {
+      "store_id": "Be Well Drugs",
+      "store_name": "Be Well Drugs",
+      "distance_km": 0.08813146347083632,
+      "latitude": 12.909722477406175,
+      "longitude": 77.50923833723208,
+      "counts": {
+        "available": 1,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Paracetamol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Paracetamol",
+            "medicine_name": "Paracetamol",
+            "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+            "price": 30.24,
+            "availability": true
+          },
+          "price_used": 30.24
+        }
+      ],
+      "total_price": 30.24,
+      "total_requested": 1,
+      "composite_score": 0.8625921055382317,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.4989644602766962,
+        "distance": 0.919006603127051
+      }
+    },
+    {
+      "store_id": "Apollo Pharmacy Kenchenahalli Road, RR Nagar",
+      "store_name": "Apollo Pharmacy Kenchenahalli Road, RR Nagar",
+      "distance_km": 0.39436664264078675,
+      "latitude": 12.910958998147274,
+      "longitude": 77.51350306462756,
+      "counts": {
+        "available": 1,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Paracetamol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Paracetamol",
+            "medicine_name": "Paracetamol",
+            "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+            "price": 29.99,
+            "availability": true
+          },
+          "price_used": 29.99
+        }
+      ],
+      "total_price": 29.99,
+      "total_requested": 1,
+      "composite_score": 0.8328356849422112,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.5010398469345312,
+        "distance": 0.7171714880571892
+      }
+    }
+  ]
+}

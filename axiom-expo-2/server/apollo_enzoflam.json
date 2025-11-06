@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Enzoflam",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Enzoflam",
+  "timestamp": 1762464059.4970598,
+  "products": [
+    {
+      "index": 1,
+      "name": "Enzoflam Tablet 10's",
+      "price": "₹172",
+      "price_value": 172.0,
+      "link": "https://www.apollopharmacy.in/medicine/enzoflam-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Enzoflam-MR Tablet 10's",
+      "price": "₹173.50",
+      "price_value": 173.5,
+      "link": "https://www.apollopharmacy.in/medicine/enzoflam-mr-tab-10-s?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Enzoflam-CT Tablet 15's",
+      "price": "₹307.50",
+      "price_value": 307.5,
+      "link": "https://www.apollopharmacy.in/medicine/enzoflam-ct-100000au-tablet-15-s?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Enzoflam-SP Tablet 10's",
+      "price": "₹136.50",
+      "price_value": 136.5,
+      "link": "https://www.apollopharmacy.in/medicine/enzoflam-sp-tab-10-s?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "ENZOFLAM SV TABLET",
+      "price": "₹133",
+      "price_value": 133.0,
+      "link": "https://www.apollopharmacy.in/medicine/enzoflam-sv-tablet?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 5,
+    "name": "ENZOFLAM SV TABLET",
+    "price": "₹133",
+    "price_value": 133.0,
+    "link": "https://www.apollopharmacy.in/medicine/enzoflam-sv-tablet?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Enzoflam Tablet 10's",
+      "price": "₹172",
+      "price_value": 172.0,
+      "link": "https://www.apollopharmacy.in/medicine/enzoflam-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Enzoflam-MR Tablet 10's",
+      "price": "₹173.50",
+      "price_value": 173.5,
+      "link": "https://www.apollopharmacy.in/medicine/enzoflam-mr-tab-10-s?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Enzoflam-CT Tablet 15's",
+      "price": "₹307.50",
+      "price_value": 307.5,
+      "link": "https://www.apollopharmacy.in/medicine/enzoflam-ct-100000au-tablet-15-s?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Enzoflam-SP Tablet 10's",
+      "price": "₹136.50",
+      "price_value": 136.5,
+      "link": "https://www.apollopharmacy.in/medicine/enzoflam-sp-tab-10-s?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

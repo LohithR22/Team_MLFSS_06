@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Pan D",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Pan D",
+  "timestamp": 1762464058.733256,
+  "products": [
+    {
+      "index": 1,
+      "name": "Pan-D Capsule 15's",
+      "price": "₹238",
+      "price_value": 238.0,
+      "link": "https://www.apollopharmacy.in/medicine/pan-d-capsule?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Pantocid D Capsule 10's",
+      "price": "₹122.50",
+      "price_value": 122.5,
+      "link": "https://www.apollopharmacy.in/medicine/pantocid-d-capsule?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Pantosec-D Tablet 10's",
+      "price": "₹126.30",
+      "price_value": 126.3,
+      "link": "https://www.apollopharmacy.in/medicine/pantosec-d-tablet?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Pantosec DSR Capsule 10's",
+      "price": "₹106.50",
+      "price_value": 106.5,
+      "link": "https://www.apollopharmacy.in/medicine/pantosec-dsr-capsule?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "PAN 40 Tablet 15's",
+      "price": "₹175",
+      "price_value": 175.0,
+      "link": "https://www.apollopharmacy.in/medicine/pan-40mg-tablet?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 4,
+    "name": "Pantosec DSR Capsule 10's",
+    "price": "₹106.50",
+    "price_value": 106.5,
+    "link": "https://www.apollopharmacy.in/medicine/pantosec-dsr-capsule?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Pan-D Capsule 15's",
+      "price": "₹238",
+      "price_value": 238.0,
+      "link": "https://www.apollopharmacy.in/medicine/pan-d-capsule?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Pantocid D Capsule 10's",
+      "price": "₹122.50",
+      "price_value": 122.5,
+      "link": "https://www.apollopharmacy.in/medicine/pantocid-d-capsule?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Pantosec-D Tablet 10's",
+      "price": "₹126.30",
+      "price_value": 126.3,
+      "link": "https://www.apollopharmacy.in/medicine/pantosec-d-tablet?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "PAN 40 Tablet 15's",
+      "price": "₹175",
+      "price_value": 175.0,
+      "link": "https://www.apollopharmacy.in/medicine/pan-40mg-tablet?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

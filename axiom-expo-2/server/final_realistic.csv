@@ -1,0 +1,393 @@
+drug_name,medical_condition,medical_condition_description,rating,store_latitude,store_longitude,availability,price,store_name,criteria
+Augmentin,Bacterial Infection,A combination antibiotic used to treat a wide variety of bacterial infections.,4.2,12.9260174804538,77.51873873639585,True,225.54,MedPlus Rajarajeshwari Nagar,Common
+Pan D,Acidity / GERD,"A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",4.7,12.9260174804538,77.51873873639585,True,197.36,MedPlus Rajarajeshwari Nagar,Common
+Diclofenac,Pain / Inflammation,A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.,4.1,12.9260174804538,77.51873873639585,True,87.74,MedPlus Rajarajeshwari Nagar,Common
+Omeprozole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.,4.0,12.9260174804538,77.51873873639585,True,55.49,MedPlus Rajarajeshwari Nagar,Common
+Betaloc,Hypertension,A beta-blocker used to treat high blood pressure (hypertension) and angina.,3.9,12.9260174804538,77.51873873639585,True,92.67,MedPlus Rajarajeshwari Nagar,Common
+Enzoflam,Pain / Swelling,A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.,3.9,12.9260174804538,77.51873873639585,True,131.38,MedPlus Rajarajeshwari Nagar,Alternate
+Hexigel gum paint,Gum Infection,"An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",4.0,12.9260174804538,77.51873873639585,True,97.16,MedPlus Rajarajeshwari Nagar,Alternate
+Ultrafen-plus,Pain / Fever,"A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",5.0,12.9260174804538,77.51873873639585,True,71.17,MedPlus Rajarajeshwari Nagar,Alternate
+Relentus,Cough / Cold,"A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",4.4,12.9260174804538,77.51873873639585,True,107.89,MedPlus Rajarajeshwari Nagar,Alternate
+Progen,Nutritional Supplement,Often a brand name for progesterone or a protein supplement.,4.3,12.9260174804538,77.51873873639585,False,250.21,MedPlus Rajarajeshwari Nagar,Alternate
+Ultracal-D,Calcium Deficiency,"A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",4.3,12.9260174804538,77.51873873639585,True,182.01,MedPlus Rajarajeshwari Nagar,Alternate
+Cartilix,Joint Health,"A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",4.0,12.9260174804538,77.51873873639585,False,452.19,MedPlus Rajarajeshwari Nagar,Alternate
+Dorzolamidum,Glaucoma,A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.,5.0,12.9260174804538,77.51873873639585,True,308.7,MedPlus Rajarajeshwari Nagar,Rare
+Cimetidine,Acidity / Ulcer,An H2 receptor blocker that reduces stomach acid. Less common now.,4.8,12.9260174804538,77.51873873639585,True,27.6,MedPlus Rajarajeshwari Nagar,Rare
+Oxprelol,Hypertension,"A non-selective beta blocker, less commonly used now, for hypertension.",4.8,12.9260174804538,77.51873873639585,False,117.25,MedPlus Rajarajeshwari Nagar,Rare
+Paracetamol,Fever / Pain,Commonly used to treat fever and mild to moderate pain.,3.9,12.9260174804538,77.51873873639585,True,28.85,MedPlus Rajarajeshwari Nagar,Common
+Atorvastatin,High Cholesterol,A statin used to lower cholesterol and triglycerides.,3.9,12.9260174804538,77.51873873639585,True,147.02,MedPlus Rajarajeshwari Nagar,Common
+Metformin,Diabetes Type 2,An oral medication that helps control blood sugar levels.,4.6,12.9260174804538,77.51873873639585,True,47.28,MedPlus Rajarajeshwari Nagar,Common
+Amlodipine,Hypertension,A calcium channel blocker used to treat high blood pressure.,4.9,12.9260174804538,77.51873873639585,True,57.4,MedPlus Rajarajeshwari Nagar,Common
+Cetirizine,Allergy,An antihistamine used to relieve allergy symptoms.,4.9,12.9260174804538,77.51873873639585,True,34.9,MedPlus Rajarajeshwari Nagar,Common
+Azithromycin,Bacterial Infection,An antibiotic used to treat a variety of bacterial infections.,4.2,12.9260174804538,77.51873873639585,True,115.14,MedPlus Rajarajeshwari Nagar,Common
+Montelukast,Asthma / Allergy,Used to prevent wheezing and difficulty breathing caused by asthma.,4.2,12.9260174804538,77.51873873639585,True,175.11,MedPlus Rajarajeshwari Nagar,Common
+Losartan,Hypertension,An ARB used to treat high blood pressure.,4.5,12.9260174804538,77.51873873639585,False,90.24,MedPlus Rajarajeshwari Nagar,Common
+Sertraline,Depression / Anxiety,An SSRI antidepressant used to treat depression and anxiety disorders.,4.2,12.9260174804538,77.51873873639585,True,109.22,MedPlus Rajarajeshwari Nagar,Common
+Esomeprazole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces stomach acid.,4.9,12.9260174804538,77.51873873639585,True,75.62,MedPlus Rajarajeshwari Nagar,Common
+Clopidogrel,Blood Clot Prevention,An antiplatelet medicine used to prevent blood clots.,4.4,12.9260174804538,77.51873873639585,True,103.45,MedPlus Rajarajeshwari Nagar,Common
+Levocetirizine,Allergy,"A newer antihistamine, considered non-drowsy.",4.1,12.9260174804538,77.51873873639585,True,51.33,MedPlus Rajarajeshwari Nagar,Alternate
+Domperidone,Nausea / Vomiting,A prokinetic agent used to treat nausea and vomiting.,4.5,12.9260174804538,77.51873873639585,True,39.02,MedPlus Rajarajeshwari Nagar,Alternate
+Ibuprofen,Pain / Inflammation,"A common NSAID used for pain relief, fever, and inflammation.",4.6,12.9260174804538,77.51873873639585,True,22.18,MedPlus Rajarajeshwari Nagar,Alternate
+Pregabalin,Neuropathic Pain,"Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",4.2,12.9260174804538,77.51873873639585,True,209.31,MedPlus Rajarajeshwari Nagar,Alternate
+Tamsulosin,Benign Prostatic Hyperplasia,An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).,4.7,12.9260174804538,77.51873873639585,True,242.14,MedPlus Rajarajeshwari Nagar,Alternate
+Fexofenadine,Allergy,A non-drowsy antihistamine for seasonal allergies.,4.5,12.9260174804538,77.51873873639585,False,90.74,MedPlus Rajarajeshwari Nagar,Alternate
+Glimepiride,Diabetes Type 2,A sulfonylurea drug that helps the pancreas produce more insulin.,4.1,12.9260174804538,77.51873873639585,True,71.72,MedPlus Rajarajeshwari Nagar,Alternate
+Bisoprolol,Hypertension,A beta-blocker that affects the heart and circulation.,3.9,12.9260174804538,77.51873873639585,True,79.32,MedPlus Rajarajeshwari Nagar,Alternate
+Tacrolimus,Organ Transplant,An immunosuppressive drug used to prevent organ rejection after a transplant.,4.5,12.9260174804538,77.51873873639585,True,851.96,MedPlus Rajarajeshwari Nagar,Rare
+Colchicine,Gout,Used to treat and prevent gout attacks.,4.5,12.9260174804538,77.51873873639585,True,140.5,MedPlus Rajarajeshwari Nagar,Rare
+Phenytoin,Epilepsy,An anti-epileptic drug used to control seizures.,3.9,12.9260174804538,77.51873873639585,True,57.73,MedPlus Rajarajeshwari Nagar,Rare
+Isotretinoin,Severe Acne,A powerful vitamin A derivative used to treat severe cystic acne.,4.0,12.9260174804538,77.51873873639585,False,298.79,MedPlus Rajarajeshwari Nagar,Rare
+Allopurinol,Gout,"Reduces the production of uric acid in the body, preventing gout.",4.8,12.9260174804538,77.51873873639585,False,37.5,MedPlus Rajarajeshwari Nagar,Rare
+Methotrexate,Rheumatoid Arthritis,An immunosuppressant used for rheumatoid arthritis and some cancers.,4.5,12.9260174804538,77.51873873639585,True,151.21,MedPlus Rajarajeshwari Nagar,Rare
+Sofosbuvir,Hepatitis C,An antiviral medication used to treat Hepatitis C.,4.3,12.9260174804538,77.51873873639585,True,8001.68,MedPlus Rajarajeshwari Nagar,Rare
+Enoxaparin,DVT Prevention,An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.,3.9,12.9260174804538,77.51873873639585,False,452.58,MedPlus Rajarajeshwari Nagar,Rare
+Rituximab,Autoimmune Disease / Cancer,A monoclonal antibody used to treat certain autoimmune diseases and cancers.,4.1,12.9260174804538,77.51873873639585,True,39999.43,MedPlus Rajarajeshwari Nagar,Rare
+Ondansetron,Nausea / Vomiting,An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.,3.9,12.9260174804538,77.51873873639585,True,49.29,MedPlus Rajarajeshwari Nagar,Rare
+Carbamazepine,Epilepsy / Nerve Pain,"An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",4.7,12.9260174804538,77.51873873639585,False,75.59,MedPlus Rajarajeshwari Nagar,Rare
+Latanoprost,Glaucoma,Eye drops used to control the progression of glaucoma by reducing intraocular pressure.,4.5,12.9260174804538,77.51873873639585,True,347.49,MedPlus Rajarajeshwari Nagar,Rare
+Mycophenolate,Organ Transplant,An immunosuppressant used to prevent organ rejection.,5.0,12.9260174804538,77.51873873639585,True,952.5,MedPlus Rajarajeshwari Nagar,Rare
+Adalimumab,Rheumatoid Arthritis,A biologic drug (TNF inhibitor) used for autoimmune conditions.,4.8,12.9260174804538,77.51873873639585,True,14998.45,MedPlus Rajarajeshwari Nagar,Rare
+Acyclovir,Viral Infection (Herpes),"An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",4.4,12.9260174804538,77.51873873639585,True,118.68,MedPlus Rajarajeshwari Nagar,Rare
+Augmentin,Bacterial Infection,A combination antibiotic used to treat a wide variety of bacterial infections.,4.9,12.916062252168636,77.51315974188867,True,226.16,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Pan D,Acidity / GERD,"A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",4.1,12.916062252168636,77.51315974188867,True,199.66,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Diclofenac,Pain / Inflammation,A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.,4.6,12.916062252168636,77.51315974188867,True,87.14,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Omeprozole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.,4.2,12.916062252168636,77.51315974188867,True,53.31,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Betaloc,Hypertension,A beta-blocker used to treat high blood pressure (hypertension) and angina.,4.6,12.916062252168636,77.51315974188867,True,91.35,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Enzoflam,Pain / Swelling,A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.,4.2,12.916062252168636,77.51315974188867,True,131.23,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Hexigel gum paint,Gum Infection,"An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",4.3,12.916062252168636,77.51315974188867,True,96.76,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Ultrafen-plus,Pain / Fever,"A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",4.3,12.916062252168636,77.51315974188867,False,72.78,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Relentus,Cough / Cold,"A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",4.7,12.916062252168636,77.51315974188867,True,111.17,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Progen,Nutritional Supplement,Often a brand name for progesterone or a protein supplement.,4.2,12.916062252168636,77.51315974188867,False,249.49,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Ultracal-D,Calcium Deficiency,"A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",4.0,12.916062252168636,77.51315974188867,True,181.65,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Cartilix,Joint Health,"A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",4.1,12.916062252168636,77.51315974188867,True,447.48,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Dorzolamidum,Glaucoma,A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.,4.5,12.916062252168636,77.51315974188867,True,312.68,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Cimetidine,Acidity / Ulcer,An H2 receptor blocker that reduces stomach acid. Less common now.,4.0,12.916062252168636,77.51315974188867,True,25.73,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Oxprelol,Hypertension,"A non-selective beta blocker, less commonly used now, for hypertension.",4.3,12.916062252168636,77.51315974188867,True,120.23,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Paracetamol,Fever / Pain,Commonly used to treat fever and mild to moderate pain.,4.7,12.916062252168636,77.51315974188867,True,28.74,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Atorvastatin,High Cholesterol,A statin used to lower cholesterol and triglycerides.,4.6,12.916062252168636,77.51315974188867,True,148.5,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Metformin,Diabetes Type 2,An oral medication that helps control blood sugar levels.,3.9,12.916062252168636,77.51315974188867,True,44.57,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Amlodipine,Hypertension,A calcium channel blocker used to treat high blood pressure.,4.2,12.916062252168636,77.51315974188867,True,58.68,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Cetirizine,Allergy,An antihistamine used to relieve allergy symptoms.,4.6,12.916062252168636,77.51315974188867,True,33.64,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Azithromycin,Bacterial Infection,An antibiotic used to treat a variety of bacterial infections.,5.0,12.916062252168636,77.51315974188867,True,114.25,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Montelukast,Asthma / Allergy,Used to prevent wheezing and difficulty breathing caused by asthma.,4.6,12.916062252168636,77.51315974188867,True,177.76,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Losartan,Hypertension,An ARB used to treat high blood pressure.,4.8,12.916062252168636,77.51315974188867,True,91.1,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Sertraline,Depression / Anxiety,An SSRI antidepressant used to treat depression and anxiety disorders.,4.5,12.916062252168636,77.51315974188867,True,111.86,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Esomeprazole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces stomach acid.,4.3,12.916062252168636,77.51315974188867,True,72.68,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Clopidogrel,Blood Clot Prevention,An antiplatelet medicine used to prevent blood clots.,3.9,12.916062252168636,77.51315974188867,False,106.56,"MedPLus RR Nagar, Kenchenahalli Road",Common
+Levocetirizine,Allergy,"A newer antihistamine, considered non-drowsy.",4.8,12.916062252168636,77.51315974188867,True,51.14,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Domperidone,Nausea / Vomiting,A prokinetic agent used to treat nausea and vomiting.,4.8,12.916062252168636,77.51315974188867,True,39.7,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Ibuprofen,Pain / Inflammation,"A common NSAID used for pain relief, fever, and inflammation.",4.7,12.916062252168636,77.51315974188867,True,18.76,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Pregabalin,Neuropathic Pain,"Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",4.3,12.916062252168636,77.51315974188867,True,209.9,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Tamsulosin,Benign Prostatic Hyperplasia,An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).,4.0,12.916062252168636,77.51315974188867,True,237.07,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Fexofenadine,Allergy,A non-drowsy antihistamine for seasonal allergies.,4.8,12.916062252168636,77.51315974188867,True,88.39,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Glimepiride,Diabetes Type 2,A sulfonylurea drug that helps the pancreas produce more insulin.,4.6,12.916062252168636,77.51315974188867,True,68.53,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Bisoprolol,Hypertension,A beta-blocker that affects the heart and circulation.,3.9,12.916062252168636,77.51315974188867,True,82.85,"MedPLus RR Nagar, Kenchenahalli Road",Alternate
+Tacrolimus,Organ Transplant,An immunosuppressive drug used to prevent organ rejection after a transplant.,4.5,12.916062252168636,77.51315974188867,True,849.23,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Colchicine,Gout,Used to treat and prevent gout attacks.,4.8,12.916062252168636,77.51315974188867,True,137.05,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Phenytoin,Epilepsy,An anti-epileptic drug used to control seizures.,4.9,12.916062252168636,77.51315974188867,True,59.7,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Isotretinoin,Severe Acne,A powerful vitamin A derivative used to treat severe cystic acne.,4.1,12.916062252168636,77.51315974188867,True,299.39,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Allopurinol,Gout,"Reduces the production of uric acid in the body, preventing gout.",4.5,12.916062252168636,77.51315974188867,True,38.87,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Methotrexate,Rheumatoid Arthritis,An immunosuppressant used for rheumatoid arthritis and some cancers.,4.3,12.916062252168636,77.51315974188867,False,148.23,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Sofosbuvir,Hepatitis C,An antiviral medication used to treat Hepatitis C.,4.5,12.916062252168636,77.51315974188867,True,7997.47,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Enoxaparin,DVT Prevention,An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.,4.7,12.916062252168636,77.51315974188867,True,452.02,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Rituximab,Autoimmune Disease / Cancer,A monoclonal antibody used to treat certain autoimmune diseases and cancers.,4.4,12.916062252168636,77.51315974188867,False,39999.62,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Ondansetron,Nausea / Vomiting,An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.,4.7,12.916062252168636,77.51315974188867,True,49.96,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Carbamazepine,Epilepsy / Nerve Pain,"An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",4.7,12.916062252168636,77.51315974188867,True,75.97,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Latanoprost,Glaucoma,Eye drops used to control the progression of glaucoma by reducing intraocular pressure.,4.4,12.916062252168636,77.51315974188867,True,349.36,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Mycophenolate,Organ Transplant,An immunosuppressant used to prevent organ rejection.,4.1,12.916062252168636,77.51315974188867,True,948.3,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Adalimumab,Rheumatoid Arthritis,A biologic drug (TNF inhibitor) used for autoimmune conditions.,4.1,12.916062252168636,77.51315974188867,True,14999.93,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Acyclovir,Viral Infection (Herpes),"An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",4.1,12.916062252168636,77.51315974188867,True,122.17,"MedPLus RR Nagar, Kenchenahalli Road",Rare
+Augmentin,Bacterial Infection,A combination antibiotic used to treat a wide variety of bacterial infections.,4.4,12.912046585611204,77.52105616488345,True,226.02,"MedPlus RR Nagar, 60 Feet Road",Common
+Pan D,Acidity / GERD,"A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",4.7,12.912046585611204,77.52105616488345,True,196.05,"MedPlus RR Nagar, 60 Feet Road",Common
+Diclofenac,Pain / Inflammation,A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.,4.7,12.912046585611204,77.52105616488345,True,83.54,"MedPlus RR Nagar, 60 Feet Road",Common
+Omeprozole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.,4.2,12.912046585611204,77.52105616488345,True,52.8,"MedPlus RR Nagar, 60 Feet Road",Common
+Betaloc,Hypertension,A beta-blocker used to treat high blood pressure (hypertension) and angina.,5.0,12.912046585611204,77.52105616488345,True,91.26,"MedPlus RR Nagar, 60 Feet Road",Common
+Enzoflam,Pain / Swelling,A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.,4.7,12.912046585611204,77.52105616488345,True,128.02,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Hexigel gum paint,Gum Infection,"An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",4.1,12.912046585611204,77.52105616488345,True,95.5,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Ultrafen-plus,Pain / Fever,"A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",5.0,12.912046585611204,77.52105616488345,True,67.67,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Relentus,Cough / Cold,"A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",4.4,12.912046585611204,77.52105616488345,True,109.67,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Progen,Nutritional Supplement,Often a brand name for progesterone or a protein supplement.,4.5,12.912046585611204,77.52105616488345,True,248.53,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Ultracal-D,Calcium Deficiency,"A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",4.8,12.912046585611204,77.52105616488345,True,180.14,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Cartilix,Joint Health,"A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",4.1,12.912046585611204,77.52105616488345,True,451.44,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Dorzolamidum,Glaucoma,A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.,3.9,12.912046585611204,77.52105616488345,True,307.33,"MedPlus RR Nagar, 60 Feet Road",Rare
+Cimetidine,Acidity / Ulcer,An H2 receptor blocker that reduces stomach acid. Less common now.,4.3,12.912046585611204,77.52105616488345,True,25.24,"MedPlus RR Nagar, 60 Feet Road",Rare
+Oxprelol,Hypertension,"A non-selective beta blocker, less commonly used now, for hypertension.",4.2,12.912046585611204,77.52105616488345,True,121.67,"MedPlus RR Nagar, 60 Feet Road",Rare
+Paracetamol,Fever / Pain,Commonly used to treat fever and mild to moderate pain.,4.6,12.912046585611204,77.52105616488345,True,29.54,"MedPlus RR Nagar, 60 Feet Road",Common
+Atorvastatin,High Cholesterol,A statin used to lower cholesterol and triglycerides.,4.2,12.912046585611204,77.52105616488345,True,151.9,"MedPlus RR Nagar, 60 Feet Road",Common
+Metformin,Diabetes Type 2,An oral medication that helps control blood sugar levels.,4.7,12.912046585611204,77.52105616488345,True,42.38,"MedPlus RR Nagar, 60 Feet Road",Common
+Amlodipine,Hypertension,A calcium channel blocker used to treat high blood pressure.,4.7,12.912046585611204,77.52105616488345,True,60.08,"MedPlus RR Nagar, 60 Feet Road",Common
+Cetirizine,Allergy,An antihistamine used to relieve allergy symptoms.,3.9,12.912046585611204,77.52105616488345,True,36.74,"MedPlus RR Nagar, 60 Feet Road",Common
+Azithromycin,Bacterial Infection,An antibiotic used to treat a variety of bacterial infections.,4.8,12.912046585611204,77.52105616488345,True,113.47,"MedPlus RR Nagar, 60 Feet Road",Common
+Montelukast,Asthma / Allergy,Used to prevent wheezing and difficulty breathing caused by asthma.,5.0,12.912046585611204,77.52105616488345,True,177.3,"MedPlus RR Nagar, 60 Feet Road",Common
+Losartan,Hypertension,An ARB used to treat high blood pressure.,4.5,12.912046585611204,77.52105616488345,False,87.9,"MedPlus RR Nagar, 60 Feet Road",Common
+Sertraline,Depression / Anxiety,An SSRI antidepressant used to treat depression and anxiety disorders.,4.6,12.912046585611204,77.52105616488345,True,112.91,"MedPlus RR Nagar, 60 Feet Road",Common
+Esomeprazole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces stomach acid.,4.3,12.912046585611204,77.52105616488345,True,72.94,"MedPlus RR Nagar, 60 Feet Road",Common
+Clopidogrel,Blood Clot Prevention,An antiplatelet medicine used to prevent blood clots.,4.1,12.912046585611204,77.52105616488345,True,107.74,"MedPlus RR Nagar, 60 Feet Road",Common
+Levocetirizine,Allergy,"A newer antihistamine, considered non-drowsy.",4.5,12.912046585611204,77.52105616488345,True,51.12,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Domperidone,Nausea / Vomiting,A prokinetic agent used to treat nausea and vomiting.,4.5,12.912046585611204,77.52105616488345,True,38.62,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Ibuprofen,Pain / Inflammation,"A common NSAID used for pain relief, fever, and inflammation.",4.3,12.912046585611204,77.52105616488345,False,20.89,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Pregabalin,Neuropathic Pain,"Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",4.9,12.912046585611204,77.52105616488345,True,209.56,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Tamsulosin,Benign Prostatic Hyperplasia,An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).,5.0,12.912046585611204,77.52105616488345,True,242.73,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Fexofenadine,Allergy,A non-drowsy antihistamine for seasonal allergies.,4.9,12.912046585611204,77.52105616488345,True,87.57,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Glimepiride,Diabetes Type 2,A sulfonylurea drug that helps the pancreas produce more insulin.,4.1,12.912046585611204,77.52105616488345,True,70.38,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Bisoprolol,Hypertension,A beta-blocker that affects the heart and circulation.,4.8,12.912046585611204,77.52105616488345,True,80.7,"MedPlus RR Nagar, 60 Feet Road",Alternate
+Tacrolimus,Organ Transplant,An immunosuppressive drug used to prevent organ rejection after a transplant.,4.7,12.912046585611204,77.52105616488345,True,849.29,"MedPlus RR Nagar, 60 Feet Road",Rare
+Colchicine,Gout,Used to treat and prevent gout attacks.,4.1,12.912046585611204,77.52105616488345,True,141.78,"MedPlus RR Nagar, 60 Feet Road",Rare
+Phenytoin,Epilepsy,An anti-epileptic drug used to control seizures.,4.2,12.912046585611204,77.52105616488345,True,60.51,"MedPlus RR Nagar, 60 Feet Road",Rare
+Isotretinoin,Severe Acne,A powerful vitamin A derivative used to treat severe cystic acne.,4.6,12.912046585611204,77.52105616488345,True,299.37,"MedPlus RR Nagar, 60 Feet Road",Rare
+Allopurinol,Gout,"Reduces the production of uric acid in the body, preventing gout.",4.3,12.912046585611204,77.52105616488345,True,42.68,"MedPlus RR Nagar, 60 Feet Road",Rare
+Methotrexate,Rheumatoid Arthritis,An immunosuppressant used for rheumatoid arthritis and some cancers.,4.4,12.912046585611204,77.52105616488345,True,148.43,"MedPlus RR Nagar, 60 Feet Road",Rare
+Sofosbuvir,Hepatitis C,An antiviral medication used to treat Hepatitis C.,4.5,12.912046585611204,77.52105616488345,True,8000.27,"MedPlus RR Nagar, 60 Feet Road",Rare
+Enoxaparin,DVT Prevention,An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.,4.3,12.912046585611204,77.52105616488345,True,450.72,"MedPlus RR Nagar, 60 Feet Road",Rare
+Rituximab,Autoimmune Disease / Cancer,A monoclonal antibody used to treat certain autoimmune diseases and cancers.,5.0,12.912046585611204,77.52105616488345,True,39998.43,"MedPlus RR Nagar, 60 Feet Road",Rare
+Ondansetron,Nausea / Vomiting,An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.,3.9,12.912046585611204,77.52105616488345,True,51.94,"MedPlus RR Nagar, 60 Feet Road",Rare
+Carbamazepine,Epilepsy / Nerve Pain,"An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",4.8,12.912046585611204,77.52105616488345,True,74.01,"MedPlus RR Nagar, 60 Feet Road",Rare
+Latanoprost,Glaucoma,Eye drops used to control the progression of glaucoma by reducing intraocular pressure.,4.0,12.912046585611204,77.52105616488345,True,352.01,"MedPlus RR Nagar, 60 Feet Road",Rare
+Mycophenolate,Organ Transplant,An immunosuppressant used to prevent organ rejection.,4.4,12.912046585611204,77.52105616488345,True,952.83,"MedPlus RR Nagar, 60 Feet Road",Rare
+Adalimumab,Rheumatoid Arthritis,A biologic drug (TNF inhibitor) used for autoimmune conditions.,4.9,12.912046585611204,77.52105616488345,True,15000.75,"MedPlus RR Nagar, 60 Feet Road",Rare
+Acyclovir,Viral Infection (Herpes),"An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",4.1,12.912046585611204,77.52105616488345,True,117.16,"MedPlus RR Nagar, 60 Feet Road",Rare
+Augmentin,Bacterial Infection,A combination antibiotic used to treat a wide variety of bacterial infections.,4.1,12.910958998147274,77.51350306462756,True,225.21,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Pan D,Acidity / GERD,"A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",4.3,12.910958998147274,77.51350306462756,False,195.15,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Diclofenac,Pain / Inflammation,A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.,4.9,12.910958998147274,77.51350306462756,True,82.51,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Omeprozole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.,3.9,12.910958998147274,77.51350306462756,True,53.83,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Betaloc,Hypertension,A beta-blocker used to treat high blood pressure (hypertension) and angina.,4.8,12.910958998147274,77.51350306462756,True,93.76,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Enzoflam,Pain / Swelling,A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.,4.7,12.910958998147274,77.51350306462756,True,129.92,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Hexigel gum paint,Gum Infection,"An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",4.4,12.910958998147274,77.51350306462756,True,93.91,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Ultrafen-plus,Pain / Fever,"A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",4.5,12.910958998147274,77.51350306462756,False,67.07,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Relentus,Cough / Cold,"A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",4.8,12.910958998147274,77.51350306462756,False,112.54,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Progen,Nutritional Supplement,Often a brand name for progesterone or a protein supplement.,4.2,12.910958998147274,77.51350306462756,True,247.51,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Ultracal-D,Calcium Deficiency,"A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",4.7,12.910958998147274,77.51350306462756,True,179.28,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Cartilix,Joint Health,"A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",4.3,12.910958998147274,77.51350306462756,True,447.5,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Dorzolamidum,Glaucoma,A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.,4.0,12.910958998147274,77.51350306462756,True,311.32,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Cimetidine,Acidity / Ulcer,An H2 receptor blocker that reduces stomach acid. Less common now.,4.5,12.910958998147274,77.51350306462756,True,25.26,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Oxprelol,Hypertension,"A non-selective beta blocker, less commonly used now, for hypertension.",4.5,12.910958998147274,77.51350306462756,True,119.83,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Paracetamol,Fever / Pain,Commonly used to treat fever and mild to moderate pain.,4.8,12.910958998147274,77.51350306462756,True,29.99,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Atorvastatin,High Cholesterol,A statin used to lower cholesterol and triglycerides.,3.8,12.910958998147274,77.51350306462756,True,152.5,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Metformin,Diabetes Type 2,An oral medication that helps control blood sugar levels.,4.0,12.910958998147274,77.51350306462756,True,43.27,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Amlodipine,Hypertension,A calcium channel blocker used to treat high blood pressure.,4.2,12.910958998147274,77.51350306462756,True,59.57,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Cetirizine,Allergy,An antihistamine used to relieve allergy symptoms.,4.7,12.910958998147274,77.51350306462756,True,35.42,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Azithromycin,Bacterial Infection,An antibiotic used to treat a variety of bacterial infections.,4.7,12.910958998147274,77.51350306462756,True,115.0,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Montelukast,Asthma / Allergy,Used to prevent wheezing and difficulty breathing caused by asthma.,4.2,12.910958998147274,77.51350306462756,True,176.67,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Losartan,Hypertension,An ARB used to treat high blood pressure.,5.0,12.910958998147274,77.51350306462756,True,91.26,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Sertraline,Depression / Anxiety,An SSRI antidepressant used to treat depression and anxiety disorders.,4.1,12.910958998147274,77.51350306462756,True,107.48,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Esomeprazole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces stomach acid.,4.2,12.910958998147274,77.51350306462756,True,77.04,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Clopidogrel,Blood Clot Prevention,An antiplatelet medicine used to prevent blood clots.,4.5,12.910958998147274,77.51350306462756,True,103.2,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Common
+Levocetirizine,Allergy,"A newer antihistamine, considered non-drowsy.",4.2,12.910958998147274,77.51350306462756,True,48.43,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Domperidone,Nausea / Vomiting,A prokinetic agent used to treat nausea and vomiting.,4.2,12.910958998147274,77.51350306462756,True,41.21,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Ibuprofen,Pain / Inflammation,"A common NSAID used for pain relief, fever, and inflammation.",4.8,12.910958998147274,77.51350306462756,True,17.29,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Pregabalin,Neuropathic Pain,"Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",5.0,12.910958998147274,77.51350306462756,True,211.13,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Tamsulosin,Benign Prostatic Hyperplasia,An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).,3.8,12.910958998147274,77.51350306462756,True,240.44,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Fexofenadine,Allergy,A non-drowsy antihistamine for seasonal allergies.,4.0,12.910958998147274,77.51350306462756,True,90.31,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Glimepiride,Diabetes Type 2,A sulfonylurea drug that helps the pancreas produce more insulin.,4.0,12.910958998147274,77.51350306462756,True,72.34,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Bisoprolol,Hypertension,A beta-blocker that affects the heart and circulation.,3.9,12.910958998147274,77.51350306462756,True,78.59,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Alternate
+Tacrolimus,Organ Transplant,An immunosuppressive drug used to prevent organ rejection after a transplant.,4.4,12.910958998147274,77.51350306462756,True,852.07,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Colchicine,Gout,Used to treat and prevent gout attacks.,4.4,12.910958998147274,77.51350306462756,True,137.18,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Phenytoin,Epilepsy,An anti-epileptic drug used to control seizures.,5.0,12.910958998147274,77.51350306462756,True,61.69,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Isotretinoin,Severe Acne,A powerful vitamin A derivative used to treat severe cystic acne.,4.7,12.910958998147274,77.51350306462756,True,298.44,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Allopurinol,Gout,"Reduces the production of uric acid in the body, preventing gout.",5.0,12.910958998147274,77.51350306462756,True,40.21,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Methotrexate,Rheumatoid Arthritis,An immunosuppressant used for rheumatoid arthritis and some cancers.,4.2,12.910958998147274,77.51350306462756,True,149.53,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Sofosbuvir,Hepatitis C,An antiviral medication used to treat Hepatitis C.,3.9,12.910958998147274,77.51350306462756,False,7999.0,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Enoxaparin,DVT Prevention,An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.,4.5,12.910958998147274,77.51350306462756,True,447.43,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Rituximab,Autoimmune Disease / Cancer,A monoclonal antibody used to treat certain autoimmune diseases and cancers.,4.1,12.910958998147274,77.51350306462756,True,39997.45,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Ondansetron,Nausea / Vomiting,An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.,4.7,12.910958998147274,77.51350306462756,True,50.5,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Carbamazepine,Epilepsy / Nerve Pain,"An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",4.0,12.910958998147274,77.51350306462756,True,75.63,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Latanoprost,Glaucoma,Eye drops used to control the progression of glaucoma by reducing intraocular pressure.,4.0,12.910958998147274,77.51350306462756,True,348.43,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Mycophenolate,Organ Transplant,An immunosuppressant used to prevent organ rejection.,4.2,12.910958998147274,77.51350306462756,True,952.3,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Adalimumab,Rheumatoid Arthritis,A biologic drug (TNF inhibitor) used for autoimmune conditions.,4.5,12.910958998147274,77.51350306462756,True,15002.15,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Acyclovir,Viral Infection (Herpes),"An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",4.9,12.910958998147274,77.51350306462756,False,121.5,"Apollo Pharmacy Kenchenahalli Road, RR Nagar",Rare
+Augmentin,Bacterial Infection,A combination antibiotic used to treat a wide variety of bacterial infections.,4.1,12.900447828509314,77.5096368705969,False,223.23,Lakshmi Pharma,Common
+Pan D,Acidity / GERD,"A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",5.0,12.900447828509314,77.5096368705969,True,195.2,Lakshmi Pharma,Common
+Diclofenac,Pain / Inflammation,A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.,3.8,12.900447828509314,77.5096368705969,True,86.57,Lakshmi Pharma,Common
+Omeprozole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.,4.4,12.900447828509314,77.5096368705969,True,54.08,Lakshmi Pharma,Common
+Betaloc,Hypertension,A beta-blocker used to treat high blood pressure (hypertension) and angina.,4.5,12.900447828509314,77.5096368705969,True,94.34,Lakshmi Pharma,Common
+Enzoflam,Pain / Swelling,A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.,4.1,12.900447828509314,77.5096368705969,True,128.42,Lakshmi Pharma,Alternate
+Hexigel gum paint,Gum Infection,"An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",4.5,12.900447828509314,77.5096368705969,True,93.02,Lakshmi Pharma,Alternate
+Ultrafen-plus,Pain / Fever,"A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",4.6,12.900447828509314,77.5096368705969,True,67.91,Lakshmi Pharma,Alternate
+Relentus,Cough / Cold,"A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",4.9,12.900447828509314,77.5096368705969,True,112.12,Lakshmi Pharma,Alternate
+Progen,Nutritional Supplement,Often a brand name for progesterone or a protein supplement.,4.1,12.900447828509314,77.5096368705969,True,251.42,Lakshmi Pharma,Alternate
+Ultracal-D,Calcium Deficiency,"A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",3.9,12.900447828509314,77.5096368705969,True,179.23,Lakshmi Pharma,Alternate
+Cartilix,Joint Health,"A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",4.2,12.900447828509314,77.5096368705969,True,452.22,Lakshmi Pharma,Alternate
+Dorzolamidum,Glaucoma,A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.,4.3,12.900447828509314,77.5096368705969,True,309.53,Lakshmi Pharma,Rare
+Cimetidine,Acidity / Ulcer,An H2 receptor blocker that reduces stomach acid. Less common now.,4.0,12.900447828509314,77.5096368705969,True,27.48,Lakshmi Pharma,Rare
+Oxprelol,Hypertension,"A non-selective beta blocker, less commonly used now, for hypertension.",4.1,12.900447828509314,77.5096368705969,True,120.72,Lakshmi Pharma,Rare
+Paracetamol,Fever / Pain,Commonly used to treat fever and mild to moderate pain.,4.1,12.900447828509314,77.5096368705969,True,28.05,Lakshmi Pharma,Common
+Atorvastatin,High Cholesterol,A statin used to lower cholesterol and triglycerides.,4.9,12.900447828509314,77.5096368705969,True,149.71,Lakshmi Pharma,Common
+Metformin,Diabetes Type 2,An oral medication that helps control blood sugar levels.,4.8,12.900447828509314,77.5096368705969,True,43.7,Lakshmi Pharma,Common
+Amlodipine,Hypertension,A calcium channel blocker used to treat high blood pressure.,4.7,12.900447828509314,77.5096368705969,True,61.92,Lakshmi Pharma,Common
+Cetirizine,Allergy,An antihistamine used to relieve allergy symptoms.,4.4,12.900447828509314,77.5096368705969,True,32.79,Lakshmi Pharma,Common
+Azithromycin,Bacterial Infection,An antibiotic used to treat a variety of bacterial infections.,4.5,12.900447828509314,77.5096368705969,True,114.44,Lakshmi Pharma,Common
+Montelukast,Asthma / Allergy,Used to prevent wheezing and difficulty breathing caused by asthma.,4.2,12.900447828509314,77.5096368705969,True,174.33,Lakshmi Pharma,Common
+Losartan,Hypertension,An ARB used to treat high blood pressure.,4.7,12.900447828509314,77.5096368705969,False,92.24,Lakshmi Pharma,Common
+Sertraline,Depression / Anxiety,An SSRI antidepressant used to treat depression and anxiety disorders.,4.9,12.900447828509314,77.5096368705969,True,108.8,Lakshmi Pharma,Common
+Esomeprazole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces stomach acid.,4.1,12.900447828509314,77.5096368705969,True,76.23,Lakshmi Pharma,Common
+Clopidogrel,Blood Clot Prevention,An antiplatelet medicine used to prevent blood clots.,4.7,12.900447828509314,77.5096368705969,True,106.73,Lakshmi Pharma,Common
+Levocetirizine,Allergy,"A newer antihistamine, considered non-drowsy.",4.6,12.900447828509314,77.5096368705969,True,48.82,Lakshmi Pharma,Alternate
+Domperidone,Nausea / Vomiting,A prokinetic agent used to treat nausea and vomiting.,4.0,12.900447828509314,77.5096368705969,True,40.26,Lakshmi Pharma,Alternate
+Ibuprofen,Pain / Inflammation,"A common NSAID used for pain relief, fever, and inflammation.",4.7,12.900447828509314,77.5096368705969,True,20.74,Lakshmi Pharma,Alternate
+Pregabalin,Neuropathic Pain,"Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",4.2,12.900447828509314,77.5096368705969,True,207.71,Lakshmi Pharma,Alternate
+Tamsulosin,Benign Prostatic Hyperplasia,An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).,4.4,12.900447828509314,77.5096368705969,True,242.37,Lakshmi Pharma,Alternate
+Fexofenadine,Allergy,A non-drowsy antihistamine for seasonal allergies.,4.5,12.900447828509314,77.5096368705969,True,90.52,Lakshmi Pharma,Alternate
+Glimepiride,Diabetes Type 2,A sulfonylurea drug that helps the pancreas produce more insulin.,4.1,12.900447828509314,77.5096368705969,True,68.4,Lakshmi Pharma,Alternate
+Bisoprolol,Hypertension,A beta-blocker that affects the heart and circulation.,4.9,12.900447828509314,77.5096368705969,False,82.23,Lakshmi Pharma,Alternate
+Tacrolimus,Organ Transplant,An immunosuppressive drug used to prevent organ rejection after a transplant.,3.8,12.900447828509314,77.5096368705969,True,847.36,Lakshmi Pharma,Rare
+Colchicine,Gout,Used to treat and prevent gout attacks.,4.7,12.900447828509314,77.5096368705969,True,141.76,Lakshmi Pharma,Rare
+Phenytoin,Epilepsy,An anti-epileptic drug used to control seizures.,3.8,12.900447828509314,77.5096368705969,True,58.2,Lakshmi Pharma,Rare
+Isotretinoin,Severe Acne,A powerful vitamin A derivative used to treat severe cystic acne.,4.5,12.900447828509314,77.5096368705969,True,302.55,Lakshmi Pharma,Rare
+Allopurinol,Gout,"Reduces the production of uric acid in the body, preventing gout.",4.1,12.900447828509314,77.5096368705969,True,37.79,Lakshmi Pharma,Rare
+Methotrexate,Rheumatoid Arthritis,An immunosuppressant used for rheumatoid arthritis and some cancers.,4.7,12.900447828509314,77.5096368705969,False,151.19,Lakshmi Pharma,Rare
+Sofosbuvir,Hepatitis C,An antiviral medication used to treat Hepatitis C.,4.6,12.900447828509314,77.5096368705969,True,7998.78,Lakshmi Pharma,Rare
+Enoxaparin,DVT Prevention,An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.,4.9,12.900447828509314,77.5096368705969,True,450.31,Lakshmi Pharma,Rare
+Rituximab,Autoimmune Disease / Cancer,A monoclonal antibody used to treat certain autoimmune diseases and cancers.,4.1,12.900447828509314,77.5096368705969,True,39997.71,Lakshmi Pharma,Rare
+Ondansetron,Nausea / Vomiting,An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.,4.7,12.900447828509314,77.5096368705969,True,51.69,Lakshmi Pharma,Rare
+Carbamazepine,Epilepsy / Nerve Pain,"An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",4.1,12.900447828509314,77.5096368705969,True,75.42,Lakshmi Pharma,Rare
+Latanoprost,Glaucoma,Eye drops used to control the progression of glaucoma by reducing intraocular pressure.,4.7,12.900447828509314,77.5096368705969,True,348.68,Lakshmi Pharma,Rare
+Mycophenolate,Organ Transplant,An immunosuppressant used to prevent organ rejection.,4.4,12.900447828509314,77.5096368705969,False,950.68,Lakshmi Pharma,Rare
+Adalimumab,Rheumatoid Arthritis,A biologic drug (TNF inhibitor) used for autoimmune conditions.,4.3,12.900447828509314,77.5096368705969,True,15001.43,Lakshmi Pharma,Rare
+Acyclovir,Viral Infection (Herpes),"An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",4.0,12.900447828509314,77.5096368705969,True,120.28,Lakshmi Pharma,Rare
+Augmentin,Bacterial Infection,A combination antibiotic used to treat a wide variety of bacterial infections.,4.5,12.907003244263793,77.5049541035601,True,226.65,Omkar Medicals and General Store,Common
+Pan D,Acidity / GERD,"A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",5.0,12.907003244263793,77.5049541035601,True,195.67,Omkar Medicals and General Store,Common
+Diclofenac,Pain / Inflammation,A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.,4.4,12.907003244263793,77.5049541035601,True,87.17,Omkar Medicals and General Store,Common
+Omeprozole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.,5.0,12.907003244263793,77.5049541035601,True,53.58,Omkar Medicals and General Store,Common
+Betaloc,Hypertension,A beta-blocker used to treat high blood pressure (hypertension) and angina.,4.2,12.907003244263793,77.5049541035601,True,90.99,Omkar Medicals and General Store,Common
+Enzoflam,Pain / Swelling,A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.,3.9,12.907003244263793,77.5049541035601,False,130.63,Omkar Medicals and General Store,Alternate
+Hexigel gum paint,Gum Infection,"An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",4.5,12.907003244263793,77.5049541035601,True,96.93,Omkar Medicals and General Store,Alternate
+Ultrafen-plus,Pain / Fever,"A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",4.7,12.907003244263793,77.5049541035601,True,67.32,Omkar Medicals and General Store,Alternate
+Relentus,Cough / Cold,"A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",4.2,12.907003244263793,77.5049541035601,True,109.83,Omkar Medicals and General Store,Alternate
+Progen,Nutritional Supplement,Often a brand name for progesterone or a protein supplement.,4.8,12.907003244263793,77.5049541035601,True,249.81,Omkar Medicals and General Store,Alternate
+Ultracal-D,Calcium Deficiency,"A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",4.8,12.907003244263793,77.5049541035601,True,179.19,Omkar Medicals and General Store,Alternate
+Cartilix,Joint Health,"A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",4.7,12.907003244263793,77.5049541035601,True,449.16,Omkar Medicals and General Store,Alternate
+Dorzolamidum,Glaucoma,A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.,5.0,12.907003244263793,77.5049541035601,True,308.62,Omkar Medicals and General Store,Rare
+Cimetidine,Acidity / Ulcer,An H2 receptor blocker that reduces stomach acid. Less common now.,4.0,12.907003244263793,77.5049541035601,False,23.62,Omkar Medicals and General Store,Rare
+Oxprelol,Hypertension,"A non-selective beta blocker, less commonly used now, for hypertension.",4.5,12.907003244263793,77.5049541035601,True,119.45,Omkar Medicals and General Store,Rare
+Paracetamol,Fever / Pain,Commonly used to treat fever and mild to moderate pain.,3.8,12.907003244263793,77.5049541035601,True,28.46,Omkar Medicals and General Store,Common
+Atorvastatin,High Cholesterol,A statin used to lower cholesterol and triglycerides.,3.8,12.907003244263793,77.5049541035601,True,147.15,Omkar Medicals and General Store,Common
+Metformin,Diabetes Type 2,An oral medication that helps control blood sugar levels.,4.2,12.907003244263793,77.5049541035601,True,44.35,Omkar Medicals and General Store,Common
+Amlodipine,Hypertension,A calcium channel blocker used to treat high blood pressure.,5.0,12.907003244263793,77.5049541035601,True,57.27,Omkar Medicals and General Store,Common
+Cetirizine,Allergy,An antihistamine used to relieve allergy symptoms.,4.3,12.907003244263793,77.5049541035601,True,33.04,Omkar Medicals and General Store,Common
+Azithromycin,Bacterial Infection,An antibiotic used to treat a variety of bacterial infections.,3.9,12.907003244263793,77.5049541035601,True,115.28,Omkar Medicals and General Store,Common
+Montelukast,Asthma / Allergy,Used to prevent wheezing and difficulty breathing caused by asthma.,4.1,12.907003244263793,77.5049541035601,True,174.72,Omkar Medicals and General Store,Common
+Losartan,Hypertension,An ARB used to treat high blood pressure.,4.6,12.907003244263793,77.5049541035601,True,90.5,Omkar Medicals and General Store,Common
+Sertraline,Depression / Anxiety,An SSRI antidepressant used to treat depression and anxiety disorders.,4.0,12.907003244263793,77.5049541035601,True,108.78,Omkar Medicals and General Store,Common
+Esomeprazole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces stomach acid.,4.5,12.907003244263793,77.5049541035601,True,77.09,Omkar Medicals and General Store,Common
+Clopidogrel,Blood Clot Prevention,An antiplatelet medicine used to prevent blood clots.,4.2,12.907003244263793,77.5049541035601,True,104.79,Omkar Medicals and General Store,Common
+Levocetirizine,Allergy,"A newer antihistamine, considered non-drowsy.",4.9,12.907003244263793,77.5049541035601,True,50.22,Omkar Medicals and General Store,Alternate
+Domperidone,Nausea / Vomiting,A prokinetic agent used to treat nausea and vomiting.,5.0,12.907003244263793,77.5049541035601,True,37.02,Omkar Medicals and General Store,Alternate
+Ibuprofen,Pain / Inflammation,"A common NSAID used for pain relief, fever, and inflammation.",4.4,12.907003244263793,77.5049541035601,True,20.32,Omkar Medicals and General Store,Alternate
+Pregabalin,Neuropathic Pain,"Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",4.1,12.907003244263793,77.5049541035601,True,209.09,Omkar Medicals and General Store,Alternate
+Tamsulosin,Benign Prostatic Hyperplasia,An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).,4.5,12.907003244263793,77.5049541035601,True,238.88,Omkar Medicals and General Store,Alternate
+Fexofenadine,Allergy,A non-drowsy antihistamine for seasonal allergies.,4.9,12.907003244263793,77.5049541035601,True,87.39,Omkar Medicals and General Store,Alternate
+Glimepiride,Diabetes Type 2,A sulfonylurea drug that helps the pancreas produce more insulin.,4.4,12.907003244263793,77.5049541035601,True,67.05,Omkar Medicals and General Store,Alternate
+Bisoprolol,Hypertension,A beta-blocker that affects the heart and circulation.,4.1,12.907003244263793,77.5049541035601,True,77.71,Omkar Medicals and General Store,Alternate
+Tacrolimus,Organ Transplant,An immunosuppressive drug used to prevent organ rejection after a transplant.,4.8,12.907003244263793,77.5049541035601,True,848.66,Omkar Medicals and General Store,Rare
+Colchicine,Gout,Used to treat and prevent gout attacks.,3.9,12.907003244263793,77.5049541035601,True,139.76,Omkar Medicals and General Store,Rare
+Phenytoin,Epilepsy,An anti-epileptic drug used to control seizures.,4.2,12.907003244263793,77.5049541035601,True,61.79,Omkar Medicals and General Store,Rare
+Isotretinoin,Severe Acne,A powerful vitamin A derivative used to treat severe cystic acne.,4.5,12.907003244263793,77.5049541035601,True,299.37,Omkar Medicals and General Store,Rare
+Allopurinol,Gout,"Reduces the production of uric acid in the body, preventing gout.",4.7,12.907003244263793,77.5049541035601,True,42.21,Omkar Medicals and General Store,Rare
+Methotrexate,Rheumatoid Arthritis,An immunosuppressant used for rheumatoid arthritis and some cancers.,3.9,12.907003244263793,77.5049541035601,True,147.87,Omkar Medicals and General Store,Rare
+Sofosbuvir,Hepatitis C,An antiviral medication used to treat Hepatitis C.,4.6,12.907003244263793,77.5049541035601,True,8001.46,Omkar Medicals and General Store,Rare
+Enoxaparin,DVT Prevention,An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.,4.4,12.907003244263793,77.5049541035601,True,452.54,Omkar Medicals and General Store,Rare
+Rituximab,Autoimmune Disease / Cancer,A monoclonal antibody used to treat certain autoimmune diseases and cancers.,4.9,12.907003244263793,77.5049541035601,True,40002.33,Omkar Medicals and General Store,Rare
+Ondansetron,Nausea / Vomiting,An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.,4.7,12.907003244263793,77.5049541035601,True,51.57,Omkar Medicals and General Store,Rare
+Carbamazepine,Epilepsy / Nerve Pain,"An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",3.9,12.907003244263793,77.5049541035601,False,73.95,Omkar Medicals and General Store,Rare
+Latanoprost,Glaucoma,Eye drops used to control the progression of glaucoma by reducing intraocular pressure.,4.2,12.907003244263793,77.5049541035601,True,351.21,Omkar Medicals and General Store,Rare
+Mycophenolate,Organ Transplant,An immunosuppressant used to prevent organ rejection.,3.9,12.907003244263793,77.5049541035601,True,950.11,Omkar Medicals and General Store,Rare
+Adalimumab,Rheumatoid Arthritis,A biologic drug (TNF inhibitor) used for autoimmune conditions.,4.4,12.907003244263793,77.5049541035601,True,15000.73,Omkar Medicals and General Store,Rare
+Acyclovir,Viral Infection (Herpes),"An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",4.6,12.907003244263793,77.5049541035601,True,121.26,Omkar Medicals and General Store,Rare
+Augmentin,Bacterial Infection,A combination antibiotic used to treat a wide variety of bacterial infections.,4.6,12.909722477406175,77.50923833723208,True,223.78,Be Well Drugs,Common
+Pan D,Acidity / GERD,"A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",4.1,12.909722477406175,77.50923833723208,True,197.28,Be Well Drugs,Common
+Diclofenac,Pain / Inflammation,A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.,3.9,12.909722477406175,77.50923833723208,True,84.01,Be Well Drugs,Common
+Omeprozole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.,4.6,12.909722477406175,77.50923833723208,True,54.42,Be Well Drugs,Common
+Betaloc,Hypertension,A beta-blocker used to treat high blood pressure (hypertension) and angina.,4.2,12.909722477406175,77.50923833723208,True,94.05,Be Well Drugs,Common
+Enzoflam,Pain / Swelling,A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.,4.3,12.909722477406175,77.50923833723208,False,130.9,Be Well Drugs,Alternate
+Hexigel gum paint,Gum Infection,"An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",4.0,12.909722477406175,77.50923833723208,True,95.0,Be Well Drugs,Alternate
+Ultrafen-plus,Pain / Fever,"A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",4.2,12.909722477406175,77.50923833723208,True,70.78,Be Well Drugs,Alternate
+Relentus,Cough / Cold,"A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",4.0,12.909722477406175,77.50923833723208,True,107.89,Be Well Drugs,Alternate
+Progen,Nutritional Supplement,Often a brand name for progesterone or a protein supplement.,4.9,12.909722477406175,77.50923833723208,True,252.84,Be Well Drugs,Alternate
+Ultracal-D,Calcium Deficiency,"A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",4.7,12.909722477406175,77.50923833723208,True,182.4,Be Well Drugs,Alternate
+Cartilix,Joint Health,"A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",3.9,12.909722477406175,77.50923833723208,True,452.69,Be Well Drugs,Alternate
+Dorzolamidum,Glaucoma,A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.,4.5,12.909722477406175,77.50923833723208,True,307.34,Be Well Drugs,Rare
+Cimetidine,Acidity / Ulcer,An H2 receptor blocker that reduces stomach acid. Less common now.,4.8,12.909722477406175,77.50923833723208,True,26.62,Be Well Drugs,Rare
+Oxprelol,Hypertension,"A non-selective beta blocker, less commonly used now, for hypertension.",4.0,12.909722477406175,77.50923833723208,True,118.28,Be Well Drugs,Rare
+Paracetamol,Fever / Pain,Commonly used to treat fever and mild to moderate pain.,4.0,12.909722477406175,77.50923833723208,True,30.24,Be Well Drugs,Common
+Atorvastatin,High Cholesterol,A statin used to lower cholesterol and triglycerides.,4.2,12.909722477406175,77.50923833723208,True,151.98,Be Well Drugs,Common
+Metformin,Diabetes Type 2,An oral medication that helps control blood sugar levels.,4.2,12.909722477406175,77.50923833723208,True,46.46,Be Well Drugs,Common
+Amlodipine,Hypertension,A calcium channel blocker used to treat high blood pressure.,4.1,12.909722477406175,77.50923833723208,True,60.79,Be Well Drugs,Common
+Cetirizine,Allergy,An antihistamine used to relieve allergy symptoms.,4.8,12.909722477406175,77.50923833723208,True,36.28,Be Well Drugs,Common
+Azithromycin,Bacterial Infection,An antibiotic used to treat a variety of bacterial infections.,4.8,12.909722477406175,77.50923833723208,True,117.83,Be Well Drugs,Common
+Montelukast,Asthma / Allergy,Used to prevent wheezing and difficulty breathing caused by asthma.,4.8,12.909722477406175,77.50923833723208,True,173.22,Be Well Drugs,Common
+Losartan,Hypertension,An ARB used to treat high blood pressure.,4.1,12.909722477406175,77.50923833723208,True,88.18,Be Well Drugs,Common
+Sertraline,Depression / Anxiety,An SSRI antidepressant used to treat depression and anxiety disorders.,4.1,12.909722477406175,77.50923833723208,True,110.82,Be Well Drugs,Common
+Esomeprazole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces stomach acid.,4.0,12.909722477406175,77.50923833723208,True,77.57,Be Well Drugs,Common
+Clopidogrel,Blood Clot Prevention,An antiplatelet medicine used to prevent blood clots.,3.9,12.909722477406175,77.50923833723208,True,106.58,Be Well Drugs,Common
+Levocetirizine,Allergy,"A newer antihistamine, considered non-drowsy.",4.0,12.909722477406175,77.50923833723208,True,50.58,Be Well Drugs,Alternate
+Domperidone,Nausea / Vomiting,A prokinetic agent used to treat nausea and vomiting.,4.2,12.909722477406175,77.50923833723208,True,38.92,Be Well Drugs,Alternate
+Ibuprofen,Pain / Inflammation,"A common NSAID used for pain relief, fever, and inflammation.",3.8,12.909722477406175,77.50923833723208,True,17.86,Be Well Drugs,Alternate
+Pregabalin,Neuropathic Pain,"Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",4.9,12.909722477406175,77.50923833723208,True,212.67,Be Well Drugs,Alternate
+Tamsulosin,Benign Prostatic Hyperplasia,An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).,4.2,12.909722477406175,77.50923833723208,True,242.94,Be Well Drugs,Alternate
+Fexofenadine,Allergy,A non-drowsy antihistamine for seasonal allergies.,4.3,12.909722477406175,77.50923833723208,False,89.99,Be Well Drugs,Alternate
+Glimepiride,Diabetes Type 2,A sulfonylurea drug that helps the pancreas produce more insulin.,3.9,12.909722477406175,77.50923833723208,True,71.36,Be Well Drugs,Alternate
+Bisoprolol,Hypertension,A beta-blocker that affects the heart and circulation.,4.3,12.909722477406175,77.50923833723208,True,79.03,Be Well Drugs,Alternate
+Tacrolimus,Organ Transplant,An immunosuppressive drug used to prevent organ rejection after a transplant.,3.9,12.909722477406175,77.50923833723208,True,850.96,Be Well Drugs,Rare
+Colchicine,Gout,Used to treat and prevent gout attacks.,4.8,12.909722477406175,77.50923833723208,True,137.94,Be Well Drugs,Rare
+Phenytoin,Epilepsy,An anti-epileptic drug used to control seizures.,5.0,12.909722477406175,77.50923833723208,True,62.87,Be Well Drugs,Rare
+Isotretinoin,Severe Acne,A powerful vitamin A derivative used to treat severe cystic acne.,3.9,12.909722477406175,77.50923833723208,True,301.56,Be Well Drugs,Rare
+Allopurinol,Gout,"Reduces the production of uric acid in the body, preventing gout.",4.8,12.909722477406175,77.50923833723208,True,37.42,Be Well Drugs,Rare
+Methotrexate,Rheumatoid Arthritis,An immunosuppressant used for rheumatoid arthritis and some cancers.,4.4,12.909722477406175,77.50923833723208,False,151.57,Be Well Drugs,Rare
+Sofosbuvir,Hepatitis C,An antiviral medication used to treat Hepatitis C.,4.4,12.909722477406175,77.50923833723208,True,8002.61,Be Well Drugs,Rare
+Enoxaparin,DVT Prevention,An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.,4.2,12.909722477406175,77.50923833723208,True,448.85,Be Well Drugs,Rare
+Rituximab,Autoimmune Disease / Cancer,A monoclonal antibody used to treat certain autoimmune diseases and cancers.,4.5,12.909722477406175,77.50923833723208,True,39998.76,Be Well Drugs,Rare
+Ondansetron,Nausea / Vomiting,An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.,4.5,12.909722477406175,77.50923833723208,True,51.35,Be Well Drugs,Rare
+Carbamazepine,Epilepsy / Nerve Pain,"An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",3.9,12.909722477406175,77.50923833723208,True,72.13,Be Well Drugs,Rare
+Latanoprost,Glaucoma,Eye drops used to control the progression of glaucoma by reducing intraocular pressure.,4.0,12.909722477406175,77.50923833723208,True,352.4,Be Well Drugs,Rare
+Mycophenolate,Organ Transplant,An immunosuppressant used to prevent organ rejection.,4.5,12.909722477406175,77.50923833723208,True,950.99,Be Well Drugs,Rare
+Adalimumab,Rheumatoid Arthritis,A biologic drug (TNF inhibitor) used for autoimmune conditions.,4.6,12.909722477406175,77.50923833723208,True,14999.46,Be Well Drugs,Rare
+Acyclovir,Viral Infection (Herpes),"An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",4.6,12.909722477406175,77.50923833723208,False,120.46,Be Well Drugs,Rare
+Augmentin,Bacterial Infection,A combination antibiotic used to treat a wide variety of bacterial infections.,4.6,12.907120961825331,77.49881980852739,True,226.04,Krishna Medicals and Departmental Stores,Common
+Pan D,Acidity / GERD,"A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",4.8,12.907120961825331,77.49881980852739,False,198.14,Krishna Medicals and Departmental Stores,Common
+Diclofenac,Pain / Inflammation,A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.,4.5,12.907120961825331,77.49881980852739,True,82.99,Krishna Medicals and Departmental Stores,Common
+Omeprozole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces the amount of acid produced in the stomach.,4.3,12.907120961825331,77.49881980852739,True,56.26,Krishna Medicals and Departmental Stores,Common
+Betaloc,Hypertension,A beta-blocker used to treat high blood pressure (hypertension) and angina.,4.5,12.907120961825331,77.49881980852739,True,89.19,Krishna Medicals and Departmental Stores,Common
+Enzoflam,Pain / Swelling,A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.,4.5,12.907120961825331,77.49881980852739,True,129.39,Krishna Medicals and Departmental Stores,Alternate
+Hexigel gum paint,Gum Infection,"An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",4.3,12.907120961825331,77.49881980852739,True,95.78,Krishna Medicals and Departmental Stores,Alternate
+Ultrafen-plus,Pain / Fever,"A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",4.1,12.907120961825331,77.49881980852739,False,67.6,Krishna Medicals and Departmental Stores,Alternate
+Relentus,Cough / Cold,"A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",4.3,12.907120961825331,77.49881980852739,True,109.15,Krishna Medicals and Departmental Stores,Alternate
+Progen,Nutritional Supplement,Often a brand name for progesterone or a protein supplement.,3.9,12.907120961825331,77.49881980852739,True,250.33,Krishna Medicals and Departmental Stores,Alternate
+Ultracal-D,Calcium Deficiency,"A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",4.3,12.907120961825331,77.49881980852739,True,179.99,Krishna Medicals and Departmental Stores,Alternate
+Cartilix,Joint Health,"A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",4.0,12.907120961825331,77.49881980852739,True,448.48,Krishna Medicals and Departmental Stores,Alternate
+Dorzolamidum,Glaucoma,A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.,4.7,12.907120961825331,77.49881980852739,True,308.33,Krishna Medicals and Departmental Stores,Rare
+Cimetidine,Acidity / Ulcer,An H2 receptor blocker that reduces stomach acid. Less common now.,4.2,12.907120961825331,77.49881980852739,True,22.68,Krishna Medicals and Departmental Stores,Rare
+Oxprelol,Hypertension,"A non-selective beta blocker, less commonly used now, for hypertension.",4.3,12.907120961825331,77.49881980852739,True,118.28,Krishna Medicals and Departmental Stores,Rare
+Paracetamol,Fever / Pain,Commonly used to treat fever and mild to moderate pain.,4.2,12.907120961825331,77.49881980852739,True,32.28,Krishna Medicals and Departmental Stores,Common
+Atorvastatin,High Cholesterol,A statin used to lower cholesterol and triglycerides.,4.1,12.907120961825331,77.49881980852739,True,147.48,Krishna Medicals and Departmental Stores,Common
+Metformin,Diabetes Type 2,An oral medication that helps control blood sugar levels.,4.5,12.907120961825331,77.49881980852739,True,47.01,Krishna Medicals and Departmental Stores,Common
+Amlodipine,Hypertension,A calcium channel blocker used to treat high blood pressure.,4.7,12.907120961825331,77.49881980852739,True,61.49,Krishna Medicals and Departmental Stores,Common
+Cetirizine,Allergy,An antihistamine used to relieve allergy symptoms.,4.2,12.907120961825331,77.49881980852739,True,36.72,Krishna Medicals and Departmental Stores,Common
+Azithromycin,Bacterial Infection,An antibiotic used to treat a variety of bacterial infections.,4.6,12.907120961825331,77.49881980852739,True,115.81,Krishna Medicals and Departmental Stores,Common
+Montelukast,Asthma / Allergy,Used to prevent wheezing and difficulty breathing caused by asthma.,4.7,12.907120961825331,77.49881980852739,True,172.92,Krishna Medicals and Departmental Stores,Common
+Losartan,Hypertension,An ARB used to treat high blood pressure.,4.1,12.907120961825331,77.49881980852739,True,92.99,Krishna Medicals and Departmental Stores,Common
+Sertraline,Depression / Anxiety,An SSRI antidepressant used to treat depression and anxiety disorders.,4.5,12.907120961825331,77.49881980852739,False,109.86,Krishna Medicals and Departmental Stores,Common
+Esomeprazole,Acidity / GERD,A proton pump inhibitor (PPI) that reduces stomach acid.,4.7,12.907120961825331,77.49881980852739,True,75.09,Krishna Medicals and Departmental Stores,Common
+Clopidogrel,Blood Clot Prevention,An antiplatelet medicine used to prevent blood clots.,3.8,12.907120961825331,77.49881980852739,True,104.64,Krishna Medicals and Departmental Stores,Common
+Levocetirizine,Allergy,"A newer antihistamine, considered non-drowsy.",4.3,12.907120961825331,77.49881980852739,True,50.91,Krishna Medicals and Departmental Stores,Alternate
+Domperidone,Nausea / Vomiting,A prokinetic agent used to treat nausea and vomiting.,4.2,12.907120961825331,77.49881980852739,True,42.54,Krishna Medicals and Departmental Stores,Alternate
+Ibuprofen,Pain / Inflammation,"A common NSAID used for pain relief, fever, and inflammation.",4.9,12.907120961825331,77.49881980852739,True,17.73,Krishna Medicals and Departmental Stores,Alternate
+Pregabalin,Neuropathic Pain,"Used to treat epilepsy, anxiety, and neuropathic (nerve) pain.",4.4,12.907120961825331,77.49881980852739,True,211.88,Krishna Medicals and Departmental Stores,Alternate
+Tamsulosin,Benign Prostatic Hyperplasia,An alpha-blocker used by men to treat the symptoms of an enlarged prostate (BPH).,4.6,12.907120961825331,77.49881980852739,True,237.02,Krishna Medicals and Departmental Stores,Alternate
+Fexofenadine,Allergy,A non-drowsy antihistamine for seasonal allergies.,4.4,12.907120961825331,77.49881980852739,True,90.35,Krishna Medicals and Departmental Stores,Alternate
+Glimepiride,Diabetes Type 2,A sulfonylurea drug that helps the pancreas produce more insulin.,4.9,12.907120961825331,77.49881980852739,True,71.51,Krishna Medicals and Departmental Stores,Alternate
+Bisoprolol,Hypertension,A beta-blocker that affects the heart and circulation.,4.9,12.907120961825331,77.49881980852739,False,82.05,Krishna Medicals and Departmental Stores,Alternate
+Tacrolimus,Organ Transplant,An immunosuppressive drug used to prevent organ rejection after a transplant.,4.1,12.907120961825331,77.49881980852739,True,847.07,Krishna Medicals and Departmental Stores,Rare
+Colchicine,Gout,Used to treat and prevent gout attacks.,4.4,12.907120961825331,77.49881980852739,True,139.92,Krishna Medicals and Departmental Stores,Rare
+Phenytoin,Epilepsy,An anti-epileptic drug used to control seizures.,4.8,12.907120961825331,77.49881980852739,True,62.71,Krishna Medicals and Departmental Stores,Rare
+Isotretinoin,Severe Acne,A powerful vitamin A derivative used to treat severe cystic acne.,4.0,12.907120961825331,77.49881980852739,True,302.77,Krishna Medicals and Departmental Stores,Rare
+Allopurinol,Gout,"Reduces the production of uric acid in the body, preventing gout.",4.5,12.907120961825331,77.49881980852739,True,42.62,Krishna Medicals and Departmental Stores,Rare
+Methotrexate,Rheumatoid Arthritis,An immunosuppressant used for rheumatoid arthritis and some cancers.,4.8,12.907120961825331,77.49881980852739,True,149.1,Krishna Medicals and Departmental Stores,Rare
+Sofosbuvir,Hepatitis C,An antiviral medication used to treat Hepatitis C.,3.9,12.907120961825331,77.49881980852739,True,8002.63,Krishna Medicals and Departmental Stores,Rare
+Enoxaparin,DVT Prevention,An anticoagulant (LMWH) injection used to prevent deep vein thrombosis.,4.4,12.907120961825331,77.49881980852739,False,447.75,Krishna Medicals and Departmental Stores,Rare
+Rituximab,Autoimmune Disease / Cancer,A monoclonal antibody used to treat certain autoimmune diseases and cancers.,4.5,12.907120961825331,77.49881980852739,True,40002.84,Krishna Medicals and Departmental Stores,Rare
+Ondansetron,Nausea / Vomiting,An antiemetic used to prevent nausea and vomiting caused by chemotherapy or surgery.,4.0,12.907120961825331,77.49881980852739,True,47.79,Krishna Medicals and Departmental Stores,Rare
+Carbamazepine,Epilepsy / Nerve Pain,"An anticonvulsant used to treat epilepsy, bipolar disorder, and neuropathic pain.",4.0,12.907120961825331,77.49881980852739,True,74.14,Krishna Medicals and Departmental Stores,Rare
+Latanoprost,Glaucoma,Eye drops used to control the progression of glaucoma by reducing intraocular pressure.,3.9,12.907120961825331,77.49881980852739,True,347.95,Krishna Medicals and Departmental Stores,Rare
+Mycophenolate,Organ Transplant,An immunosuppressant used to prevent organ rejection.,4.0,12.907120961825331,77.49881980852739,True,952.47,Krishna Medicals and Departmental Stores,Rare
+Adalimumab,Rheumatoid Arthritis,A biologic drug (TNF inhibitor) used for autoimmune conditions.,4.8,12.907120961825331,77.49881980852739,True,14998.81,Krishna Medicals and Departmental Stores,Rare
+Acyclovir,Viral Infection (Herpes),"An antiviral medication used to treat herpes simplex, chickenpox, and shingles.",4.5,12.907120961825331,77.49881980852739,False,121.92,Krishna Medicals and Departmental Stores,Rare

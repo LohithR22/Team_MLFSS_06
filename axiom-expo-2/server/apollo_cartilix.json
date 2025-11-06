@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Cartilix",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Cartilix",
+  "timestamp": 1762462746.1998477,
+  "products": [
+    {
+      "index": 1,
+      "name": "Cartilox Sachet 10.45 gm",
+      "price": "₹108.50",
+      "price_value": 108.5,
+      "link": "https://www.apollopharmacy.in/otc/cartilox-sachet-10-45gm?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Cartilox Go Softgels Capsule 15's",
+      "price": "₹952.50",
+      "price_value": 952.5,
+      "link": "https://www.apollopharmacy.in/otc/cartilox-go-softgels-15-s?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "link": "N/A"
+    },
+    {
+      "index": 4,
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "link": "N/A"
+    },
+    {
+      "index": 5,
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "link": "N/A"
+    }
+  ],
+  "best_choice": {
+    "index": 1,
+    "name": "Cartilox Sachet 10.45 gm",
+    "price": "₹108.50",
+    "price_value": 108.5,
+    "link": "https://www.apollopharmacy.in/otc/cartilox-sachet-10-45gm?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 2,
+      "name": "Cartilox Go Softgels Capsule 15's",
+      "price": "₹952.50",
+      "price_value": 952.5,
+      "link": "https://www.apollopharmacy.in/otc/cartilox-go-softgels-15-s?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "link": "N/A"
+    },
+    {
+      "index": 4,
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "link": "N/A"
+    },
+    {
+      "index": 5,
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "link": "N/A"
+    }
+  ],
+  "error": null
+}

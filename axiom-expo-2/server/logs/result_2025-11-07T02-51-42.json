@@ -1,0 +1,437 @@
+{
+  "source": {
+    "lat": 12.8997805,
+    "lon": 77.4958071
+  },
+  "requested": [
+    {
+      "name": "Augmentin"
+    },
+    {
+      "name": "Enzoflam"
+    },
+    {
+      "name": "Pan D"
+    },
+    {
+      "name": "Hexigel gum paint"
+    }
+  ],
+  "top_stores": [
+    {
+      "store_id": "Krishna Medicals and Departmental Stores",
+      "store_name": "Krishna Medicals and Departmental Stores",
+      "distance_km": 0.8791165452139847,
+      "latitude": 12.907120961825331,
+      "longitude": 77.49881980852739,
+      "counts": {
+        "available": 3,
+        "alternatives": 1,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Augmentin",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Augmentin",
+            "medicine_name": "Augmentin",
+            "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+            "price": 226.04,
+            "availability": true
+          },
+          "price_used": 226.04
+        },
+        {
+          "requested": {
+            "name": "Enzoflam",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Enzoflam",
+            "medicine_name": "Enzoflam",
+            "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+            "price": 129.39,
+            "availability": true
+          },
+          "price_used": 129.39
+        },
+        {
+          "requested": {
+            "name": "Pan D",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Betaloc",
+            "medicine_name": "Betaloc",
+            "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+            "price": 89.19,
+            "availability": true
+          },
+          "price_used": 89.19,
+          "similarity": 0.88182455787816
+        },
+        {
+          "requested": {
+            "name": "Hexigel gum paint",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Hexigel gum paint",
+            "medicine_name": "Hexigel gum paint",
+            "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+            "price": 95.78,
+            "availability": true
+          },
+          "price_used": 95.78
+        }
+      ],
+      "total_price": 540.4,
+      "total_requested": 4,
+      "composite_score": 0.7375748670096248,
+      "score_breakdown": {
+        "availability": 0.875,
+        "price": 0.5310004860098589,
+        "distance": 0.5321649700477331
+      }
+    },
+    {
+      "store_id": "Omkar Medicals and General Store",
+      "store_name": "Omkar Medicals and General Store",
+      "distance_km": 1.275903056575453,
+      "latitude": 12.907003244263793,
+      "longitude": 77.5049541035601,
+      "counts": {
+        "available": 3,
+        "alternatives": 1,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Augmentin",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Augmentin",
+            "medicine_name": "Augmentin",
+            "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+            "price": 226.65,
+            "availability": true
+          },
+          "price_used": 226.65
+        },
+        {
+          "requested": {
+            "name": "Enzoflam",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Oxprelol",
+            "medicine_name": "Oxprelol",
+            "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+            "price": 119.45,
+            "availability": true
+          },
+          "price_used": 119.45,
+          "similarity": 0.8348958314844106
+        },
+        {
+          "requested": {
+            "name": "Pan D",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Pan D",
+            "medicine_name": "Pan D",
+            "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+            "price": 195.67,
+            "availability": true
+          },
+          "price_used": 195.67
+        },
+        {
+          "requested": {
+            "name": "Hexigel gum paint",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Hexigel gum paint",
+            "medicine_name": "Hexigel gum paint",
+            "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+            "price": 96.93,
+            "availability": true
+          },
+          "price_used": 96.93
+        }
+      ],
+      "total_price": 638.7,
+      "total_requested": 4,
+      "composite_score": 0.7132230637779705,
+      "score_breakdown": {
+        "availability": 0.875,
+        "price": 0.48926063940377756,
+        "distance": 0.43938602618017397
+      }
+    },
+    {
+      "store_id": "Lakshmi Pharma",
+      "store_name": "Lakshmi Pharma",
+      "distance_km": 1.500822903688633,
+      "latitude": 12.900447828509314,
+      "longitude": 77.5096368705969,
+      "counts": {
+        "available": 3,
+        "alternatives": 1,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Augmentin",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Pan D",
+            "medicine_name": "Pan D",
+            "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+            "price": 195.2,
+            "availability": true
+          },
+          "price_used": 195.2,
+          "similarity": 0.8287597209006689
+        },
+        {
+          "requested": {
+            "name": "Enzoflam",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Enzoflam",
+            "medicine_name": "Enzoflam",
+            "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+            "price": 128.42,
+            "availability": true
+          },
+          "price_used": 128.42
+        },
+        {
+          "requested": {
+            "name": "Pan D",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Pan D",
+            "medicine_name": "Pan D",
+            "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+            "price": 195.2,
+            "availability": true
+          },
+          "price_used": 195.2
+        },
+        {
+          "requested": {
+            "name": "Hexigel gum paint",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Hexigel gum paint",
+            "medicine_name": "Hexigel gum paint",
+            "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+            "price": 93.02,
+            "availability": true
+          },
+          "price_used": 93.02
+        }
+      ],
+      "total_price": 611.8399999999999,
+      "total_requested": 4,
+      "composite_score": 0.7099802568101703,
+      "score_breakdown": {
+        "availability": 0.875,
+        "price": 0.5,
+        "distance": 0.39986837873446873
+      }
+    },
+    {
+      "store_id": "Apollo Pharmacy Kenchenahalli Road, RR Nagar",
+      "store_name": "Apollo Pharmacy Kenchenahalli Road, RR Nagar",
+      "distance_km": 2.285551496436455,
+      "latitude": 12.910958998147274,
+      "longitude": 77.51350306462756,
+      "counts": {
+        "available": 3,
+        "alternatives": 1,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Augmentin",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Augmentin",
+            "medicine_name": "Augmentin",
+            "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+            "price": 225.21,
+            "availability": true
+          },
+          "price_used": 225.21
+        },
+        {
+          "requested": {
+            "name": "Enzoflam",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Enzoflam",
+            "medicine_name": "Enzoflam",
+            "medicine_desc": "A combination drug with enzymes and NSAIDs to relieve swelling (edema) and pain.",
+            "price": 129.92,
+            "availability": true
+          },
+          "price_used": 129.92
+        },
+        {
+          "requested": {
+            "name": "Pan D",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Betaloc",
+            "medicine_name": "Betaloc",
+            "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+            "price": 93.76,
+            "availability": true
+          },
+          "price_used": 93.76,
+          "similarity": 0.88182455787816
+        },
+        {
+          "requested": {
+            "name": "Hexigel gum paint",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Hexigel gum paint",
+            "medicine_name": "Hexigel gum paint",
+            "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+            "price": 93.91,
+            "availability": true
+          },
+          "price_used": 93.91
+        }
+      ],
+      "total_price": 542.8,
+      "total_requested": 4,
+      "composite_score": 0.7031286269319714,
+      "score_breakdown": {
+        "availability": 0.875,
+        "price": 0.529896764359454,
+        "distance": 0.3043629056140532
+      }
+    },
+    {
+      "store_id": "Be Well Drugs",
+      "store_name": "Be Well Drugs",
+      "distance_km": 1.8279423977305518,
+      "latitude": 12.909722477406175,
+      "longitude": 77.50923833723208,
+      "counts": {
+        "available": 3,
+        "alternatives": 1,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Augmentin",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Augmentin",
+            "medicine_name": "Augmentin",
+            "medicine_desc": "A combination antibiotic used to treat a wide variety of bacterial infections.",
+            "price": 223.78,
+            "availability": true
+          },
+          "price_used": 223.78
+        },
+        {
+          "requested": {
+            "name": "Enzoflam",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Oxprelol",
+            "medicine_name": "Oxprelol",
+            "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+            "price": 118.28,
+            "availability": true
+          },
+          "price_used": 118.28,
+          "similarity": 0.8348958314844106
+        },
+        {
+          "requested": {
+            "name": "Pan D",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Pan D",
+            "medicine_name": "Pan D",
+            "medicine_desc": "A proton pump inhibitor and prokinetic agent, used to treat gastroesophageal reflux disease (GERD).",
+            "price": 197.28,
+            "availability": true
+          },
+          "price_used": 197.28
+        },
+        {
+          "requested": {
+            "name": "Hexigel gum paint",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Hexigel gum paint",
+            "medicine_name": "Hexigel gum paint",
+            "medicine_desc": "An antiseptic gel (chlorhexidine) to treat gingivitis, mouth ulcers, and oral infections.",
+            "price": 95.0,
+            "availability": true
+          },
+          "price_used": 95.0
+        }
+      ],
+      "total_price": 634.34,
+      "total_requested": 4,
+      "composite_score": 0.7007852017009139,
+      "score_breakdown": {
+        "availability": 0.875,
+        "price": 0.490972411690125,
+        "distance": 0.3536139918558839
+      }
+    }
+  ]
+}
