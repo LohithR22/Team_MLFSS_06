@@ -1,0 +1,80 @@
+{
+  "medicine_query": "paracetamol",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/paracetamol",
+  "timestamp": 1762481790.3102362,
+  "products": [
+    {
+      "index": 1,
+      "name": "Paracip-650 Tablet 10's",
+      "price": "₹16.80",
+      "price_value": 16.8,
+      "link": "https://www.apollopharmacy.in/otc/paracip-650mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Pacimol 650 Tablet 15's",
+      "price": "₹25.20",
+      "price_value": 25.2,
+      "link": "https://www.apollopharmacy.in/otc/pacimol-650mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Aquris Acupara 650 mg Tablet 10's",
+      "price": "₹15.60",
+      "price_value": 15.6,
+      "link": "https://www.apollopharmacy.in/otc/aquris-acupara-650-mg-tablet-10-s?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Paracip-500 Tablet 10's",
+      "price": "₹8.07",
+      "price_value": 8.07,
+      "link": "https://www.apollopharmacy.in/otc/paracip-500mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Crocin Advance Tablet 20's",
+      "price": "₹19",
+      "price_value": 19.0,
+      "link": "https://www.apollopharmacy.in/otc/crocin-advance-tablet?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 4,
+    "name": "Paracip-500 Tablet 10's",
+    "price": "₹8.07",
+    "price_value": 8.07,
+    "link": "https://www.apollopharmacy.in/otc/paracip-500mg-tablet?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Paracip-650 Tablet 10's",
+      "price": "₹16.80",
+      "price_value": 16.8,
+      "link": "https://www.apollopharmacy.in/otc/paracip-650mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Pacimol 650 Tablet 15's",
+      "price": "₹25.20",
+      "price_value": 25.2,
+      "link": "https://www.apollopharmacy.in/otc/pacimol-650mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Aquris Acupara 650 mg Tablet 10's",
+      "price": "₹15.60",
+      "price_value": 15.6,
+      "link": "https://www.apollopharmacy.in/otc/aquris-acupara-650-mg-tablet-10-s?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Crocin Advance Tablet 20's",
+      "price": "₹19",
+      "price_value": 19.0,
+      "link": "https://www.apollopharmacy.in/otc/crocin-advance-tablet?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

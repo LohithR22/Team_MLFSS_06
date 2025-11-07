@@ -1,0 +1,433 @@
+{
+  "source": {
+    "lat": 12.8997887,
+    "lon": 77.4958014
+  },
+  "requested": [
+    {
+      "name": "Betaloc"
+    },
+    {
+      "name": "Dorzolamidum"
+    },
+    {
+      "name": "Cimetidine"
+    },
+    {
+      "name": "Oxprelol"
+    }
+  ],
+  "top_stores": [
+    {
+      "store_id": "Krishna Medicals and Departmental Stores",
+      "store_name": "Krishna Medicals and Departmental Stores",
+      "distance_km": 0.8784999284953838,
+      "latitude": 12.907120961825331,
+      "longitude": 77.49881980852739,
+      "counts": {
+        "available": 4,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Betaloc",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Betaloc",
+            "medicine_name": "Betaloc",
+            "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+            "price": 89.19,
+            "availability": true
+          },
+          "price_used": 89.19
+        },
+        {
+          "requested": {
+            "name": "Dorzolamidum",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Dorzolamidum",
+            "medicine_name": "Dorzolamidum",
+            "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+            "price": 308.33,
+            "availability": true
+          },
+          "price_used": 308.33
+        },
+        {
+          "requested": {
+            "name": "Cimetidine",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Cimetidine",
+            "medicine_name": "Cimetidine",
+            "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+            "price": 22.68,
+            "availability": true
+          },
+          "price_used": 22.68
+        },
+        {
+          "requested": {
+            "name": "Oxprelol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Oxprelol",
+            "medicine_name": "Oxprelol",
+            "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+            "price": 118.28,
+            "availability": true
+          },
+          "price_used": 118.28
+        }
+      ],
+      "total_price": 538.48,
+      "total_requested": 4,
+      "composite_score": 0.8061932067032043,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.5053690350434024,
+        "distance": 0.5323396529490245
+      }
+    },
+    {
+      "store_id": "Lakshmi Pharma",
+      "store_name": "Lakshmi Pharma",
+      "distance_km": 1.5013951516979855,
+      "latitude": 12.900447828509314,
+      "longitude": 77.5096368705969,
+      "counts": {
+        "available": 4,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Betaloc",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Betaloc",
+            "medicine_name": "Betaloc",
+            "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+            "price": 94.34,
+            "availability": true
+          },
+          "price_used": 94.34
+        },
+        {
+          "requested": {
+            "name": "Dorzolamidum",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Dorzolamidum",
+            "medicine_name": "Dorzolamidum",
+            "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+            "price": 309.53,
+            "availability": true
+          },
+          "price_used": 309.53
+        },
+        {
+          "requested": {
+            "name": "Cimetidine",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Cimetidine",
+            "medicine_name": "Cimetidine",
+            "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+            "price": 27.48,
+            "availability": true
+          },
+          "price_used": 27.48
+        },
+        {
+          "requested": {
+            "name": "Oxprelol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Oxprelol",
+            "medicine_name": "Oxprelol",
+            "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+            "price": 120.72,
+            "availability": true
+          },
+          "price_used": 120.72
+        }
+      ],
+      "total_price": 552.07,
+      "total_requested": 4,
+      "composite_score": 0.7847510647197347,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.49913811874002034,
+        "distance": 0.3997769002315307
+      }
+    },
+    {
+      "store_id": "Be Well Drugs",
+      "store_name": "Be Well Drugs",
+      "distance_km": 1.8278832898208826,
+      "latitude": 12.909722477406175,
+      "longitude": 77.50923833723208,
+      "counts": {
+        "available": 4,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Betaloc",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Betaloc",
+            "medicine_name": "Betaloc",
+            "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+            "price": 94.05,
+            "availability": true
+          },
+          "price_used": 94.05
+        },
+        {
+          "requested": {
+            "name": "Dorzolamidum",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Dorzolamidum",
+            "medicine_name": "Dorzolamidum",
+            "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+            "price": 307.34,
+            "availability": true
+          },
+          "price_used": 307.34
+        },
+        {
+          "requested": {
+            "name": "Cimetidine",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Cimetidine",
+            "medicine_name": "Cimetidine",
+            "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+            "price": 26.62,
+            "availability": true
+          },
+          "price_used": 26.62
+        },
+        {
+          "requested": {
+            "name": "Oxprelol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Oxprelol",
+            "medicine_name": "Oxprelol",
+            "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+            "price": 118.28,
+            "availability": true
+          },
+          "price_used": 118.28
+        }
+      ],
+      "total_price": 546.29,
+      "total_requested": 4,
+      "composite_score": 0.7784855400524566,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.5017693303905295,
+        "distance": 0.35362138303216173
+      }
+    },
+    {
+      "store_id": "Apollo Pharmacy Kenchenahalli Road, RR Nagar",
+      "store_name": "Apollo Pharmacy Kenchenahalli Road, RR Nagar",
+      "distance_km": 2.2855743044542383,
+      "latitude": 12.910958998147274,
+      "longitude": 77.51350306462756,
+      "counts": {
+        "available": 4,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Betaloc",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Betaloc",
+            "medicine_name": "Betaloc",
+            "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+            "price": 93.76,
+            "availability": true
+          },
+          "price_used": 93.76
+        },
+        {
+          "requested": {
+            "name": "Dorzolamidum",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Dorzolamidum",
+            "medicine_name": "Dorzolamidum",
+            "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+            "price": 311.32,
+            "availability": true
+          },
+          "price_used": 311.32
+        },
+        {
+          "requested": {
+            "name": "Cimetidine",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Cimetidine",
+            "medicine_name": "Cimetidine",
+            "medicine_desc": "An H2 receptor blocker that reduces stomach acid. Less common now.",
+            "price": 25.26,
+            "availability": true
+          },
+          "price_used": 25.26
+        },
+        {
+          "requested": {
+            "name": "Oxprelol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Oxprelol",
+            "medicine_name": "Oxprelol",
+            "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+            "price": 119.83,
+            "availability": true
+          },
+          "price_used": 119.83
+        }
+      ],
+      "total_price": 550.17,
+      "total_requested": 4,
+      "composite_score": 0.7706541189151149,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.5,
+        "distance": 0.3043607927674332
+      }
+    },
+    {
+      "store_id": "Omkar Medicals and General Store",
+      "store_name": "Omkar Medicals and General Store",
+      "distance_km": 1.2758096280414877,
+      "latitude": 12.907003244263793,
+      "longitude": 77.5049541035601,
+      "counts": {
+        "available": 3,
+        "alternatives": 1,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Betaloc",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Betaloc",
+            "medicine_name": "Betaloc",
+            "medicine_desc": "A beta-blocker used to treat high blood pressure (hypertension) and angina.",
+            "price": 90.99,
+            "availability": true
+          },
+          "price_used": 90.99
+        },
+        {
+          "requested": {
+            "name": "Dorzolamidum",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Dorzolamidum",
+            "medicine_name": "Dorzolamidum",
+            "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+            "price": 308.62,
+            "availability": true
+          },
+          "price_used": 308.62
+        },
+        {
+          "requested": {
+            "name": "Cimetidine",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Amlodipine",
+            "medicine_name": "Amlodipine",
+            "medicine_desc": "A calcium channel blocker used to treat high blood pressure.",
+            "price": 57.27,
+            "availability": true
+          },
+          "price_used": 57.27,
+          "similarity": 0.8777717242472337
+        },
+        {
+          "requested": {
+            "name": "Oxprelol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Oxprelol",
+            "medicine_name": "Oxprelol",
+            "medicine_desc": "A non-selective beta blocker, less commonly used now, for hypertension.",
+            "price": 119.45,
+            "availability": true
+          },
+          "price_used": 119.45
+        }
+      ],
+      "total_price": 576.33,
+      "total_requested": 4,
+      "composite_score": 0.7130078133644971,
+      "score_breakdown": {
+        "availability": 0.875,
+        "price": 0.48838881491344877,
+        "distance": 0.4394040642408997
+      }
+    }
+  ]
+}

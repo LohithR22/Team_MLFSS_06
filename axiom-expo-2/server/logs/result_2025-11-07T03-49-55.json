@@ -1,0 +1,762 @@
+{
+  "source": {
+    "lat": 12.8997856,
+    "lon": 77.4958093
+  },
+  "requested": [
+    {
+      "name": "Ultrafen-plus"
+    },
+    {
+      "name": "Relentus"
+    },
+    {
+      "name": "Progon"
+    },
+    {
+      "name": "Ulmeal-D"
+    },
+    {
+      "name": "Cartilix"
+    },
+    {
+      "name": "Diclofenac"
+    },
+    {
+      "name": "Ultracal-D"
+    },
+    {
+      "name": "Omeprozol"
+    }
+  ],
+  "top_stores": [
+    {
+      "store_id": "Omkar Medicals and General Store",
+      "store_name": "Omkar Medicals and General Store",
+      "distance_km": 1.2753608333637287,
+      "latitude": 12.907003244263793,
+      "longitude": 77.5049541035601,
+      "counts": {
+        "available": 5,
+        "alternatives": 3,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Ultrafen-plus",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Ultrafen-plus",
+            "medicine_name": "Ultrafen-plus",
+            "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+            "price": 67.32,
+            "availability": true
+          },
+          "price_used": 67.32
+        },
+        {
+          "requested": {
+            "name": "Relentus",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Relentus",
+            "medicine_name": "Relentus",
+            "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+            "price": 109.83,
+            "availability": true
+          },
+          "price_used": 109.83
+        },
+        {
+          "requested": {
+            "name": "Progon",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Methotrexate",
+            "medicine_name": "Methotrexate",
+            "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+            "price": 147.87,
+            "availability": true
+          },
+          "price_used": 147.87,
+          "similarity": 0.8501797247612735
+        },
+        {
+          "requested": {
+            "name": "Ulmeal-D",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Adalimumab",
+            "medicine_name": "Adalimumab",
+            "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+            "price": 15000.73,
+            "availability": true
+          },
+          "price_used": 15000.73,
+          "similarity": 0.8567223656736278
+        },
+        {
+          "requested": {
+            "name": "Cartilix",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Cartilix",
+            "medicine_name": "Cartilix",
+            "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+            "price": 449.16,
+            "availability": true
+          },
+          "price_used": 449.16
+        },
+        {
+          "requested": {
+            "name": "Diclofenac",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Diclofenac",
+            "medicine_name": "Diclofenac",
+            "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+            "price": 87.17,
+            "availability": true
+          },
+          "price_used": 87.17
+        },
+        {
+          "requested": {
+            "name": "Ultracal-D",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Ultracal-D",
+            "medicine_name": "Ultracal-D",
+            "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+            "price": 179.19,
+            "availability": true
+          },
+          "price_used": 179.19
+        },
+        {
+          "requested": {
+            "name": "Omeprozol",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Sofosbuvir",
+            "medicine_name": "Sofosbuvir",
+            "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+            "price": 8001.46,
+            "availability": true
+          },
+          "price_used": 8001.46,
+          "similarity": 0.8327316509844016
+        }
+      ],
+      "total_price": 24042.73,
+      "total_requested": 8,
+      "composite_score": 0.6788512218892501,
+      "score_breakdown": {
+        "availability": 0.8125,
+        "price": 0.501710447887401,
+        "distance": 0.4394907327826648
+      }
+    },
+    {
+      "store_id": "Lakshmi Pharma",
+      "store_name": "Lakshmi Pharma",
+      "distance_km": 1.500556789748033,
+      "latitude": 12.900447828509314,
+      "longitude": 77.5096368705969,
+      "counts": {
+        "available": 5,
+        "alternatives": 3,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Ultrafen-plus",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Ultrafen-plus",
+            "medicine_name": "Ultrafen-plus",
+            "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+            "price": 67.91,
+            "availability": true
+          },
+          "price_used": 67.91
+        },
+        {
+          "requested": {
+            "name": "Relentus",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Relentus",
+            "medicine_name": "Relentus",
+            "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+            "price": 112.12,
+            "availability": true
+          },
+          "price_used": 112.12
+        },
+        {
+          "requested": {
+            "name": "Progon",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Dorzolamidum",
+            "medicine_name": "Dorzolamidum",
+            "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+            "price": 309.53,
+            "availability": true
+          },
+          "price_used": 309.53,
+          "similarity": 0.8478338521816389
+        },
+        {
+          "requested": {
+            "name": "Ulmeal-D",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Adalimumab",
+            "medicine_name": "Adalimumab",
+            "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+            "price": 15001.43,
+            "availability": true
+          },
+          "price_used": 15001.43,
+          "similarity": 0.8567223656736278
+        },
+        {
+          "requested": {
+            "name": "Cartilix",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Cartilix",
+            "medicine_name": "Cartilix",
+            "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+            "price": 452.22,
+            "availability": true
+          },
+          "price_used": 452.22
+        },
+        {
+          "requested": {
+            "name": "Diclofenac",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Diclofenac",
+            "medicine_name": "Diclofenac",
+            "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+            "price": 86.57,
+            "availability": true
+          },
+          "price_used": 86.57
+        },
+        {
+          "requested": {
+            "name": "Ultracal-D",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Ultracal-D",
+            "medicine_name": "Ultracal-D",
+            "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+            "price": 179.23,
+            "availability": true
+          },
+          "price_used": 179.23
+        },
+        {
+          "requested": {
+            "name": "Omeprozol",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Sofosbuvir",
+            "medicine_name": "Sofosbuvir",
+            "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+            "price": 7998.78,
+            "availability": true
+          },
+          "price_used": 7998.78,
+          "similarity": 0.8327316509844016
+        }
+      ],
+      "total_price": 24207.789999999997,
+      "total_requested": 8,
+      "composite_score": 0.6724866400215269,
+      "score_breakdown": {
+        "availability": 0.8125,
+        "price": 0.5,
+        "distance": 0.39991093347684553
+      }
+    },
+    {
+      "store_id": "Be Well Drugs",
+      "store_name": "Be Well Drugs",
+      "distance_km": 1.8274095458099828,
+      "latitude": 12.909722477406175,
+      "longitude": 77.50923833723208,
+      "counts": {
+        "available": 5,
+        "alternatives": 3,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Ultrafen-plus",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Ultrafen-plus",
+            "medicine_name": "Ultrafen-plus",
+            "medicine_desc": "A combination painkiller, often containing an NSAID and paracetamol, for moderate pain.",
+            "price": 70.78,
+            "availability": true
+          },
+          "price_used": 70.78
+        },
+        {
+          "requested": {
+            "name": "Relentus",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Relentus",
+            "medicine_name": "Relentus",
+            "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+            "price": 107.89,
+            "availability": true
+          },
+          "price_used": 107.89
+        },
+        {
+          "requested": {
+            "name": "Progon",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Dorzolamidum",
+            "medicine_name": "Dorzolamidum",
+            "medicine_desc": "A carbonic anhydrase inhibitor used as eye drops to lower pressure inside the eye.",
+            "price": 307.34,
+            "availability": true
+          },
+          "price_used": 307.34,
+          "similarity": 0.8478338521816389
+        },
+        {
+          "requested": {
+            "name": "Ulmeal-D",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Adalimumab",
+            "medicine_name": "Adalimumab",
+            "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+            "price": 14999.46,
+            "availability": true
+          },
+          "price_used": 14999.46,
+          "similarity": 0.8567223656736278
+        },
+        {
+          "requested": {
+            "name": "Cartilix",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Cartilix",
+            "medicine_name": "Cartilix",
+            "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+            "price": 452.69,
+            "availability": true
+          },
+          "price_used": 452.69
+        },
+        {
+          "requested": {
+            "name": "Diclofenac",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Diclofenac",
+            "medicine_name": "Diclofenac",
+            "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+            "price": 84.01,
+            "availability": true
+          },
+          "price_used": 84.01
+        },
+        {
+          "requested": {
+            "name": "Ultracal-D",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Ultracal-D",
+            "medicine_name": "Ultracal-D",
+            "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+            "price": 182.4,
+            "availability": true
+          },
+          "price_used": 182.4
+        },
+        {
+          "requested": {
+            "name": "Omeprozol",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Sofosbuvir",
+            "medicine_name": "Sofosbuvir",
+            "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+            "price": 8002.61,
+            "availability": true
+          },
+          "price_used": 8002.61,
+          "similarity": 0.8327316509844016
+        }
+      ],
+      "total_price": 24207.18,
+      "total_requested": 8,
+      "composite_score": 0.6655536699868583,
+      "score_breakdown": {
+        "availability": 0.8125,
+        "price": 0.5000062997044096,
+        "distance": 0.35368063373837294
+      }
+    },
+    {
+      "store_id": "Krishna Medicals and Departmental Stores",
+      "store_name": "Krishna Medicals and Departmental Stores",
+      "distance_km": 0.8785014511725721,
+      "latitude": 12.907120961825331,
+      "longitude": 77.49881980852739,
+      "counts": {
+        "available": 4,
+        "alternatives": 4,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Ultrafen-plus",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Progen",
+            "medicine_name": "Progen",
+            "medicine_desc": "Often a brand name for progesterone or a protein supplement.",
+            "price": 250.33,
+            "availability": true
+          },
+          "price_used": 250.33,
+          "similarity": 0.8417835046803073
+        },
+        {
+          "requested": {
+            "name": "Relentus",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Relentus",
+            "medicine_name": "Relentus",
+            "medicine_desc": "A cough syrup or tablet formulation for relieving cough, cold, and allergy symptoms.",
+            "price": 109.15,
+            "availability": true
+          },
+          "price_used": 109.15
+        },
+        {
+          "requested": {
+            "name": "Progon",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Methotrexate",
+            "medicine_name": "Methotrexate",
+            "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+            "price": 149.1,
+            "availability": true
+          },
+          "price_used": 149.1,
+          "similarity": 0.8501797247612735
+        },
+        {
+          "requested": {
+            "name": "Ulmeal-D",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Adalimumab",
+            "medicine_name": "Adalimumab",
+            "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+            "price": 14998.81,
+            "availability": true
+          },
+          "price_used": 14998.81,
+          "similarity": 0.8567223656736278
+        },
+        {
+          "requested": {
+            "name": "Cartilix",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Cartilix",
+            "medicine_name": "Cartilix",
+            "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+            "price": 448.48,
+            "availability": true
+          },
+          "price_used": 448.48
+        },
+        {
+          "requested": {
+            "name": "Diclofenac",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Diclofenac",
+            "medicine_name": "Diclofenac",
+            "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+            "price": 82.99,
+            "availability": true
+          },
+          "price_used": 82.99
+        },
+        {
+          "requested": {
+            "name": "Ultracal-D",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Ultracal-D",
+            "medicine_name": "Ultracal-D",
+            "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+            "price": 179.99,
+            "availability": true
+          },
+          "price_used": 179.99
+        },
+        {
+          "requested": {
+            "name": "Omeprozol",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Sofosbuvir",
+            "medicine_name": "Sofosbuvir",
+            "medicine_desc": "An antiviral medication used to treat Hepatitis C.",
+            "price": 8002.63,
+            "availability": true
+          },
+          "price_used": 8002.63,
+          "similarity": 0.8327316509844016
+        }
+      ],
+      "total_price": 24221.48,
+      "total_requested": 8,
+      "composite_score": 0.6548155481806867,
+      "score_breakdown": {
+        "availability": 0.75,
+        "price": 0.49985865985590944,
+        "distance": 0.5323392214447287
+      }
+    },
+    {
+      "store_id": "Apollo Pharmacy Kenchenahalli Road, RR Nagar",
+      "store_name": "Apollo Pharmacy Kenchenahalli Road, RR Nagar",
+      "distance_km": 2.285042990297312,
+      "latitude": 12.910958998147274,
+      "longitude": 77.51350306462756,
+      "counts": {
+        "available": 3,
+        "alternatives": 5,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "Ultrafen-plus",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Progen",
+            "medicine_name": "Progen",
+            "medicine_desc": "Often a brand name for progesterone or a protein supplement.",
+            "price": 247.51,
+            "availability": true
+          },
+          "price_used": 247.51,
+          "similarity": 0.8417835046803073
+        },
+        {
+          "requested": {
+            "name": "Relentus",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Rituximab",
+            "medicine_name": "Rituximab",
+            "medicine_desc": "A monoclonal antibody used to treat certain autoimmune diseases and cancers.",
+            "price": 39997.45,
+            "availability": true
+          },
+          "price_used": 39997.45,
+          "similarity": 0.8485564535708421
+        },
+        {
+          "requested": {
+            "name": "Progon",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Methotrexate",
+            "medicine_name": "Methotrexate",
+            "medicine_desc": "An immunosuppressant used for rheumatoid arthritis and some cancers.",
+            "price": 149.53,
+            "availability": true
+          },
+          "price_used": 149.53,
+          "similarity": 0.8501797247612735
+        },
+        {
+          "requested": {
+            "name": "Ulmeal-D",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Adalimumab",
+            "medicine_name": "Adalimumab",
+            "medicine_desc": "A biologic drug (TNF inhibitor) used for autoimmune conditions.",
+            "price": 15002.15,
+            "availability": true
+          },
+          "price_used": 15002.15,
+          "similarity": 0.8567223656736278
+        },
+        {
+          "requested": {
+            "name": "Cartilix",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Cartilix",
+            "medicine_name": "Cartilix",
+            "medicine_desc": "A supplement, often containing glucosamine, aimed at supporting cartilage and joint health.",
+            "price": 447.5,
+            "availability": true
+          },
+          "price_used": 447.5
+        },
+        {
+          "requested": {
+            "name": "Diclofenac",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Diclofenac",
+            "medicine_name": "Diclofenac",
+            "medicine_desc": "A nonsteroidal anti-inflammatory drug (NSAID) used to treat pain and inflammatory conditions.",
+            "price": 82.51,
+            "availability": true
+          },
+          "price_used": 82.51
+        },
+        {
+          "requested": {
+            "name": "Ultracal-D",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Ultracal-D",
+            "medicine_name": "Ultracal-D",
+            "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+            "price": 179.28,
+            "availability": true
+          },
+          "price_used": 179.28
+        },
+        {
+          "requested": {
+            "name": "Omeprozol",
+            "id": null
+          },
+          "status": "alternative",
+          "matched_item": {
+            "medicine_id": "Ultracal-D",
+            "medicine_name": "Ultracal-D",
+            "medicine_desc": "A supplement containing Calcium and Vitamin D3, used to treat or prevent bone loss.",
+            "price": 179.28,
+            "availability": true
+          },
+          "price_used": 179.28,
+          "similarity": 0.8310053820544757
+        }
+      ],
+      "total_price": 56285.21,
+      "total_requested": 8,
+      "composite_score": 0.5333475128550498,
+      "score_breakdown": {
+        "availability": 0.6875,
+        "price": 0.30074403985439724,
+        "distance": 0.3044100192763369
+      }
+    }
+  ]
+}

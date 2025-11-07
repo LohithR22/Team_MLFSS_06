@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Ultracal-D",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Ultracal-D",
+  "timestamp": 1762477855.1972277,
+  "products": [
+    {
+      "index": 1,
+      "name": "Ultracet Tablet 15's",
+      "price": "₹265.95",
+      "price_value": 265.95,
+      "link": "https://www.apollopharmacy.in/medicine/ultracet-tablet?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Ultra D3 Drops 15 ml",
+      "price": "₹41.50",
+      "price_value": 41.5,
+      "link": "https://www.apollopharmacy.in/otc/ultra-d3-400iu-paed-pineapple-flav-drops-15ml?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Ultracet Semi Tablet 15's",
+      "price": "₹148.05",
+      "price_value": 148.05,
+      "link": "https://www.apollopharmacy.in/medicine/ultracet-semi-tablet?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Ultramed-D Tablet 15's",
+      "price": "₹193.95",
+      "price_value": 193.95,
+      "link": "https://www.apollopharmacy.in/medicine/ultramed-d-37-5-325-10-tab-15-s?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Ultramed-D Tablet 10's",
+      "price": "₹108.90",
+      "price_value": 108.9,
+      "link": "https://www.apollopharmacy.in/medicine/ultramed-d-tablet?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 2,
+    "name": "Ultra D3 Drops 15 ml",
+    "price": "₹41.50",
+    "price_value": 41.5,
+    "link": "https://www.apollopharmacy.in/otc/ultra-d3-400iu-paed-pineapple-flav-drops-15ml?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Ultracet Tablet 15's",
+      "price": "₹265.95",
+      "price_value": 265.95,
+      "link": "https://www.apollopharmacy.in/medicine/ultracet-tablet?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Ultracet Semi Tablet 15's",
+      "price": "₹148.05",
+      "price_value": 148.05,
+      "link": "https://www.apollopharmacy.in/medicine/ultracet-semi-tablet?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Ultramed-D Tablet 15's",
+      "price": "₹193.95",
+      "price_value": 193.95,
+      "link": "https://www.apollopharmacy.in/medicine/ultramed-d-37-5-325-10-tab-15-s?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Ultramed-D Tablet 10's",
+      "price": "₹108.90",
+      "price_value": 108.9,
+      "link": "https://www.apollopharmacy.in/medicine/ultramed-d-tablet?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Ultrafen-plus",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Ultrafen-plus",
+  "timestamp": 1762477858.1253996,
+  "products": [
+    {
+      "index": 1,
+      "name": "Ultra-Ca+ Tablet 15's",
+      "price": "₹321.50",
+      "price_value": 321.5,
+      "link": "https://www.apollopharmacy.in/otc/ultra-ca-plus-tab-15-s?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Ultracet Tablet 15's",
+      "price": "₹265.95",
+      "price_value": 265.95,
+      "link": "https://www.apollopharmacy.in/medicine/ultracet-tablet?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Iodex Ultra Gel, 30 gm",
+      "price": "₹126.45",
+      "price_value": 126.45,
+      "link": "https://www.apollopharmacy.in/otc/iodex-ultra-gel-30gm?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Iodex New Ultra 1%W/W Gel 15Gm",
+      "price": "₹70",
+      "price_value": 70.0,
+      "link": "https://www.apollopharmacy.in/otc/iodex-new-ultra-1-w-w-gel-15gm?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Ultra-Ca Plus Tablet 30's",
+      "price": "₹688",
+      "price_value": 688.0,
+      "link": "https://www.apollopharmacy.in/otc/ultra-ca-plus-tablet-30-s?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 4,
+    "name": "Iodex New Ultra 1%W/W Gel 15Gm",
+    "price": "₹70",
+    "price_value": 70.0,
+    "link": "https://www.apollopharmacy.in/otc/iodex-new-ultra-1-w-w-gel-15gm?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Ultra-Ca+ Tablet 15's",
+      "price": "₹321.50",
+      "price_value": 321.5,
+      "link": "https://www.apollopharmacy.in/otc/ultra-ca-plus-tab-15-s?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Ultracet Tablet 15's",
+      "price": "₹265.95",
+      "price_value": 265.95,
+      "link": "https://www.apollopharmacy.in/medicine/ultracet-tablet?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Iodex Ultra Gel, 30 gm",
+      "price": "₹126.45",
+      "price_value": 126.45,
+      "link": "https://www.apollopharmacy.in/otc/iodex-ultra-gel-30gm?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Ultra-Ca Plus Tablet 30's",
+      "price": "₹688",
+      "price_value": 688.0,
+      "link": "https://www.apollopharmacy.in/otc/ultra-ca-plus-tablet-30-s?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

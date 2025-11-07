@@ -1,0 +1,198 @@
+{
+  "source": {
+    "lat": 12.8997684,
+    "lon": 77.4957763
+  },
+  "requested": [
+    {
+      "name": "paracetamol"
+    }
+  ],
+  "top_stores": [
+    {
+      "store_id": "Krishna Medicals and Departmental Stores",
+      "store_name": "Krishna Medicals and Departmental Stores",
+      "distance_km": 0.8816095652982594,
+      "latitude": 12.907120961825331,
+      "longitude": 77.49881980852739,
+      "counts": {
+        "available": 1,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "paracetamol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Paracetamol",
+            "medicine_name": "Paracetamol",
+            "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+            "price": 32.28,
+            "availability": true
+          },
+          "price_used": 32.28
+        }
+      ],
+      "total_price": 32.28,
+      "total_requested": 1,
+      "composite_score": 0.8001220658425469,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.48161233338686366,
+        "distance": 0.5314598833055396
+      }
+    },
+    {
+      "store_id": "Omkar Medicals and General Store",
+      "store_name": "Omkar Medicals and General Store",
+      "distance_km": 1.2793444054665677,
+      "latitude": 12.907003244263793,
+      "longitude": 77.5049541035601,
+      "counts": {
+        "available": 1,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "paracetamol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Paracetamol",
+            "medicine_name": "Paracetamol",
+            "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+            "price": 28.46,
+            "availability": true
+          },
+          "price_used": 28.46
+        }
+      ],
+      "total_price": 28.46,
+      "total_requested": 1,
+      "composite_score": 0.7940804237005281,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.5130881094952952,
+        "distance": 0.4387226421780284
+      }
+    },
+    {
+      "store_id": "Lakshmi Pharma",
+      "store_name": "Lakshmi Pharma",
+      "distance_km": 1.504224205311288,
+      "latitude": 12.900447828509314,
+      "longitude": 77.5096368705969,
+      "counts": {
+        "available": 1,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "paracetamol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Paracetamol",
+            "medicine_name": "Paracetamol",
+            "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+            "price": 28.05,
+            "availability": true
+          },
+          "price_used": 28.05
+        }
+      ],
+      "total_price": 28.05,
+      "total_requested": 1,
+      "composite_score": 0.7890769430830455,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.5167126119917298,
+        "distance": 0.39932526723408734
+      }
+    },
+    {
+      "store_id": "Be Well Drugs",
+      "store_name": "Be Well Drugs",
+      "distance_km": 1.8314149802283102,
+      "latitude": 12.909722477406175,
+      "longitude": 77.50923833723208,
+      "counts": {
+        "available": 1,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "paracetamol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Paracetamol",
+            "medicine_name": "Paracetamol",
+            "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+            "price": 30.24,
+            "availability": true
+          },
+          "price_used": 30.24
+        }
+      ],
+      "total_price": 30.24,
+      "total_requested": 1,
+      "composite_score": 0.7774582009866324,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.4979246222812553,
+        "distance": 0.3531803027754573
+      }
+    },
+    {
+      "store_id": "Apollo Pharmacy Kenchenahalli Road, RR Nagar",
+      "store_name": "Apollo Pharmacy Kenchenahalli Road, RR Nagar",
+      "distance_km": 2.289084805600223,
+      "latitude": 12.910958998147274,
+      "longitude": 77.51350306462756,
+      "counts": {
+        "available": 1,
+        "alternatives": 0,
+        "missing": 0
+      },
+      "items": [
+        {
+          "requested": {
+            "name": "paracetamol",
+            "id": null
+          },
+          "status": "available",
+          "matched_item": {
+            "medicine_id": "Paracetamol",
+            "medicine_name": "Paracetamol",
+            "medicine_desc": "Commonly used to treat fever and mild to moderate pain.",
+            "price": 29.99,
+            "availability": true
+          },
+          "price_used": 29.99
+        }
+      ],
+      "total_price": 29.99,
+      "total_requested": 1,
+      "composite_score": 0.7706053914282173,
+      "score_breakdown": {
+        "availability": 1.0,
+        "price": 0.5,
+        "distance": 0.30403594285478164
+      }
+    }
+  ]
+}

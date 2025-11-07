@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Betaloc",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Betaloc",
+  "timestamp": 1762482146.3551302,
+  "products": [
+    {
+      "index": 1,
+      "name": "Betaloc 25 mg Tablet 20's",
+      "price": "₹76",
+      "price_value": 76.0,
+      "link": "https://www.apollopharmacy.in/medicine/betaloc-25-mg-tablet-20-s?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Betaloc 50 mg Tablet 20's",
+      "price": "₹116",
+      "price_value": 116.0,
+      "link": "https://www.apollopharmacy.in/medicine/betaloc-50-mg-tablet-20-s?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Metolar 25 Tablet 15's",
+      "price": "₹42.50",
+      "price_value": 42.5,
+      "link": "https://www.apollopharmacy.in/medicine/metolar-25mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Betaloc 100 Tablet 10's",
+      "price": "₹116",
+      "price_value": 116.0,
+      "link": "https://www.apollopharmacy.in/medicine/betaloc-100mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Betaloc 25 mg Tablet 30's",
+      "price": "₹122",
+      "price_value": 122.0,
+      "link": "https://www.apollopharmacy.in/medicine/betaloc-25mg-tablet?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 3,
+    "name": "Metolar 25 Tablet 15's",
+    "price": "₹42.50",
+    "price_value": 42.5,
+    "link": "https://www.apollopharmacy.in/medicine/metolar-25mg-tablet?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Betaloc 25 mg Tablet 20's",
+      "price": "₹76",
+      "price_value": 76.0,
+      "link": "https://www.apollopharmacy.in/medicine/betaloc-25-mg-tablet-20-s?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Betaloc 50 mg Tablet 20's",
+      "price": "₹116",
+      "price_value": 116.0,
+      "link": "https://www.apollopharmacy.in/medicine/betaloc-50-mg-tablet-20-s?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Betaloc 100 Tablet 10's",
+      "price": "₹116",
+      "price_value": 116.0,
+      "link": "https://www.apollopharmacy.in/medicine/betaloc-100mg-tablet?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Betaloc 25 mg Tablet 30's",
+      "price": "₹122",
+      "price_value": 122.0,
+      "link": "https://www.apollopharmacy.in/medicine/betaloc-25mg-tablet?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

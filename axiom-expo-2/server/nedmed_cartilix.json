@@ -1,0 +1,101 @@
+{
+  "medicine_query": "Cartilix",
+  "search_url": "https://www.netmeds.com/products?q=Cartilix",
+  "timestamp": 1762477900.7623081,
+  "products": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div0 not found"
+    },
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div1 not found"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div2 not found"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div3 not found"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div4 not found"
+    }
+  ],
+  "best_choice": null,
+  "alternatives": [
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div1 not found"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div2 not found"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div3 not found"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div4 not found"
+    }
+  ],
+  "error": "No priced products found."
+}

@@ -1,0 +1,100 @@
+{
+  "medicine_query": "Augmentin",
+  "search_url": "https://www.netmeds.com/products?q=Augmentin",
+  "timestamp": 1762488807.7951846,
+  "products": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Augmentin 625 DUO Tablet 10'S",
+      "price": "Best price ₹154.75",
+      "price_value": 154.75,
+      "raw_text": "Augmentin 625 DUO Tablet 10'S\nStrip of 10 tablets\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹154.75\nBacterial Infections",
+      "link": "https://www.netmeds.com/product/augmentin-625-duo-tablet-10s-lui7t5-8350103"
+    },
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "Augmentin Duo Oral Suspension 30ml",
+      "price": "Best price ₹50.15",
+      "price_value": 50.15,
+      "raw_text": "Augmentin Duo Oral Suspension 30ml\nPet bottle of 30 ml syrup\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹50.15\nBacterial Infections",
+      "link": "https://www.netmeds.com/product/augmentin-duo-oral-suspension-30ml-lui7b5-8340777"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "Augmentin 1000 Duo Tablet 10'S",
+      "price": "Best price ₹491.13",
+      "price_value": 491.13,
+      "raw_text": "Augmentin 1000 Duo Tablet 10'S\nStrip of 10 tablets\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹491.13\nBacterial Infections",
+      "link": "https://www.netmeds.com/product/augmentin-1000-duo-tablet-10s-luftru-7501673"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "Augmentin 375mg Tablet 10'S",
+      "price": "Best price ₹187.00",
+      "price_value": 187.0,
+      "raw_text": "Augmentin 375mg Tablet 10'S\nStrip of 10 tablets\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹187.00\nBacterial Infections",
+      "link": "https://www.netmeds.com/product/augmentin-375mg-tablet-10s-lui74u-8337547"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "Augmentin 1.2Gm Injection 1's",
+      "price": "Best price ₹116.96",
+      "price_value": 116.96,
+      "raw_text": "Augmentin 1.2Gm Injection 1's\nVial of 2 ml injection\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹116.96\nBacterial Infections",
+      "link": "https://www.netmeds.com/product/augmentin-12gm-injection-1s-lui7r3-8349150"
+    }
+  ],
+  "best_choice": {
+    "index": 1,
+    "label": "Alternate Medicine 1",
+    "name": "Augmentin Duo Oral Suspension 30ml",
+    "price": "Best price ₹50.15",
+    "price_value": 50.15,
+    "raw_text": "Augmentin Duo Oral Suspension 30ml\nPet bottle of 30 ml syrup\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹50.15\nBacterial Infections",
+    "link": "https://www.netmeds.com/product/augmentin-duo-oral-suspension-30ml-lui7b5-8340777"
+  },
+  "alternatives": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Augmentin 625 DUO Tablet 10'S",
+      "price": "Best price ₹154.75",
+      "price_value": 154.75,
+      "raw_text": "Augmentin 625 DUO Tablet 10'S\nStrip of 10 tablets\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹154.75\nBacterial Infections",
+      "link": "https://www.netmeds.com/product/augmentin-625-duo-tablet-10s-lui7t5-8350103"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "Augmentin 1000 Duo Tablet 10'S",
+      "price": "Best price ₹491.13",
+      "price_value": 491.13,
+      "raw_text": "Augmentin 1000 Duo Tablet 10'S\nStrip of 10 tablets\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹491.13\nBacterial Infections",
+      "link": "https://www.netmeds.com/product/augmentin-1000-duo-tablet-10s-luftru-7501673"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "Augmentin 375mg Tablet 10'S",
+      "price": "Best price ₹187.00",
+      "price_value": 187.0,
+      "raw_text": "Augmentin 375mg Tablet 10'S\nStrip of 10 tablets\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹187.00\nBacterial Infections",
+      "link": "https://www.netmeds.com/product/augmentin-375mg-tablet-10s-lui74u-8337547"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "Augmentin 1.2Gm Injection 1's",
+      "price": "Best price ₹116.96",
+      "price_value": 116.96,
+      "raw_text": "Augmentin 1.2Gm Injection 1's\nVial of 2 ml injection\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹116.96\nBacterial Infections",
+      "link": "https://www.netmeds.com/product/augmentin-12gm-injection-1s-lui7r3-8349150"
+    }
+  ],
+  "error": null
+}

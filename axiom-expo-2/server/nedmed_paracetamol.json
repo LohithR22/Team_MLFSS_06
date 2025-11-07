@@ -1,0 +1,100 @@
+{
+  "medicine_query": "paracetamol",
+  "search_url": "https://www.netmeds.com/products?q=paracetamol",
+  "timestamp": 1762481791.0463548,
+  "products": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Dolo 500mg Tablet 15'S",
+      "price": "Best price ₹9.98",
+      "price_value": 9.98,
+      "raw_text": "Dolo 500mg Tablet 15'S\nStrip of 15 tablets\nBy Micro Labs Ltd\nBest price ₹9.98",
+      "link": "https://www.netmeds.com/product/dolo-500mg-tablet-15s-lui7mb-8346671"
+    },
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "Paracip 500mg Tablet 10'S",
+      "price": "Best price ₹8.00",
+      "price_value": 8.0,
+      "raw_text": "Paracip 500mg Tablet 10'S\nStrip of 10 tablets\nBy Cipla Ltd\nBest price ₹8.00",
+      "link": "https://www.netmeds.com/product/paracip-500mg-tablet-10s-lui1z1-8232799"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "Crocin 650mg Tablet 15'S",
+      "price": "Best price ₹27.18",
+      "price_value": 27.18,
+      "raw_text": "Crocin 650mg Tablet 15'S\nStrip of 15 tablets\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹27.18",
+      "link": "https://www.netmeds.com/product/crocin-650mg-tablet-15s-lui5um-8314015"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "P 650 Tablet 10'S",
+      "price": "Best price ₹16.96",
+      "price_value": 16.96,
+      "raw_text": "P 650 Tablet 10'S\nStrip of 10 tablets\nBy Apex Laboratories Pvt Ltd\nBest price ₹16.96",
+      "link": "https://www.netmeds.com/product/p-650-tablet-10s-lui7t8-8358924"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "Pacimol 500mg Tablet 15'S",
+      "price": "Best price ₹11.11",
+      "price_value": 11.11,
+      "raw_text": "Pacimol 500mg Tablet 15'S\nStrip of 15 tablets\nBy Ipca Laboratories Ltd\nBest price ₹11.11",
+      "link": "https://www.netmeds.com/product/pacimol-500mg-tablet-15s-lui6jm-8326631"
+    }
+  ],
+  "best_choice": {
+    "index": 1,
+    "label": "Alternate Medicine 1",
+    "name": "Paracip 500mg Tablet 10'S",
+    "price": "Best price ₹8.00",
+    "price_value": 8.0,
+    "raw_text": "Paracip 500mg Tablet 10'S\nStrip of 10 tablets\nBy Cipla Ltd\nBest price ₹8.00",
+    "link": "https://www.netmeds.com/product/paracip-500mg-tablet-10s-lui1z1-8232799"
+  },
+  "alternatives": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Dolo 500mg Tablet 15'S",
+      "price": "Best price ₹9.98",
+      "price_value": 9.98,
+      "raw_text": "Dolo 500mg Tablet 15'S\nStrip of 15 tablets\nBy Micro Labs Ltd\nBest price ₹9.98",
+      "link": "https://www.netmeds.com/product/dolo-500mg-tablet-15s-lui7mb-8346671"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "Crocin 650mg Tablet 15'S",
+      "price": "Best price ₹27.18",
+      "price_value": 27.18,
+      "raw_text": "Crocin 650mg Tablet 15'S\nStrip of 15 tablets\nBy Glaxosmithkline Pharmaceuticals Ltd\nBest price ₹27.18",
+      "link": "https://www.netmeds.com/product/crocin-650mg-tablet-15s-lui5um-8314015"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "P 650 Tablet 10'S",
+      "price": "Best price ₹16.96",
+      "price_value": 16.96,
+      "raw_text": "P 650 Tablet 10'S\nStrip of 10 tablets\nBy Apex Laboratories Pvt Ltd\nBest price ₹16.96",
+      "link": "https://www.netmeds.com/product/p-650-tablet-10s-lui7t8-8358924"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "Pacimol 500mg Tablet 15'S",
+      "price": "Best price ₹11.11",
+      "price_value": 11.11,
+      "raw_text": "Pacimol 500mg Tablet 15'S\nStrip of 15 tablets\nBy Ipca Laboratories Ltd\nBest price ₹11.11",
+      "link": "https://www.netmeds.com/product/pacimol-500mg-tablet-15s-lui6jm-8326631"
+    }
+  ],
+  "error": null
+}

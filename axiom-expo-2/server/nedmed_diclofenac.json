@@ -1,0 +1,100 @@
+{
+  "medicine_query": "Diclofenac",
+  "search_url": "https://www.netmeds.com/products?q=Diclofenac",
+  "timestamp": 1762477859.6528358,
+  "products": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Omnigel Gel(Topical) 75gm",
+      "price": "₹183.42",
+      "price_value": 183.42,
+      "raw_text": "Omnigel Gel(Topical) 75gm\nBy Omnigel\n₹183.42\nOut of Stock\n75 gm\nView Similar",
+      "link": "https://www.netmeds.com/product/omnigel-geltopical-75gm-lui3ef-8278464"
+    },
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "Volini Gel 75gm",
+      "price": "₹212.00",
+      "price_value": 212.0,
+      "raw_text": "Volini Gel 75gm\nBy Volini\n₹212.00\nOut of Stock\n75 gm\nView Similar",
+      "link": "https://www.netmeds.com/product/volini-gel-75gm-lui28c-8238531"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "Reactin Plus Tablet 10'S",
+      "price": "₹15.63",
+      "price_value": 15.63,
+      "raw_text": "Reactin Plus Tablet 10'S\nStrip of 10 tablets\nBy Cipla Ltd\n₹15.63\nOut of Stock\nPain relief\nView Alternate",
+      "link": "https://www.netmeds.com/product/reactin-plus-tablet-10s-lui1pk-8227147"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "Voveran D Tablet 10'S",
+      "price": "₹19.13",
+      "price_value": 19.13,
+      "raw_text": "Voveran D Tablet 10'S\nStrip of 10 tablets\nBy Dr. Reddy's Laboratories Ltd\n₹19.13\nOut of Stock\nPain relief\nView Alternate",
+      "link": "https://www.netmeds.com/product/voveran-d-tablet-10s-luh9hd-7959299"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "Omnigel Spray 75gm",
+      "price": "₹177.39",
+      "price_value": 177.39,
+      "raw_text": "Omnigel Spray 75gm\nBy Omnigel\n₹177.39\nOut of Stock\n75 gm\nView Similar",
+      "link": "https://www.netmeds.com/product/omnigel-spray-75gm-lui7wo-8351950"
+    }
+  ],
+  "best_choice": {
+    "index": 2,
+    "label": "Alternate Medicine 2",
+    "name": "Reactin Plus Tablet 10'S",
+    "price": "₹15.63",
+    "price_value": 15.63,
+    "raw_text": "Reactin Plus Tablet 10'S\nStrip of 10 tablets\nBy Cipla Ltd\n₹15.63\nOut of Stock\nPain relief\nView Alternate",
+    "link": "https://www.netmeds.com/product/reactin-plus-tablet-10s-lui1pk-8227147"
+  },
+  "alternatives": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Omnigel Gel(Topical) 75gm",
+      "price": "₹183.42",
+      "price_value": 183.42,
+      "raw_text": "Omnigel Gel(Topical) 75gm\nBy Omnigel\n₹183.42\nOut of Stock\n75 gm\nView Similar",
+      "link": "https://www.netmeds.com/product/omnigel-geltopical-75gm-lui3ef-8278464"
+    },
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "Volini Gel 75gm",
+      "price": "₹212.00",
+      "price_value": 212.0,
+      "raw_text": "Volini Gel 75gm\nBy Volini\n₹212.00\nOut of Stock\n75 gm\nView Similar",
+      "link": "https://www.netmeds.com/product/volini-gel-75gm-lui28c-8238531"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "Voveran D Tablet 10'S",
+      "price": "₹19.13",
+      "price_value": 19.13,
+      "raw_text": "Voveran D Tablet 10'S\nStrip of 10 tablets\nBy Dr. Reddy's Laboratories Ltd\n₹19.13\nOut of Stock\nPain relief\nView Alternate",
+      "link": "https://www.netmeds.com/product/voveran-d-tablet-10s-luh9hd-7959299"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "Omnigel Spray 75gm",
+      "price": "₹177.39",
+      "price_value": 177.39,
+      "raw_text": "Omnigel Spray 75gm\nBy Omnigel\n₹177.39\nOut of Stock\n75 gm\nView Similar",
+      "link": "https://www.netmeds.com/product/omnigel-spray-75gm-lui7wo-8351950"
+    }
+  ],
+  "error": null
+}

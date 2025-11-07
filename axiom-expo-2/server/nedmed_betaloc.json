@@ -1,0 +1,102 @@
+{
+  "medicine_query": "Betaloc",
+  "search_url": "https://www.netmeds.com/products?q=Betaloc",
+  "timestamp": 1762482157.3180132,
+  "products": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Betaloc 100mg Tablet 10'S",
+      "price": "Best price ₹92.07",
+      "price_value": 92.07,
+      "raw_text": "Betaloc 100mg Tablet 10'S\nStrip of 10 tablets\nBy Astrazeneca Pharma India Ltd\nBest price ₹92.07",
+      "link": "https://www.netmeds.com/product/betaloc-100mg-tablet-10s-lui58t-8301988"
+    },
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "Betaloc 50mg Tablet 30'S",
+      "price": "Best price ₹138.10",
+      "price_value": 138.1,
+      "raw_text": "Betaloc 50mg Tablet 30'S\nStrip of 30 tablets\nBy Astrazeneca Pharma India Ltd\nBest price ₹138.10",
+      "link": "https://www.netmeds.com/product/betaloc-50mg-tablet-30s-lui5tg-8314797"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "BETALOC 25mg Tablet 20's",
+      "price": "Best price ₹63.03",
+      "price_value": 63.03,
+      "raw_text": "BETALOC 25mg Tablet 20's\nStrip of 20 tablets\nBy Astrazeneca Pharma India Ltd\nBest price ₹63.03",
+      "link": "https://www.netmeds.com/product/betaloc-25mg-tablet-20s-me0zb2-11643056"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "Betaloc 25mg Tablet 30'S",
+      "price": "₹100.65",
+      "price_value": 100.65,
+      "raw_text": "Betaloc 25mg Tablet 30'S\nStrip of 30 tablets\nBy Astrazeneca Pharma India Ltd\n₹100.65\nOut of Stock\nView Alternate",
+      "link": "https://www.netmeds.com/product/betaloc-25mg-tablet-30s-lui73f-8336872"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div4 not found"
+    }
+  ],
+  "best_choice": {
+    "index": 2,
+    "label": "Alternate Medicine 2",
+    "name": "BETALOC 25mg Tablet 20's",
+    "price": "Best price ₹63.03",
+    "price_value": 63.03,
+    "raw_text": "BETALOC 25mg Tablet 20's\nStrip of 20 tablets\nBy Astrazeneca Pharma India Ltd\nBest price ₹63.03",
+    "link": "https://www.netmeds.com/product/betaloc-25mg-tablet-20s-me0zb2-11643056"
+  },
+  "alternatives": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Betaloc 100mg Tablet 10'S",
+      "price": "Best price ₹92.07",
+      "price_value": 92.07,
+      "raw_text": "Betaloc 100mg Tablet 10'S\nStrip of 10 tablets\nBy Astrazeneca Pharma India Ltd\nBest price ₹92.07",
+      "link": "https://www.netmeds.com/product/betaloc-100mg-tablet-10s-lui58t-8301988"
+    },
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "Betaloc 50mg Tablet 30'S",
+      "price": "Best price ₹138.10",
+      "price_value": 138.1,
+      "raw_text": "Betaloc 50mg Tablet 30'S\nStrip of 30 tablets\nBy Astrazeneca Pharma India Ltd\nBest price ₹138.10",
+      "link": "https://www.netmeds.com/product/betaloc-50mg-tablet-30s-lui5tg-8314797"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "Betaloc 25mg Tablet 30'S",
+      "price": "₹100.65",
+      "price_value": 100.65,
+      "raw_text": "Betaloc 25mg Tablet 30'S\nStrip of 30 tablets\nBy Astrazeneca Pharma India Ltd\n₹100.65\nOut of Stock\nView Alternate",
+      "link": "https://www.netmeds.com/product/betaloc-25mg-tablet-30s-lui73f-8336872"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "N/A",
+      "price": "N/A",
+      "price_value": Infinity,
+      "raw_text": "",
+      "link": "N/A",
+      "error": "Product block intersection-observer-div4 not found"
+    }
+  ],
+  "error": null
+}

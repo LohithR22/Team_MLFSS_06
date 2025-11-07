@@ -1,0 +1,80 @@
+{
+  "medicine_query": "Omeprozole",
+  "search_url": "https://www.apollopharmacy.in/search-medicines/Omeprozole",
+  "timestamp": 1762477114.8741565,
+  "products": [
+    {
+      "index": 1,
+      "name": "Omez Capsule 20's",
+      "price": "₹61",
+      "price_value": 61.0,
+      "link": "https://www.apollopharmacy.in/medicine/omez-20mg-capsule?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Ocid 20 mg Capsule 20's",
+      "price": "₹61",
+      "price_value": 61.0,
+      "link": "https://www.apollopharmacy.in/medicine/ocid-20mg-capsule-20-s?doNotTrack=true"
+    },
+    {
+      "index": 3,
+      "name": "Omee Capsule 20's",
+      "price": "₹48",
+      "price_value": 48.0,
+      "link": "https://www.apollopharmacy.in/medicine/omee-20mg-capsule-20-s?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Omee-D Capsule 20's",
+      "price": "₹154.50",
+      "price_value": 154.5,
+      "link": "https://www.apollopharmacy.in/medicine/omee-d-capsule-20-s?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Omez-40 Tablet 10's",
+      "price": "₹90",
+      "price_value": 90.0,
+      "link": "https://www.apollopharmacy.in/medicine/omez-40mg-tablet?doNotTrack=true"
+    }
+  ],
+  "best_choice": {
+    "index": 3,
+    "name": "Omee Capsule 20's",
+    "price": "₹48",
+    "price_value": 48.0,
+    "link": "https://www.apollopharmacy.in/medicine/omee-20mg-capsule-20-s?doNotTrack=true"
+  },
+  "alternatives": [
+    {
+      "index": 1,
+      "name": "Omez Capsule 20's",
+      "price": "₹61",
+      "price_value": 61.0,
+      "link": "https://www.apollopharmacy.in/medicine/omez-20mg-capsule?doNotTrack=true"
+    },
+    {
+      "index": 2,
+      "name": "Ocid 20 mg Capsule 20's",
+      "price": "₹61",
+      "price_value": 61.0,
+      "link": "https://www.apollopharmacy.in/medicine/ocid-20mg-capsule-20-s?doNotTrack=true"
+    },
+    {
+      "index": 4,
+      "name": "Omee-D Capsule 20's",
+      "price": "₹154.50",
+      "price_value": 154.5,
+      "link": "https://www.apollopharmacy.in/medicine/omee-d-capsule-20-s?doNotTrack=true"
+    },
+    {
+      "index": 5,
+      "name": "Omez-40 Tablet 10's",
+      "price": "₹90",
+      "price_value": 90.0,
+      "link": "https://www.apollopharmacy.in/medicine/omez-40mg-tablet?doNotTrack=true"
+    }
+  ],
+  "error": null
+}

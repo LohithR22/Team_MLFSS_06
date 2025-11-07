@@ -1,0 +1,100 @@
+{
+  "medicine_query": "Omeprozole",
+  "search_url": "https://www.netmeds.com/products?q=Omeprozole",
+  "timestamp": 1762477116.3798256,
+  "products": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Omez 20mg Capsule 20'S",
+      "price": "Best price ₹48.49",
+      "price_value": 48.49,
+      "raw_text": "Omez 20mg Capsule 20'S\nStrip of 20 capsules\nBy Dr. Reddy's Laboratories Ltd\nBest price ₹48.49",
+      "link": "https://www.netmeds.com/product/omez-20mg-capsule-20s-lui7z2-8353180"
+    },
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "Omefol 20mg Capsule 15'S",
+      "price": "N/A",
+      "price_value": 15.0,
+      "raw_text": "Omefol 20mg Capsule 15'S\nStrip of 15 capsules\nBy Leeford Healthcare Ltd (Generics)",
+      "link": "https://www.netmeds.com/product/omefol-20mg-capsule-15s-lui1q6-8228150"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "OCID 20mg Capsule 20's",
+      "price": "Best price ₹48.55",
+      "price_value": 48.55,
+      "raw_text": "OCID 20mg Capsule 20's\nStrip of 20 capsules\nBy Zydus Healthcare Ltd\nBest price ₹48.55",
+      "link": "https://www.netmeds.com/product/ocid-20mg-capsule-20s-lui3ul-8270955"
+    },
+    {
+      "index": 3,
+      "label": "Alternate Medicine 3",
+      "name": "Omez Insta 20mg Mint Flavour Powder 5.9Gm",
+      "price": "Best price ₹12.81",
+      "price_value": 12.81,
+      "raw_text": "Omez Insta 20mg Mint Flavour Powder 5.9Gm\nSachet of 5.9 gm powder\nBy Dr. Reddy's Laboratories Ltd\nBest price ₹12.81",
+      "link": "https://www.netmeds.com/product/omez-insta-20mg-mint-flavour-powder-59gm-lui7np-8347273"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "Omez 40mg Tablet 10'S",
+      "price": "Best price ₹71.45",
+      "price_value": 71.45,
+      "raw_text": "Omez 40mg Tablet 10'S\nStrip of 10 tablets\nBy Dr. Reddy's Laboratories Ltd\nBest price ₹71.45",
+      "link": "https://www.netmeds.com/product/omez-40mg-tablet-10s-lui57v-8299515"
+    }
+  ],
+  "best_choice": {
+    "index": 3,
+    "label": "Alternate Medicine 3",
+    "name": "Omez Insta 20mg Mint Flavour Powder 5.9Gm",
+    "price": "Best price ₹12.81",
+    "price_value": 12.81,
+    "raw_text": "Omez Insta 20mg Mint Flavour Powder 5.9Gm\nSachet of 5.9 gm powder\nBy Dr. Reddy's Laboratories Ltd\nBest price ₹12.81",
+    "link": "https://www.netmeds.com/product/omez-insta-20mg-mint-flavour-powder-59gm-lui7np-8347273"
+  },
+  "alternatives": [
+    {
+      "index": 0,
+      "label": "Best Choice",
+      "name": "Omez 20mg Capsule 20'S",
+      "price": "Best price ₹48.49",
+      "price_value": 48.49,
+      "raw_text": "Omez 20mg Capsule 20'S\nStrip of 20 capsules\nBy Dr. Reddy's Laboratories Ltd\nBest price ₹48.49",
+      "link": "https://www.netmeds.com/product/omez-20mg-capsule-20s-lui7z2-8353180"
+    },
+    {
+      "index": 1,
+      "label": "Alternate Medicine 1",
+      "name": "Omefol 20mg Capsule 15'S",
+      "price": "N/A",
+      "price_value": 15.0,
+      "raw_text": "Omefol 20mg Capsule 15'S\nStrip of 15 capsules\nBy Leeford Healthcare Ltd (Generics)",
+      "link": "https://www.netmeds.com/product/omefol-20mg-capsule-15s-lui1q6-8228150"
+    },
+    {
+      "index": 2,
+      "label": "Alternate Medicine 2",
+      "name": "OCID 20mg Capsule 20's",
+      "price": "Best price ₹48.55",
+      "price_value": 48.55,
+      "raw_text": "OCID 20mg Capsule 20's\nStrip of 20 capsules\nBy Zydus Healthcare Ltd\nBest price ₹48.55",
+      "link": "https://www.netmeds.com/product/ocid-20mg-capsule-20s-lui3ul-8270955"
+    },
+    {
+      "index": 4,
+      "label": "Alternate Medicine 4",
+      "name": "Omez 40mg Tablet 10'S",
+      "price": "Best price ₹71.45",
+      "price_value": 71.45,
+      "raw_text": "Omez 40mg Tablet 10'S\nStrip of 10 tablets\nBy Dr. Reddy's Laboratories Ltd\nBest price ₹71.45",
+      "link": "https://www.netmeds.com/product/omez-40mg-tablet-10s-lui57v-8299515"
+    }
+  ],
+  "error": null
+}
